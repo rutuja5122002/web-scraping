@@ -1,0 +1,1981 @@
+name,rating,reviews,company_type,employee_count,company_status,company_age,location
+TCS,3.8,76.1k,IT Services & Consulting,1 Lakh+ Employees,Public,56 years old,Mumbai +347 more
+Accenture,4.0,47.6k,IT Services & Consulting,1 Lakh+ Employees,Public,35 years old,Dublin +180 more
+Cognizant,3.9,42.9k,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30 years old,Teaneck. New Jersey. +172 more
+Wipro,3.8,40.9k,IT Services & Consulting,1 Lakh+ Employees,Public,79 years old,Bangalore/Bengaluru +277 more
+Capgemini,3.8,35.2k,IT Services & Consulting,1 Lakh+ Employees,Public,57 years old,Paris +141 more
+HDFC Bank,4.0,34.3k,Banking,1 Lakh+ Employees,Public,30 years old,Mumbai +1562 more
+ICICI Bank,4.0,34k,Banking,1 Lakh+ Employees,Public,30 years old,Mumbai +1301 more
+Infosys,3.8,33k,IT Services & Consulting,1 Lakh+ Employees,Public,43 years old,Bengaluru/Bangalore +179 more
+HCLTech,3.7,29.7k,IT Services & Consulting,1 Lakh+ Employees,Public,33 years old,Noida +184 more
+Tech Mahindra,3.7,28.2k,IT Services & Consulting,1 Lakh+ Employees,Public,38 years old,Pune +270 more
+Genpact,3.9,26.7k,IT Services & Consulting,1 Lakh+ Employees,Public,27 years old,New York +114 more
+Axis Bank,3.9,22.3k,Banking,50k-1 Lakh Employees,Public,31 years old,Mumbai +1321 more
+Teleperformance,3.8,23.2k,BPO,50k-1 Lakh Employees,Forbes Global 2000,46 years old,Paris +193 more
+Concentrix Corporation,3.9,21.7k,BPO,50k-1 Lakh Employees,Public,41 years old,Fremont +117 more
+Jio,4.0,20.3k,Telecom,50k-1 Lakh Employees,Public,6 years old,Navi Mumbai +1177 more
+Amazon,4.1,21.4k,Internet,1 Lakh+ Employees,Public,30 years old,Seattle +455 more
+IBM,4.1,19.8k,IT Services & Consulting,1 Lakh+ Employees,Public,113 years old,Armonk +148 more
+Reliance Retail,4.0,19.4k,Retail,1 Lakh+ Employees,18 years old,Navi Mumbai +1014 more,
+HDB Financial Services,4.0,18.1k,NBFC,1 Lakh+ Employees,17 years old,Ahmedabad +963 more,
+Larsen & Toubro Limited,4.1,16.4k,Engineering & Construction,10k-50k Employees,Public,86 years old,Mumbai +626 more
+Vodafone Idea,4.2,14.1k,Telecom,5k-10k Employees,Public,6 years old,Mumbai +638 more
+BYJU'S,3.1,15.3k,EdTech,10k-50k Employees,Indian Unicorn,13 years old,Bangalore +307 more
+Kotak Mahindra Bank,3.8,14.2k,Banking,50k-1 Lakh Employees,Public,21 years old,Mumbai +573 more
+Deloitte,3.9,14.5k,Management Consulting,1 Lakh+ Employees,179 years old,London +142 more,
+Reliance Industries,4.1,13.7k,Oil & Gas,1 Lakh+ Employees,Public,47 years old,Navi Mumbai +688 more
+iEnergizer,4.7,15.8k,BPO,10k-50k Employees,24 years old,Noida +31 more,
+Bharti Airtel,4.1,12.1k,Telecom,10k-50k Employees,Public,29 years old,Gurgaon/Gurugram +667 more
+Tata Motors,4.2,10.4k,Automobile,10k-50k Employees,Public,79 years old,Pune +437 more
+WNS,3.5,9.8k,BPO,10k-50k Employees,28 years old,Mumbai +40 more,
+Flipkart,4.1,9.5k,Internet,10k-50k Employees,Public,17 years old,Bangalore +515 more
+IndusInd Bank,3.7,9.2k,Banking,10k-50k Employees,Public,30 years old,Gurgaon/Gurugram +692 more
+Ernst & Young,3.6,9.1k,Management Consulting,50k-1 Lakh Employees,22 years old,London +96 more,
+AU Small Finance Bank,4.4,8.8k,Banking,10k-50k Employees,Fortune India 500,28 years old,Jaipur +410 more
+Mahindra & Mahindra,4.2,8.6k,Automobile,1 Lakh+ Employees,Public,79 years old,Mumbai +482 more
+Infosys BPM,3.8,8.3k,BPO,10k-50k Employees,22 years old,Bangalore/Bengaluru +68 more,
+DXC Technology,3.8,8.5k,IT Services & Consulting,10k-50k Employees,Public,7 years old,Minato +84 more
+IDFC FIRST Bank,4.0,8.5k,Banking,10k-50k Employees,Public,6 years old,Mumbai +586 more
+Conneqt Business Solutions,3.7,7.9k,BPO,10k-50k Employees,22 years old,Mumbai +224 more,
+LTIMindtree,3.6,8.3k,IT Services & Consulting,50k-1 Lakh Employees,Public,27 years old,Bangalore / Bengaluru +53 more
+HDFC Life,4.1,7.7k,Insurance,10k-50k Employees,Public,24 years old,Mumbai +566 more
+Bajaj Finserv,4.1,7.7k,Financial Services,50k-1 Lakh Employees,Public,17 years old,Pune +903 more
+Mphasis,3.5,7.1k,IT Services & Consulting,10k-50k Employees,Public,26 years old,Bangalore/Bengaluru +53 more
+PwC,3.6,7.3k,Management Consulting,10k-50k Employees,Conglomerate,144 years old,London +95 more
+HSBC Group,4.1,6.8k,Banking,10k-50k Employees,Forbes Global 2000,159 years old,Pune +59 more
+Startek,3.3,6.6k,BPO,10k-50k Employees,Public,7 years old,Mumbai +72 more
+Hinduja Global Solutions,4.0,6.5k,IT Services & Consulting,10k-50k Employees,Public,24 years old,Bangalore/Bengaluru +104 more
+Samsung,4.1,6.5k,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55 years old,Seoul +507 more
+Ericsson,4.3,6.4k,Telecom,10k-50k Employees,Forbes Global 2000,148 years old,Stockholm +150 more
+Maruti Suzuki,4.2,6.6k,Automobile,10k-50k Employees,Public,43 years old,New Delhi +385 more
+Shriram Finance,4.1,6.3k,NBFC,50k-1 Lakh Employees,Public,45 years old,Mumbai +968 more
+Asian Paints,4.1,6.5k,Chemicals,5k-10k Employees,Public,82 years old,Mumbai +448 more
+Yes Bank,3.9,6.4k,Banking,10k-50k Employees,Public,20 years old,Mumbai +448 more
+Cipla,4.1,6.1k,Pharma,10k-50k Employees,Public,89 years old,Mumbai +240 more
+Dr. Reddy's,4.2,6k,Pharma,10k-50k Employees,Public,40 years old,Hyderabad/Secunderabad +168 more
+Sutherland Global Services,3.7,6k,IT Services & Consulting,10k-50k Employees,38 years old,Pittsford +57 more,
+Paytm,3.4,6.2k,FinTech,10k-50k Employees,Public,14 years old,Noida +327 more
+Bandhan Bank,3.8,6.2k,Banking,50k-1 Lakh Employees,Public,23 years old,Kolkata +785 more
+UltraTech Cement,4.2,5.9k,Building Material,10k-50k Employees,Public,41 years old,Mumbai +438 more
+EXL Service,3.8,6.1k,Analytics & KPO,10k-50k Employees,25 years old,New York City +46 more,
+NTT DATA,4.0,6k,IT Services & Consulting,10k-50k Employees,36 years old,Chiyoda City +60 more,
+ICICI Prudential Life Insurance,4.1,5.6k,Insurance,10k-50k Employees,Public,24 years old,Mumbai +452 more
+Bajaj Finance,4.1,5.7k,NBFC,10k-50k Employees,37 years old,Pune +774 more,
+Jana Small Finance Bank,3.9,5.5k,Banking,10k-50k Employees,Public,18 years old,Bangalore/Bengaluru +355 more
+Lupin,4.1,5.4k,Pharma,1k-5k Employees,Public,56 years old,Mumbai +171 more
+Indian Army,4.7,4.9k,Defence & Aerospace,1 Lakh+ Employees,Public,129 years old,New Delhi +327 more
+HCL Group,3.8,5.1k,IT Services & Consulting,1 Lakh+ Employees,48 years old,Chennai +74 more,
+Quess,4.0,5.7k,BPO,1k-5k Employees,Public,17 years old,Bangalore +544 more
+Tata Steel,4.2,6.1k,Iron & Steel,1 Lakh+ Employees,Public,117 years old,Mumbai +182 more
+L&T Infotech,3.8,5.2k,IT Services & Consulting,10k-50k Employees,Public,28 years old,Mumbai +84 more
+Wells Fargo,4.0,5.4k,Financial Services,10k-50k Employees,Public,172 years old,San Francisco +21 more
+Zydus Lifesciences,4.2,5.4k,Pharma,10k-50k Employees,Public,72 years old,Ahmedabad +154 more
+Delhivery,4.0,5.3k,Logistics,10k-50k Employees,Fortune India 500,13 years old,Delhi +633 more
+Amazon Development Centre India,4.2,5.4k,Internet,10k-50k Employees,Hyderabad / Secunderabad +85 more,,
+L&T Construction,4.1,5.1k,Engineering & Construction,5k-10k Employees,Public,80 years old,Chennai +361 more
+JPMorgan Chase & Co.,4.1,5.2k,Financial Services,50k-1 Lakh Employees,Public,56 years old,New York +33 more
+Sun Pharmaceutical Industries,4.1,4.8k,Pharma,10k-50k Employees,Public,41 years old,Mumbai +207 more
+Hindustan Unilever,4.3,4.9k,FMCG,10k-50k Employees,Public,152 years old,London +441 more
+FIS,3.9,4.9k,FinTech,10k-50k Employees,56 years old,Jacksonville +43 more,
+ITC,4.0,4.9k,FMCG,10k-50k Employees,Public,114 years old,Kolkata +302 more
+Udaan,4.0,4.8k,1k-5k Employees,Indian Unicorn,8 years old,Bangalore +339 more,
+Hexaware Technologies,3.6,4.9k,IT Services & Consulting,10k-50k Employees,Fortune India 500,34 years old,Mumbai +46 more
+IIFL Finance,4.0,4.8k,NBFC,10k-50k Employees,Public,29 years old,Mumbai +680 more
+JSW Steel,4.0,4.9k,Iron & Steel,10k-50k Employees,Public,42 years old,Mumbai +149 more
+Ujjivan Small Finance Bank,4.1,4.6k,Banking,10k-50k Employees,Public,7 years old,Bangalore/Bengaluru +448 more
+Muthoot Finance,3.6,4.4k,NBFC,10k-50k Employees,Public,85 years old,Kochi/Cochin +647 more
+Max Life Insurance,4.2,4.6k,Insurance,10k-50k Employees,24 years old,Gurgaon/Gurugram +401 more,
+Tata Projects,4.3,4.4k,Engineering & Construction,5k-10k Employees,Public,45 years old,Mumbai +238 more
+Aurobindo Pharma,4.0,4.3k,Pharma,10k-50k Employees,Public,38 years old,Hyderabad/Secunderabad +94 more
+KPMG India,3.6,4.6k,Management Consulting,10k-50k Employees,37 years old,Bangalore / Bengaluru +75 more,
+Shapoorji Pallonji Group,4.2,4.3k,Engineering & Construction,5k-10k Employees,Conglomerate,159 years old,Mumbai +167 more
+Oracle,3.8,4.5k,Software Product,50k-1 Lakh Employees,Public,47 years old,Austin +48 more
+Home Credit Finance,4.1,4.1k,Financial Services,10k-50k Employees,12 years old,Gurugram +116 more,
+eClerx,3.5,4.3k,IT Services & Consulting,10k-50k Employees,Public,24 years old,Mumbai +17 more
+Apollo Hospitals,4.2,4k,Healthcare,10k-50k Employees,Public,41 years old,Chennai +189 more
+Ashok Leyland,4.1,4.1k,Automobile,5k-10k Employees,Public,76 years old,Chennai +219 more
+Omega Healthcare,3.8,4.3k,Healthcare,10k-50k Employees,21 years old,Florida +48 more,
+Siemens,4.2,4.1k,Industrial Automation,5k-10k Employees,Public,177 years old,Munich +130 more
+JLL,4.2,4.1k,Real Estate,10k-50k Employees,Forbes Global 2000,25 years old,Mumbai +70 more
+Megha Engineering & Infrastructures,4.0,4.3k,Engineering & Construction,5k-10k Employees,Conglomerate,35 years old,Hyderabad/Secunderabad +304 more
+Vivo,4.1,3.9k,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15 years old,Gurgaon/Gurugram +375 more
+First Source,3.8,4.1k,BPO,10k-50k Employees,Public,23 years old,Mumbai +55 more
+JustDial,3.6,4.1k,Internet,10k-50k Employees,Public,28 years old,Mumbai +181 more
+Bajaj Allianz Life Insurance,4.1,4.1k,Insurance,10k-50k Employees,23 years old,Pune +504 more,
+Hero MotoCorp,4.2,4k,Automobile,5k-10k Employees,Public,40 years old,Gurgaon/Gurugram +319 more
+OPPO,4.0,3.8k,Consumer Electronics & Appliances,10k-50k Employees,Public,20 years old,Dongguan +359 more
+Mahindra Finance,4.3,3.9k,NBFC,10k-50k Employees,Public,33 years old,Mumbai +633 more
+DMart,4.0,3.9k,Retail,10k-50k Employees,Fortune India 500,22 years old,Mumbai +213 more
+Standard Chartered,3.9,4k,Banking,10k-50k Employees,Fortune India 500,171 years old,London +58 more
+Coforge,3.5,4k,IT Services & Consulting,10k-50k Employees,Public,20 years old,Noida +87 more
+Cyient,3.8,3.9k,IT Services & Consulting,10k-50k Employees,Public,33 years old,Hyderabad/Secunderabad +35 more
+BigBasket,4.0,3.9k,Internet,10k-50k Employees,Indian Unicorn,13 years old,Bangalore +116 more
+ICICI Lombard General Insurance Company,3.8,3.9k,Insurance,10k-50k Employees,Public,23 years old,Mumbai +263 more
+Indiamart Intermesh,3.6,4k,Internet,5k-10k Employees,28 years old,Noida +145 more,
+CGI Group,4.1,3.8k,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,48 years old,Montreal +31 more
+Virtusa Consulting Services,3.9,3.9k,IT Services & Consulting,10k-50k Employees,28 years old,Southborough +39 more,
+Equitas Small Finance Bank,4.4,3.7k,Banking,10k-50k Employees,Fortune India 500,17 years old,Chennai +368 more
+TVS Motor,4.1,3.7k,Automobile,5k-10k Employees,Public,45 years old,Chennai +279 more
+Manappuram Finance,4.0,3.6k,NBFC,10k-50k Employees,Public,75 years old,Thrissur/Trichur +515 more
+Ekart Logistics,4.1,4.2k,Logistics,1k-5k Employees,15 years old,San Francisco +610 more,
+GlobalLogic,3.7,3.8k,IT Services & Consulting,10k-50k Employees,24 years old,San Jose +35 more,
+UST,3.8,3.7k,IT Services & Consulting,10k-50k Employees,23 years old,Aliso Viejo +36 more,
+SBI Cards & Payment Services,3.8,3.6k,Financial Services,1k-5k Employees,26 years old,Gurgaon/Gurugram +351 more,
+Hewlett Packard Enterprise,4.3,3.5k,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9 years old,Houston +90 more
+Atos Syntel,3.6,3.6k,IT Services & Consulting,5k-10k Employees,44 years old,Troy +25 more,
+Bosch Global Software Technologies,4.1,3.6k,Software Product,10k-50k Employees,27 years old,Gerlingen +31 more,
+IQVIA,4.0,3.6k,Clinical Research,10k-50k Employees,Forbes Global 2000,42 years old,Durham +45 more
+Nagarro,4.1,3.7k,IT Services & Consulting,10k-50k Employees,28 years old,Munich +42 more,
+Cholamandalam Investment & Finance,4.1,3.6k,NBFC,10k-50k Employees,Fortune India 500,46 years old,Chennai +650 more
+SMFG India Credit,4.1,3.5k,NBFC,10k-50k Employees,17 years old,Mumbai +489 more,
+Bosch,4.3,3.4k,Auto Components,5k-10k Employees,Public,138 years old,Gerlingen +103 more
+Reliance Communications,4.0,3.3k,Telecom,201-500 Employees,Public,22 years old,Navi Mumbai +426 more
+BNY Mellon,4.0,3.5k,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,Forbes Global 2000,20 years old,New York City +16 more
+L&T Technology Services,3.4,3.7k,IT Services & Consulting,10k-50k Employees,Public,12 years old,Vadodara/Baroda +52 more
+Schneider Electric,4.2,3.5k,Industrial Automation,10k-50k Employees,Forbes Global 2000,25 years old,Paris +117 more
+Hyundai Motor India Limited,4.4,3.4k,Automobile,10k-50k Employees,Fortune India 500,57 years old,Seoul +270 more
+Amdocs,4.0,3.5k,Software Product,10k-50k Employees,Forbes Global 2000,42 years old,Chesterfield +14 more
+Oyo Rooms,3.4,3.3k,Hospitality,1k-5k Employees,Indian Unicorn,11 years old,Gurgaon +116 more
+Swiggy,3.8,3.5k,Internet,5k-10k Employees,Indian Unicorn,10 years old,Bangalore +193 more
+CBRE,4.2,3.4k,Real Estate,10k-50k Employees,Forbes Global 2000,118 years old,Los Angeles +75 more
+State Bank of India,3.8,3.4k,Banking,1 Lakh+ Employees,Fortune India 500,218 years old,Mumbai +498 more
+JBM Group,4.0,3.3k,Auto Components,1k-5k Employees,Public,41 years old,Gurgaon/Gurugram +85 more
+BT Group,4.1,3.3k,Telecom,10k-50k Employees,Forbes Global 2000,178 years old,London +18 more
+SBI Life Insurance Company,3.9,3.3k,Insurance,10k-50k Employees,23 years old,Mumbai +531 more,
+Optum,4.0,3.5k,Healthcare,10k-50k Employees,47 years old,Prairie +32 more,
+Ecom Express,4.0,3.3k,Logistics,10k-50k Employees,12 years old,Gurgaon +635 more,
+Nagarjuna Construction Company,4.2,3.2k,Engineering & Construction,5k-10k Employees,Public,26 years old,Hyderabad/Secunderabad +226 more
+Dell,4.2,3.4k,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40 years old,Round Rock +99 more
+Bajaj Auto,3.9,3.2k,Automobile,5k-10k Employees,Public,79 years old,Pune +262 more
+KEC International,4.1,3.2k,Engineering & Construction,5k-10k Employees,Public,79 years old,Mumbai +263 more
+Future Group,4.3,3k,Retail,10k-50k Employees,Conglomerate,11 years old,Mumbai +201 more
+Piramal Capital Housing Finance,4.2,3.1k,NBFC,1k-5k Employees,4 years old,Mumbai +334 more,
+Aditya Birla Fashion and Retail,4.2,3.1k,Fashion & Textile,10k-50k Employees,Fortune India 500,36 years old,Mumbai +231 more
+Muthoot Fincorp,4.1,3.1k,NBFC,10k-50k Employees,Conglomerate,137 years old,Trivandrum/Thiruvananthapuram +548 more
+Royal Enfield,4.3,3k,Automobile,5k-10k Employees,123 years old,Gurgaon/Gurugram +313 more,
+L&T Finance,4.0,3k,NBFC,10k-50k Employees,Public,30 years old,Mumbai +476 more
+Viatris,4.2,2.8k,Pharma,10k-50k Employees,Forbes Global 2000,4 years old,Canonsburg +69 more
+Tata Communications,4.1,3k,Telecom,5k-10k Employees,Public,38 years old,Mumbai +87 more
+Samvardhana Motherson Group,3.8,2.9k,Auto Components,1k-5k Employees,Public,38 years old,Noida +81 more
+LG Electronics,4.1,3k,Consumer Electronics & Appliances,1k-5k Employees,Public,66 years old,Seoul +250 more
+Intas Pharmaceuticals,4.2,2.9k,Pharma,10k-50k Employees,Fortune India 500,47 years old,Ahmedabad +116 more
+John Deere,4.3,2.9k,Industrial Machinery,5k-10k Employees,Fortune India 500,23 years old,Moline +121 more
+Varun Beverages,4.1,3k,Beverage,5k-10k Employees,Public,29 years old,Gurgaon/Gurugram +288 more
+Kogta Financial India Limited,4.8,3k,NBFC,1k-5k Employees,Public,28 years old,Jaipur +206 more
+Persistent Systems,3.8,3.1k,IT Services & Consulting,10k-50k Employees,Public,34 years old,Pune +33 more
+Godrej & Boyce Manufacturing,3.9,2.9k,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127 years old,Mumbai +132 more
+Randstad,3.9,2.9k,Recruitment,5k-10k Employees,Conglomerate,32 years old,Chennai +266 more
+Thermax Limited,4.2,2.9k,Industrial Machinery,1k-5k Employees,Public,58 years old,Pune +184 more
+Hetero Drugs,3.9,2.7k,Pharma,1k-5k Employees,31 years old,Hyderabad/Secunderabad +47 more,
+Deutsche Bank,4.0,2.9k,Banking,10k-50k Employees,Fortune India 500,154 years old,Frankfurt +38 more
+Macleods Pharmaceuticals,3.8,2.8k,Pharma,10k-50k Employees,Public,38 years old,Mumbai +98 more
+Havells,4.1,2.8k,Electrical Equipment,5k-10k Employees,Public,41 years old,Noida +185 more
+CARS24,3.7,3k,Internet,5k-10k Employees,Indian Unicorn,9 years old,Gurgaon +149 more
+Team Lease,4.0,2.8k,Recruitment,1k-5k Employees,Public,8 years old,Bangalore/Bengaluru +311 more
+Subros,4.0,2.7k,Auto Components,1k-5k Employees,Public,39 years old,Noida +60 more
+Sodexo,4.2,2.7k,Facility Management Services,10k-50k Employees,Forbes Global 2000,16 years old,Issy les Moulineaux +132 more
+Abbott,4.2,2.7k,Pharma,10k-50k Employees,Public,136 years old,Illinois City +172 more
+VE Commercial Vehicles,4.1,2.7k,Automobile,1k-5k Employees,16 years old,Gurgaon/Gurugram +128 more,
+Indian Oil Corporation,4.4,2.7k,Oil & Gas,10k-50k Employees,Fortune India 500,65 years old,Delhi/NCR +261 more
+Whitehat jr,3.5,2.8k,EdTech,5k-10k Employees,Startup,6 years old,Mumbai +51 more
+Ford Motor,4.5,2.6k,Automobile,5k-10k Employees,Public,121 years old,Dearborn +110 more
+Tata Capital,4.1,2.8k,NBFC,5k-10k Employees,Fortune India 500,17 years old,Mumbai +239 more
+Automatic Data Processing (ADP),4.1,2.7k,Software Product,1k-5k Employees,Forbes Global 2000,75 years old,New Jersey +26 more
+Bharat Electronics,4.2,2.7k,Electronics Manufacturing,5k-10k Employees,Fortune India 500,70 years old,Bangalore/Bengaluru +54 more
+Cummins,4.4,2.7k,Industrial Machinery,1k-5k Employees,Fortune India 500,105 years old,Columbus +86 more
+ITC Infotech,3.8,2.9k,IT Services & Consulting,10k-50k Employees,24 years old,Bangalore/Bengaluru +55 more,
+Access Healthcare,4.0,2.8k,IT Services & Consulting,5k-10k Employees,13 years old,Dallas +31 more,
+R1 RCM,3.9,2.8k,Healthcare,5k-10k Employees,17 years old,Murray +32 more,
+American Express,4.2,2.7k,Financial Services,10k-50k Employees,Forbes Global 2000,174 years old,New York City +41 more
+Alembic Pharmaceuticals,4.1,2.6k,Pharma,10k-50k Employees,Public,117 years old,Vadodara/Baroda +155 more
+Pidilite Industries,4.4,2.7k,Chemicals,5k-10k Employees,Public,65 years old,Mumbai +241 more
+Tata AIA Life Insurance,4.1,2.7k,Insurance,10k-50k Employees,23 years old,Mumbai +333 more,
+UnitedHealth,4.1,2.5k,Healthcare,10k-50k Employees,Forbes Global 2000,47 years old,Minnetonka +16 more
+Hindalco Industries,4.3,2.6k,Metals & Mining,10k-50k Employees,Public,66 years old,Mumbai +89 more
+Alkem Laboratories,4.0,2.6k,Pharma,10k-50k Employees,Public,51 years old,Mumbai +165 more
+Aakash Educational Services,3.6,2.7k,EdTech,5k-10k Employees,36 years old,New Delhi +213 more,
+Publicis Sapient,3.6,2.7k,IT Services & Consulting,10k-50k Employees,34 years old,New York +27 more,
+Atos,3.8,2.6k,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27 years old,Vilnius +42 more
+Utkarsh Small Finance Bank,4.0,2.6k,Banking,10k-50k Employees,Public,15 years old,Varanasi +305 more
+DCB Bank,3.8,2.6k,Banking,5k-10k Employees,Fortune India 500,94 years old,Mumbai +306 more
+Hindustan Coca Cola Beverages,4.3,2.5k,Beverage,5k-10k Employees,27 years old,Bangalore +217 more,
+Indian Air Force,4.7,2.5k,Defence & Aerospace,1 Lakh+ Employees,92 years old,New Delhi +117 more,
+Vishal Mega Mart,3.9,2.5k,Retail,10k-50k Employees,16 years old,Gurgaon/Gurugram +321 more,
+Barclays,4.0,2.6k,Banking,10k-50k Employees,Forbes Global 2000,334 years old,London +32 more
+Berger Paints,3.8,2.6k,Chemicals,1k-5k Employees,Public,101 years old,Kolkata +262 more
+Marpu Foundation,4.9,2.8k,Non-Profit,51-200 Employees,8 years old,Hyderabad/Secunderabad +59 more,
+Glenmark Pharmaceuticals,4.0,2.5k,Pharma,10k-50k Employees,Public,47 years old,Mumbai +141 more
+Ipca Laboratories,4.0,2.5k,Pharma,10k-50k Employees,Public,75 years old,Mumbai +131 more
+Jindal Steel and Power,4.0,2.5k,Iron & Steel,5k-10k Employees,Fortune India 500,45 years old,Delhi/NCR +125 more
+Bank of America,4.4,2.6k,Banking,10k-50k Employees,Fortune India 500,26 years old,Charlotte +28 more
+Maersk,4.3,2.4k,Logistics,10k-50k Employees,120 years old,Copenhagen +36 more,
+DTDC Express,3.8,2.4k,Logistics,1k-5k Employees,34 years old,Bangalore/Bengaluru +229 more,
+24/7 Customer,3.5,2.5k,BPO,5k-10k Employees,24 years old,San Jose +27 more,
+Aarti Industries,4.2,2.5k,Agro Chemicals,5k-10k Employees,Public,49 years old,Mumbai +43 more
+ABB Group,4.1,2.4k,Electrical Equipment,1k-5k Employees,Public,36 years old,Zurich +97 more
+Honda Motorcycle & Scooter,4.1,2.4k,Automobile,10k-50k Employees,23 years old,Gurgaon/Gurugram +217 more,
+Wipro Infotech,4.0,2.3k,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79 years old,Bangalore +119 more
+Carelon Global Solutions,4.0,2.6k,IT Services & Consulting,10k-50k Employees,Hyderabad / Secunderabad +14 more,,
+Johnson Controls,3.7,2.5k,Industrial Automation,5k-10k Employees,Public,139 years old,Cork +49 more
+HDFC Ergo General Insurance,4.0,2.5k,Insurance,10k-50k Employees,Public,22 years old,Mumbai +238 more
+NatWest Group,4.1,2.4k,Banking,10k-50k Employees,Forbes Global 2000,Gurgaon / Gurugram +21 more,
+PolicyBazaar,3.4,2.5k,Internet,10k-50k Employees,Public,16 years old,Gurgaon +93 more
+CMS IT Services,3.1,2.4k,IT Services & Consulting,5k-10k Employees,Startup,10 years old,Bangalore +138 more
+Cogent E Services,3.3,2.5k,BPO,10k-50k Employees,Conglomerate,20 years old,Noida +36 more
+MRF Tyres,3.8,2.4k,Auto Components,10k-50k Employees,Public,78 years old,Chennai +162 more
+RBL Bank,3.8,2.4k,Banking,10k-50k Employees,Public,81 years old,Mumbai +227 more
+Reliance Nippon Life Insurance,3.8,2.4k,Insurance,10k-50k Employees,24 years old,Mumbai +436 more,
+Paras Hospital,4.6,2.5k,Healthcare,1k-5k Employees,18 years old,Gurgaon/Gurugram +49 more,
+Reliance Digital,4.2,2.5k,Retail,5k-10k Employees,17 years old,Mumbai +312 more,
+PNB MetLife,3.5,2.4k,Insurance,5k-10k Employees,Conglomerate,23 years old,Mumbai +327 more
+Jubilant Foods Works,3.9,2.4k,Hospitality,10k-50k Employees,Public,29 years old,Noida +199 more
+Escorts Kubota Limited,4.1,2.5k,Automobile,1k-5k Employees,Public,80 years old,Faridabad +137 more
+GeBBS Healthcare Solutions,3.7,2.4k,BPO,5k-10k Employees,19 years old,Culver City +19 more,
+Wipro Consumer Care & Lighting,3.9,2.3k,FMCG,1k-5k Employees,79 years old,Bangalore/Bengaluru +96 more,
+Ceat Tyres,4.1,2.4k,Auto Components,5k-10k Employees,Public,66 years old,Mumbai +116 more
+Kotak Mahindara Life Insurance,3.9,2.4k,Insurance,10k-50k Employees,Public,23 years old,Mumbai +212 more
+Dabur,3.8,2.3k,FMCG,5k-10k Employees,Public,140 years old,Ghaziabad +250 more
+Axis Direct,3.9,2.1k,Financial Services,1k-5k Employees,13 years old,San Mateo +257 more,
+JK Cement,4.2,2.4k,Building Material,1k-5k Employees,Public,49 years old,Nimbahera +248 more
+Conduent,3.6,2.4k,BPO,5k-10k Employees,7 years old,Florham Park +22 more,
+InterGlobe Aviation,3.6,2.4k,Aviation,10k-50k Employees,Fortune India 500,19 years old,Gurgaon/Gurugram +90 more
+Synechron,3.7,2.4k,IT Services & Consulting,10k-50k Employees,23 years old,New York +26 more,
+Shoppers Stop,4.1,2.3k,Retail,5k-10k Employees,Public,33 years old,Mumbai +66 more
+Birlasoft,3.8,2.4k,IT Services & Consulting,10k-50k Employees,Public,29 years old,Pune +35 more
+ACC,4.0,2.3k,Building Material,5k-10k Employees,Public,88 years old,Mumbai +222 more
+Lenskart,3.3,2.4k,Internet,5k-10k Employees,Indian Unicorn,14 years old,Faridabad +171 more
+HARMAN,3.9,2.3k,Consumer Electronics & Appliances,5k-10k Employees,Public,15 years old,Stamford +30 more
+ArcelorMittal Nippon Steel,4.1,2.2k,Iron & Steel,5k-10k Employees,Conglomerate,Surat +71 more,
+Reliance SMSL,4.0,2.3k,BPO,1k-5k Employees,Public,17 years old,Mumbai +489 more
+GATI-KWE,4.0,2.2k,Logistics,1k-5k Employees,12 years old,Hyderabad/Secunderabad +156 more,
+Indiabulls Home Loans,3.9,2.1k,NBFC,5k-10k Employees,Public,19 years old,Gurgaon/Gurugram +190 more
+KPIT Technologies,3.6,2.3k,Software Product,5k-10k Employees,Public,34 years old,Pune +32 more
+PepsiCo,4.2,2.2k,Food Processing,1 Lakh+ Employees,Public,59 years old,Harrison +228 more
+UPL,4.2,2.2k,Agro Chemicals,5k-10k Employees,Public,55 years old,Mumbai +160 more
+S&P Global,4.2,2.2k,Analytics & KPO,10k-50k Employees,Public,164 years old,New York City +24 more
+Torrent Pharmaceuticals,4.0,2.2k,Pharma,10k-50k Employees,Public,53 years old,Ahmedabad +101 more
+Dilip Buildcon,4.1,2.2k,Engineering & Construction,10k-50k Employees,Public,37 years old,Bhopal +193 more
+RSPL Group,4.2,2.3k,FMCG,10k-50k Employees,36 years old,Mumbai +208 more,
+Tech Mahindra Business Services,3.5,2.3k,BPO,5k-10k Employees,Public,21 years old,Mumbai +49 more
+Square Yards,3.8,2.3k,Internet,1k-5k Employees,11 years old,Gurgaon +42 more,
+Titan Company,4.4,2.2k,Retail,5k-10k Employees,Public,40 years old,Bangalore +145 more
+TVS Credit,4.5,2.2k,NBFC,10k-50k Employees,Public,16 years old,Chennai +315 more
+Wipro Enterprises Ltd,3.9,2.1k,IT Services & Consulting,501-1k Employees,79 years old,Bangalore +102 more,
+Tata AIG,4.1,2.2k,Insurance,5k-10k Employees,24 years old,Mumbai +225 more,
+EY Global Delivery Services ( EY GDS),3.7,2.4k,Accounting & Auditing,50k-1 Lakh Employees,22 years old,Bangalore/Bengaluru +38 more,
+IDFC FIRST Bharat,4.6,2.3k,NBFC,10k-50k Employees,8 years old,Tiruchirappalli +307 more,
+Aditya Birla Sun Life Insurance,4.2,2.2k,Insurance,10k-50k Employees,24 years old,Mumbai +373 more,
+Bajaj Electricals,4.1,2k,Consumer Electronics & Appliances,1k-5k Employees,Public,86 years old,Mumbai +199 more
+Alstom Transportation,3.9,2.2k,Urban Transport,5k-10k Employees,Forbes Global 2000,96 years old,Saint-Ouen +67 more
+Statestreet HCL Services,3.3,2.2k,BPO,5k-10k Employees,12 years old,New Delhi +16 more,
+IGT Solutions,3.4,2.2k,BPO,5k-10k Employees,26 years old,Gurgaon/Gurugram +35 more,
+Afcons Infrastructure,4.4,2.1k,Engineering & Construction,5k-10k Employees,65 years old,Mumbai +100 more,
+Apollo Tyres,4.1,2.1k,Auto Components,5k-10k Employees,Public,52 years old,Gurgaon/Gurugram +153 more
+Mankind Pharma,4.1,2.1k,Pharma,10k-50k Employees,Fortune India 500,29 years old,New Delhi +197 more
+Simplex Infrastructures,3.3,1.9k,Engineering & Construction,1k-5k Employees,Public,100 years old,Kolkata +132 more
+Domino's Pizza,4.0,2.1k,Hospitality,1k-5k Employees,Public,64 years old,Ypsilanti +217 more
+Suzlon Group,4.2,2k,Power,5k-10k Employees,Public,29 years old,Pune +107 more
+Capita,3.8,2.1k,IT Services & Consulting,5k-10k Employees,19 years old,Indore +25 more,
+Zensar Technologies,3.8,2.1k,IT Services & Consulting,5k-10k Employees,Public,23 years old,Pune +22 more
+Flex,4.1,2.2k,Logistics,5k-10k Employees,Forbes Global 2000,55 years old,San Jose +39 more
+State Street Corporation,3.8,2.1k,Financial Services,10k-50k Employees,Forbes Global 2000,232 years old,Boston +20 more
+Max Healthcare,4.1,2k,Healthcare,1k-5k Employees,Fortune India 500,23 years old,Delhi/NCR +59 more
+KocharTech,4.1,2.1k,IT Services & Consulting,1k-5k Employees,29 years old,Gurgaon/Gurugram +23 more,
+Huawei Technologies,4.0,2k,Telecom,51-200 Employees,22 years old,Gurgaon/Gurugram +100 more,
+Bajaj Allianz General Insurance,4.0,2.1k,Insurance,5k-10k Employees,Pune +220 more,,
+Tata Technologies,3.8,2.1k,Engineering & Construction,5k-10k Employees,Conglomerate,35 years old,Singapore +40 more
+Croma,4.0,2.1k,Retail,5k-10k Employees,18 years old,Mumbai +148 more,
+I Process Services,3.9,2k,Recruitment,1k-5k Employees,19 years old,Mumbai +308 more,
+McDonald's,4.2,2k,Hospitality,1k-5k Employees,Forbes Global 2000,69 years old,Chicago +138 more
+Taj Hotels Resorts and Palaces,4.2,1.9k,Hospitality,10k-50k Employees,121 years old,Mumbai +94 more,
+Grasim Industries,4.1,2.1k,Building Material,10k-50k Employees,Public,77 years old,Nagda +119 more
+HDFC Sales,4.1,2k,Financial Services,10k-50k Employees,20 years old,Mumbai +281 more,
+Nestle,4.1,2k,Food Processing,5k-10k Employees,Public,65 years old,Vevey +235 more
+ElasticRun,3.4,2.1k,Logistics,1k-5k Employees,Indian Unicorn,8 years old,Pune +348 more
+UNO Minda,4.1,2k,Auto Components,201-500 Employees,Fortune India 500,66 years old,Gurgaon +86 more
+Landmark Group,4.0,2k,Retail,1k-5k Employees,Conglomerate,51 years old,Dubai Marina +141 more
+Walmart,4.0,2.1k,Retail,5k-10k Employees,Forbes Global 2000,15 years old,Bangalore/Bengaluru +80 more
+AGS Health,4.0,2k,BPO,10k-50k Employees,13 years old,Washington DC +39 more,
+Lava International,4.1,1.9k,Consumer Electronics & Appliances,1k-5k Employees,Public,15 years old,Noida +212 more
+Nokia,4.2,2k,Telecom,10k-50k Employees,Forbes Global 2000,159 years old,Espoo +152 more
+Blue Dart Express,4.1,2k,Logistics,10k-50k Employees,Public,41 years old,Mumbai +238 more
+Patanjali Ayurved,4.1,1.9k,FMCG,1k-5k Employees,Fortune India 500,18 years old,Haridwar +259 more
+Tractors and Farm Equipment,4.1,1.9k,Industrial Machinery,10k-50k Employees,Public,64 years old,Chennai +164 more
+G4S,4.0,2k,Law Enforcement & Security,1 Lakh+ Employees,28 years old,Gurgaon/Gurugram +139 more,
+Fortis Healthcare,4.1,1.9k,Healthcare,1k-5k Employees,Public,28 years old,Gurgaon/Gurugram +61 more
+Capgemini Engineering,3.6,2k,10k-50k Employees,Gurgaon / Gurugram +21 more,,,
+Societe Generale Global Solution Centre,3.9,2k,Financial Services,1k-5k Employees,24 years old,Paris +16 more,
+State Street Syntel,3.7,1.9k,Financial Services,501-1k Employees,20 years old,Mumbai +21 more,
+BlackBuck,3.9,2k,Internet,1k-5k Employees,Indian Unicorn,9 years old,Bangalore +322 more
+TVS Supply Chain Solutions,4.0,1.9k,Logistics,1k-5k Employees,128 years old,Chennai +132 more,
+Britannia,4.1,1.9k,FMCG,1k-5k Employees,Public,132 years old,Bengaluru +235 more
+Micro Labs,3.7,1.9k,Pharma,10k-50k Employees,51 years old,Bangalore/Bengaluru +123 more,
+Fiserv,3.6,2k,FinTech,5k-10k Employees,Forbes Global 2000,40 years old,Brookfield +29 more
+KFintech,3.7,1.9k,FinTech,5k-10k Employees,Startup,7 years old,Hyderabad +99 more
+Voltas,4.1,1.9k,Consumer Electronics & Appliances,1k-5k Employees,Public,70 years old,Mumbai +176 more
+Sterlite Technologies,3.8,1.9k,Hardware & Networking,1k-5k Employees,Public,36 years old,Pune +80 more
+Shree Cement,4.0,1.9k,Building Material,5k-10k Employees,Public,45 years old,Kolkata +202 more
+Kyndryl,4.1,2k,IT Services & Consulting,10k-50k Employees,Public,2 years old,New York City +26 more
+Exide Industries,3.6,1.9k,Auto Components,5k-10k Employees,Public,77 years old,Kolkata +187 more
+Ola Cabs,3.5,1.8k,Internet,1k-5k Employees,Indian Unicorn,14 years old,Bangalore +96 more
+Yazaki,3.9,1.9k,Auto Components,10k-50k Employees,83 years old,Tokyo +69 more,
+Radisson Hotels,4.1,1.7k,Hospitality,5k-10k Employees,115 years old,Minnetonka +103 more,
+Dalmia Bharat Cement,4.0,1.8k,Building Material,5k-10k Employees,Public,89 years old,Delhi/NCR +206 more
+Himalaya Wellness,4.2,1.8k,Pharma,5k-10k Employees,94 years old,San Francisco +195 more,
+Quest Global,3.7,1.9k,IT Services & Consulting,10k-50k Employees,27 years old,Singapore +35 more,
+Lifestyle,4.4,1.8k,Retail,10k-50k Employees,Fortune India 500,25 years old,Bangalore/Bengaluru +114 more
+IKS Health,3.6,1.9k,Healthcare,5k-10k Employees,17 years old,Mumbai +16 more,
+Eureka Forbes,3.8,1.8k,Consumer Electronics & Appliances,1k-5k Employees,42 years old,Mumbai +161 more,
+Ajanta Pharma,4.1,1.8k,Pharma,5k-10k Employees,Public,51 years old,Mumbai +97 more
+Blue Star,4.1,1.8k,Consumer Electronics & Appliances,1k-5k Employees,Public,81 years old,Mumbai +135 more
+ACT Fibernet,4.0,1.8k,Telecom,5k-10k Employees,16 years old,Bengaluru/Bangalore +43 more,
+Motilal Oswal Financial Services,3.8,1.9k,Financial Services,10k-50k Employees,Public,37 years old,Mumbai +128 more
+XpressBees,3.8,1.9k,Logistics,5k-10k Employees,Indian Unicorn,9 years old,Pune +240 more
+Aditya Birla Group,4.1,1.8k,Building Material,1 Lakh+ Employees,Conglomerate,167 years old,Mumbai +223 more
+Extramarks Education,3.5,1.8k,EdTech,1k-5k Employees,17 years old,Noida +101 more,
+Sonalika Tractors,3.8,1.7k,Automobile,1k-5k Employees,55 years old,Hoshiarpur +147 more,
+DS Group,4.1,1.8k,FMCG,1k-5k Employees,Conglomerate,95 years old,Noida +209 more
+Nokia Networks,4.3,1.8k,Hardware & Networking,501-1k Employees,Chennai +82 more,,
+Life Insurance Corporation of India,4.4,1.7k,Insurance,1 Lakh+ Employees,Fortune India 500,68 years old,Mumbai +418 more
+Mahindra Rural Housing Finance,4.1,1.8k,NBFC,10k-50k Employees,Public,17 years old,Mumbai +416 more
+Cholamandalam MS General Insurance,3.9,1.8k,Insurance,1k-5k Employees,23 years old,Chennai +325 more,
+Zomato,3.8,1.9k,Internet,1k-5k Employees,Public,16 years old,Gurgaon +184 more
+Mahindra Logistics,4.0,1.8k,Logistics,1k-5k Employees,Public,24 years old,Mumbai +133 more
+Delhi Public School,3.9,1.7k,Education & Training,1k-5k Employees,Public,26 years old,Greater Noida +239 more
+Indus Towers,4.0,1.8k,Telecom,1k-5k Employees,Fortune India 500,17 years old,Gurgaon +161 more
+PVR Cinemas,4.1,1.7k,Media & Entertainment,1k-5k Employees,Public,27 years old,Gurgaon +107 more
+Future Retail,4.3,1.6k,Retail,10k-50k Employees,Public,37 years old,San Francisco +195 more
+JMC Projects,4.2,1.7k,Engineering & Construction,1k-5k Employees,Public,42 years old,Mumbai +118 more
+Ninjacart,4.1,1.8k,Internet,1k-5k Employees,Startup,9 years old,Bangalore +95 more
+Emcure Pharmaceuticals,3.8,1.7k,Pharma,5k-10k Employees,Fortune India 500,43 years old,Pune +97 more
+Rivigo,3.9,1.7k,Internet,1k-5k Employees,Indian Unicorn,10 years old,Gurgaon +151 more
+SRF,4.3,1.8k,Chemicals,5k-10k Employees,Public,54 years old,Gurgaon/Gurugram +48 more
+Myntra,4.0,1.7k,Internet,1k-5k Employees,17 years old,Bangalore +94 more,
+V-Mart,4.2,1.8k,Retail,5k-10k Employees,Public,22 years old,Gurgaon/Gurugram +243 more
+Kalpataru Power Transmission,4.2,1.7k,Engineering & Construction,1k-5k Employees,Public,43 years old,Mumbai +212 more
+Parle Agro,4.2,1.7k,Beverage,5k-10k Employees,40 years old,Mumbai +196 more,
+Datamatics Global Services,3.6,1.7k,IT Services & Consulting,5k-10k Employees,Public,49 years old,Mumbai +28 more
+Movate,3.4,1.7k,IT Services & Consulting,1k-5k Employees,28 years old,Plano +29 more,
+Kansai Nerolac Paints,3.9,1.7k,Chemicals,1k-5k Employees,Public,104 years old,Mumbai +184 more
+Renault-Nissan,4.1,1.6k,Automobile,10k-50k Employees,17 years old,Chennai +77 more,
+Pfizer,4.1,1.7k,Pharma,1k-5k Employees,Public,20 years old,Chennai +114 more
+Tata Teleservices,4.0,1.5k,Telecom,201-500 Employees,Public,28 years old,Mumbai +146 more
+Fujitsu,3.9,1.8k,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,89 years old,Bangalore/Bengaluru +31 more
+Mahindra Holidays & Resorts,3.6,1.7k,Hospitality,5k-10k Employees,28 years old,Mumbai +95 more,
+VVDN Technologies,3.7,1.8k,IT Services & Consulting,5k-10k Employees,17 years old,Gurgaon +33 more,
+Indian Railways,4.2,1.6k,Railways,1 Lakh+ Employees,Central,171 years old,Delhi/NCR +211 more
+MSN Laboratories,3.8,1.7k,Pharma,10k-50k Employees,21 years old,Hyderabad/Secunderabad +71 more,
+3i Infotech,3.6,1.7k,IT Services & Consulting,1k-5k Employees,Public,31 years old,Mumbai +107 more
+BHEL,4.2,1.6k,Electrical Equipment,10k-50k Employees,Fortune India 500,60 years old,Bangalore/Bengaluru +97 more
+KPMG Global Services,3.7,1.8k,Bangalore / Bengaluru +31 more,,,,
+Raymond,4.1,1.6k,Fashion & Textile,5k-10k Employees,Public,99 years old,New York +129 more
+ICICI Securities,3.8,1.7k,Financial Services,1k-5k Employees,Public,29 years old,Mumbai +125 more
+Reliance Trends,4.4,1.6k,Retail,1 Lakh+ Employees,Conglomerate,18 years old,Navi Mumbai +339 more
+Blinkit,3.9,1.7k,Internet,1k-5k Employees,Indian Unicorn,11 years old,Gurgaon +64 more
+Cybage,3.9,1.7k,IT Services & Consulting,5k-10k Employees,29 years old,Pune +10 more,
+Ambuja Cements,4.0,1.6k,Building Material,5k-10k Employees,Public,41 years old,Mumbai +200 more
+JCB,4.0,1.6k,Industrial Machinery,1k-5k Employees,79 years old,Rocester +92 more,
+Cadila Pharmaceuticals,3.6,1.6k,Pharma,5k-10k Employees,Public,73 years old,Ahmedabad +116 more
+suzuki motor gujarat,4.3,1.7k,Fortune India 500,Becharaji +96 more,,,
+Info Edge,4.0,1.7k,Internet,5k-10k Employees,Public,29 years old,Noida +59 more
+Shell,4.2,1.7k,Oil & Gas,10k-50k Employees,Public,117 years old,London +74 more
+GlaxoSmithKline Pharmaceuticals,4.2,1.6k,Pharma,1k-5k Employees,Fortune India 500,194 years old,Brentford +181 more
+Foundever,3.8,1.7k,BPO,5k-10k Employees,Conglomerate,39 years old,Miami +15 more
+Poonawalla Fincorp,3.9,1.5k,NBFC,1k-5k Employees,Public,36 years old,Mumbai +246 more
+ZS,3.5,1.7k,Management Consulting,5k-10k Employees,41 years old,Evanston +12 more,
+PhonePe,4.1,1.7k,FinTech,5k-10k Employees,Indian Unicorn,9 years old,Bangalore +240 more
+Whirlpool,4.1,1.6k,Consumer Electronics & Appliances,1k-5k Employees,Public,113 years old,Michigan +141 more
+Bharat Petroleum,4.2,1.6k,Oil & Gas,5k-10k Employees,Fortune India 500,72 years old,Mumbai +223 more
+Tata Elxsi,4.0,1.7k,IT Services & Consulting,5k-10k Employees,Public,35 years old,Bangalore/Bengaluru +26 more
+Jindal Stainless,4.3,1.6k,Iron & Steel,1k-5k Employees,Public,54 years old,Delhi/NCR +58 more
+Endurance Technologies,3.9,1.6k,Auto Components,1k-5k Employees,Public,39 years old,Aurangabad +38 more
+NoBroker,3.2,1.7k,Internet,1k-5k Employees,Indian Unicorn,10 years old,Bangalore +36 more
+Force Motors,3.6,1.6k,Automobile,1k-5k Employees,Public,66 years old,Pune +86 more
+ITC Hotels,4.2,1.5k,Hospitality,5k-10k Employees,Public,49 years old,Kolkata +76 more
+Fincare Small Finance Bank,4.1,1.6k,Banking,10k-50k Employees,17 years old,Bangalore +364 more,
+Shahi Exports,4.1,1.6k,Retail,1 Lakh+ Employees,50 years old,Faridabad +58 more,
+Syngene International,4.0,1.6k,Pharma,1k-5k Employees,Public,31 years old,Bangalore/Bengaluru +14 more
+GVK Emergency Management and Research Institute,3.7,1.5k,Non-Profit,10k-50k Employees,19 years old,Hyderabad/Secunderabad +148 more,
+Delphi TVS,4.1,1.5k,Auto Components,1k-5k Employees,35 years old,Kanchipuram +38 more,
+Bharti AXA Life Insurance,3.9,1.6k,Insurance,1k-5k Employees,18 years old,Mumbai +219 more,
+Kalyan Jewellers,4.7,1.6k,Jewellery,5k-10k Employees,Fortune India 500,31 years old,Bangalore / Bengaluru +131 more
+Sobha,4.0,1.6k,Real Estate,1k-5k Employees,Public,29 years old,Bangalore/Bengaluru +35 more
+Care Health Insurance,3.7,1.6k,Internet,5k-10k Employees,Public,12 years old,Gurgaon +198 more
+Brakes India,4.0,1.5k,Auto Components,501-1k Employees,Fortune India 500,62 years old,Chennai +74 more
+Lodha group,4.1,1.5k,Real Estate,5k-10k Employees,Fortune India 500,44 years old,Mumbai +23 more
+Aavas Financiers,4.0,1.6k,Financial Services,5k-10k Employees,Public,13 years old,Jaipur +235 more
+HCL Infosystems,4.0,1.4k,IT Services & Consulting,51-200 Employees,Public,48 years old,Noida +104 more
+Citicorp,3.7,1.7k,Financial Services,10k-50k Employees,27 years old,Mumbai +23 more,
+Sterling & Wilson,4.1,1.5k,Engineering & Construction,501-1k Employees,97 years old,Mumbai +101 more,
+Dhani Loans and Services,3.9,1.6k,NBFC,1k-5k Employees,New Delhi +180 more,,
+Bureau Veritas,4.0,1.5k,Other,1k-5k Employees,Forbes Global 2000,196 years old,Paris La Défense +113 more
+CAMS,3.7,1.5k,IT Services & Consulting,5k-10k Employees,36 years old,Chennai +89 more,
+Sopra Steria,4.0,1.6k,IT Services & Consulting,5k-10k Employees,Conglomerate,56 years old,Paris +15 more
+KENT RO Systems,4.1,1.5k,Consumer Electronics & Appliances,1k-5k Employees,25 years old,Noida +140 more,
+Gallagher,3.9,1.6k,Insurance,10k-50k Employees,Forbes Global 2000,97 years old,Rolling Meadows +15 more
+Unacademy,3.3,1.6k,EdTech,1k-5k Employees,Indian Unicorn,9 years old,Bangalore +57 more
+Varroc Group,3.8,1.5k,Auto Components,1k-5k Employees,Public,36 years old,Aurangabad +34 more
+Coromandel International,4.1,1.5k,Agro Chemicals,5k-10k Employees,Public,63 years old,Hyderabad/Secunderabad +141 more
+Future Generali India Life Insurance,3.8,1.5k,Insurance,1k-5k Employees,17 years old,Mumbai +173 more,
+Canara HSBC Life Insurance,3.7,1.5k,Insurance,5k-10k Employees,16 years old,Gurgaon/Gurugram +247 more,
+Allsec Technologies,4.0,1.5k,BPO,1k-5k Employees,Public,24 years old,Chennai +26 more
+Cisco,4.3,1.6k,Hardware & Networking,10k-50k Employees,Public,40 years old,San Jose +37 more
+Tata Motors Finance,4.2,1.5k,NBFC,1k-5k Employees,Conglomerate,67 years old,Mumbai +226 more
+RMSI,3.8,1.5k,IT Services & Consulting,1k-5k Employees,32 years old,Noida +13 more,
+Power Mech Projects,3.9,1.4k,Engineering & Construction,1k-5k Employees,Public,17 years old,Hyderabad/Secunderabad +118 more
+Star Health & Allied Insurance,3.8,1.5k,Insurance,10k-50k Employees,Fortune India 500,18 years old,Chennai +249 more
+café Coffee day,4.0,1.4k,Hospitality,1k-5k Employees,28 years old,Bengaluru +93 more,
+Adani Wilmar,4.2,1.5k,FMCG,1k-5k Employees,Public,25 years old,Ahmedabad +152 more
+IntouchCX,3.0,1.5k,BPO,5k-10k Employees,23 years old,Winnipeg +18 more,
+JK Tyres,3.8,1.4k,Auto Components,1k-5k Employees,Fortune India 500,73 years old,New Delhi +129 more
+Gabriel India,4.2,1.5k,Auto Components,1k-5k Employees,Public,63 years old,Pune +41 more
+KIA MOTORS,3.9,1.5k,Automobile,1k-5k Employees,Forbes Global 2000,80 years old,Seoul +139 more
+Straive,3.5,1.5k,Analytics & KPO,10k-50k Employees,44 years old,Singapore +23 more,
+DBS Bank,3.9,1.5k,Banking,5k-10k Employees,56 years old,Hyderabad/Secunderabad +143 more,
+Lucas-TVS,4.0,1.4k,Auto Components,5k-10k Employees,63 years old,Chennai +61 more,
+Bank of Baroda,3.6,1.5k,Banking,50k-1 Lakh Employees,Fortune India 500,116 years old,Vadodara/Baroda +247 more
+Planet Spark,3.7,1.6k,EdTech,51-200 Employees,Startup,7 years old,Gurgaon +41 more
+Laurus Labs,4.2,1.5k,Pharma,5k-10k Employees,Public,19 years old,Hyderabad/Secunderabad +15 more
+Sify Technologies,4.0,1.4k,IT Services & Consulting,1k-5k Employees,29 years old,Chennai +106 more,
+Hero FinCorp,4.2,1.5k,NBFC,1k-5k Employees,33 years old,Delhi +325 more,
+ValueLabs,3.8,1.5k,IT Services & Consulting,5k-10k Employees,27 years old,Hyderabad/Secunderabad +16 more,
+Hindustan Aeronautics,4.4,1.4k,Defence & Aerospace,10k-50k Employees,Fortune India 500,84 years old,Bangalore/Bengaluru +45 more
+Adani Power,3.9,1.5k,Power,1k-5k Employees,Public,18 years old,Ahmedabad +85 more
+Indian Navy,4.6,1.3k,Defence & Aerospace,50k-1 Lakh Employees,Central,74 years old,Delhi/NCR +56 more
+Parle Products,4.0,1.4k,Food Processing,1k-5k Employees,95 years old,Mumbai +194 more,
+ABC,4.0,1.6k,Broadcasting,1k-5k Employees (Global),Public,81 years old,New York +98 more
+Akums Drugs & Pharmaceuticals Limited,4.3,1.6k,Pharma,10k-50k Employees,Public,20 years old,Delhi/NCR +28 more
+Thomson Reuters,4.2,1.4k,Software Product,5k-10k Employees,Forbes Global 2000,16 years old,Toronto +24 more
+upGrad,3.8,1.5k,EdTech,5k-10k Employees,Indian Unicorn,9 years old,San Francisco +38 more
+ESAF Microfinance & Investments (P),3.9,1.5k,Financial Services,1k-5k Employees,8 years old,Thrissur/Trichur +294 more,
+Taurus BPO Services,4.6,1.4k,BPO,1k-5k Employees,9 years old,Pune +14 more,
+Uflex,3.8,1.4k,Packaging,5k-10k Employees,Public,39 years old,Noida +42 more
+Intellect Design Arena,4.1,1.5k,FinTech,5k-10k Employees,Public,13 years old,Chennai +27 more
+AECOM,4.3,1.4k,Engineering & Construction,1k-5k Employees,34 years old,Dallas +106 more,
+SAP,4.3,1.5k,Software Product,10k-50k Employees,Forbes Global 2000,52 years old,Walldorf +44 more
+TVS Sundram Fasteners,3.8,1.3k,Auto Components,1k-5k Employees,Public,62 years old,Chennai +43 more
+Citibank,3.9,1.4k,Banking,10k-50k Employees (Global),Fortune India 500,212 years old,New York +47 more
+CMA CGM,4.0,1.2k,Ports & Shipping,501-1k Employees,46 years old,Marseille +24 more,
+Cargill,4.2,1.5k,Food Processing,1k-5k Employees,Conglomerate,159 years old,Wayzata +97 more
+Google,4.4,1.6k,Internet,10k-50k Employees,29 years old,Mountain View +77 more,
+Microsoft Corporation,4.1,1.4k,Software Product,10k-50k Employees,Forbes Global 2000,49 years old,Sunnyvale +41 more
+IDBI Bank,3.7,1.4k,Banking,10k-50k Employees,Public,60 years old,Mumbai +276 more
+SGS,4.0,1.4k,Other,1k-5k Employees,Forbes Global 2000,146 years old,Geneva +112 more
+Reliance General Insurance,3.9,1.4k,Insurance,5k-10k Employees,24 years old,Mumbai +170 more,
+Dr Lal PathLabs,4.2,1.4k,Healthcare,1k-5k Employees,Public,75 years old,Gurgaon/Gurugram +155 more
+Honda,4.2,1.4k,Automobile,10k-50k Employees,Forbes Global 2000,39 years old,Greater Noida +197 more
+Novartis,4.1,1.4k,Pharma,1k-5k Employees,28 years old,Switzerland +66 more,
+Optum Global Solutions,4.1,1.5k,IT Services & Consulting,10k-50k Employees,22 years old,Gurgaon / Gurugram +14 more,
+Renault Nissan Technology & Business Centre India,3.9,1.4k,Automobile,5k-10k Employees,17 years old,Chennai +14 more,
+L&T Energy Hydrocarbon,4.0,1.4k,Engineering & Construction,5k-10k Employees,15 years old,Mumbai +70 more,
+TCE,3.8,1.4k,Engineering & Construction,5k-10k Employees,62 years old,Mumbai +101 more,
+Kotak Securities,3.7,1.4k,Financial Services,5k-10k Employees,Conglomerate,30 years old,Mumbai +118 more
+Meesho,3.7,1.4k,Internet,5k-10k Employees,Indian Unicorn,9 years old,Bengaluru/Bangalore +100 more
+Xoriant,3.9,1.4k,IT Services & Consulting,1k-5k Employees,34 years old,Sunnyvale +19 more,
+YASH Technologies,3.8,1.4k,IT Services & Consulting,5k-10k Employees,28 years old,East Moline +21 more,
+Narayana Health,4.2,1.3k,Healthcare,10k-50k Employees,Fortune India 500,24 years old,Bangalore/Bengaluru +57 more
+Honeywell Automation,3.8,1.3k,Consumer Electronics & Appliances,10k-50k Employees,Public,118 years old,Morris Plains +66 more
+AXA Business Services,3.8,1.4k,Insurance,501-1k Employees,78 years old,Paris +9 more,
+Big Bazaar,4.3,1.2k,Retail,10k-50k Employees,Conglomerate,23 years old,Mumbai +151 more
+SBI General Insurance,3.8,1.4k,Insurance,5k-10k Employees,15 years old,Mumbai +212 more,
+Spark Minda,3.9,1.3k,Auto Components,1k-5k Employees,Public,66 years old,Gurgaon +60 more
+BA Continuum,4.3,1.3k,NBFC,1k-5k Employees,21 years old,Gurgaon/Gurugram +15 more,
+Apollo Pharmacy,4.0,1.4k,Pharma,10k-50k Employees,41 years old,Chennai +208 more,
+Vedantu,3.4,1.4k,EdTech,1k-5k Employees,Indian Unicorn,13 years old,Bangalore +53 more
+Wockhardt,3.9,1.3k,Pharma,5k-10k Employees,Public,25 years old,Mumbai +77 more
+MetLife,4.3,1.3k,Insurance,1k-5k Employees,Forbes Global 2000,16 years old,New York +39 more
+Philips,3.9,1.4k,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94 years old,Amsterdam +83 more
+CMS Infosystems,3.7,1.3k,IT Services & Consulting,5k-10k Employees,16 years old,Mumbai +170 more,
+Tata Play,4.0,1.3k,Broadcasting,5k-10k Employees,Public,18 years old,Mumbai +195 more
+Biological E,4.2,1.3k,Biotechnology,1k-5k Employees,71 years old,Hyderabad/Secunderabad +47 more,
+Niva Bupa Health Insurance Company,3.7,1.4k,Insurance,5k-10k Employees,16 years old,Delhi/NCR +191 more,
+NCR Corporation,4.1,1.3k,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140 years old,Atlanta +79 more
+Vardhman Fabrics,4.1,1.3k,Fashion & Textile,10k-50k Employees,Fortune India 500,59 years old,Ludhiana +54 more
+Crisil,3.7,1.4k,Financial Services,1k-5k Employees,Public,37 years old,Mumbai +55 more
+Aragen Life Sciences,4.1,1.3k,Pharma,1k-5k Employees,24 years old,Hyderabad/Secunderabad +19 more,
+Safexpress,4.1,1.3k,Logistics,1k-5k Employees,Conglomerate,27 years old,Delhi/NCR +141 more
+Exl India,3.6,1.3k,IT Services & Consulting,11-50 Employees,67 years old,New Delhi +26 more,
+G R Infraprojects,4.2,1.3k,Engineering & Construction,10k-50k Employees,Public,29 years old,Gurgaon/Gurugram +132 more
+Frankfinn Institute of Air Hostess Training,4.0,1.4k,Education & Training,1k-5k Employees,31 years old,Gurgaon/Gurugram +58 more,
+Innovsource Services,4.0,1.3k,Recruitment,1k-5k Employees,20 years old,Mumbai +200 more,
+Microland,3.6,1.3k,IT Services & Consulting,1k-5k Employees,Public,35 years old,Bangalore +40 more
+Allstate,3.9,1.4k,Insurance,5k-10k Employees,Forbes Global 2000,12 years old,Bangalore/Bengaluru +9 more
+Panasonic Life Solutions India,4.1,1.3k,Consumer Electronics & Appliances,10k-50k Employees,52 years old,Gurgaon / Gurugram +111 more,
+SBI Securities,3.9,1.4k,Financial Services,5k-10k Employees,18 years old,Mumbai +227 more,
+Amazon Transportation Services,4.1,1.3k,Logistics,1k-5k Employees,12 years old,Seattle +132 more,
+R.R. Donnelley,4.0,1.3k,Marketing & Advertising,5k-10k Employees,160 years old,Chicago +12 more,
+Angel One,3.9,1.3k,FinTech,1k-5k Employees,Mumbai +111 more,,
+Metro Cash & Carry,4.2,1.3k,Retail,1k-5k Employees,Forbes Global 2000,21 years old,Bangalore/Bengaluru +78 more
+PHN Technology,4.6,1.3k,Pune +31 more,,,,
+Matrimony.com,4.4,1.4k,Internet,1k-5k Employees,Public,27 years old,Chennai +50 more
+SS&C TECHNOLOGIES,3.5,1.3k,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,38 years old,Windsor Locks +26 more
+Bharat Financial Inclusion,4.0,1.5k,NBFC,10k-50k Employees,Public,26 years old,Hyderabad +345 more
+Reckitt Benckiser,4.0,1.3k,FMCG,1k-5k Employees,Conglomerate,25 years old,Slough +111 more
+Bhushan Power & Steel,4.0,1.1k,Iron & Steel,5k-10k Employees,54 years old,Delhi/NCR +50 more,
+CitiusTech,3.4,1.4k,IT Services & Consulting,1k-5k Employees,Indian Unicorn,19 years old,New Jersey +14 more
+USV,4.1,1.3k,Pharma,1k-5k Employees,Fortune India 500,63 years old,Mumbai +91 more
+Aditya Birla Capital,4.0,1.4k,Financial Services,10k-50k Employees,Public,7 years old,Mumbai +192 more
+Motherson Automotive Technologies and Engineering,4.0,1.2k,Auto Components,501-1k Employees,27 years old,Noida +53 more,
+Adecco Group,3.8,1.2k,Recruitment,1k-5k Employees,Forbes Global 2000,25 years old,Zurich +126 more
+Procter & Gamble,4.2,1.3k,FMCG,1k-5k Employees,Public,187 years old,Cincinnati +208 more
+Dainik Bhaskar Group,4.4,1.2k,Printing & Publishing,5k-10k Employees,Public,66 years old,Bhopal +128 more
+XL Dynamics,3.2,1.3k,IT Services & Consulting,1k-5k Employees,22 years old,Navi Mumbai +27 more,
+Yamaha Motor,4.2,1.2k,Automobile,1k-5k Employees,Fortune India 500,69 years old,Iwata +126 more
+Cavinkare,4.0,1.3k,FMCG,1k-5k Employees,Conglomerate,41 years old,Chennai +149 more
+USHA International,4.2,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Public,90 years old,Gurgaon/Gurugram +112 more
+Team Computers,3.7,1.3k,IT Services & Consulting,1k-5k Employees,37 years old,Delhi/NCR +87 more,
+HERE Technologies,3.9,1.3k,IT Services & Consulting,1k-5k Employees,39 years old,Eindhoven +14 more,
+Mercedes-Benz Research & Development India,4.0,1.3k,IT Services & Consulting,5k-10k Employees,Public,28 years old,Bengaluru/Bangalore +47 more
+NTPC,4.3,1.3k,10k-50k Employees,Fortune India 500,49 years old,Delhi/NCR +103 more,
+KONE,4.3,1.3k,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114 years old,Chennai +65 more
+Isgec Heavy Engineering,3.9,1.2k,Industrial Machinery,1k-5k Employees,Public,91 years old,Noida +68 more
+DHL Supply Chain,4.3,1.2k,Logistics,1k-5k Employees,55 years old,Bonn +78 more,
+Torrent Power,3.8,1.3k,Power,5k-10k Employees,Public,28 years old,Ahmedabad +39 more
+PI Industries,4.1,1.3k,Agro Chemicals,1k-5k Employees,Public,77 years old,Gurgaon/Gurugram +89 more
+Mother Dairy Fruit & Vegetable,4.2,1.2k,Food Processing,1k-5k Employees,50 years old,Noida +111 more,
+Honda Cars,4.4,1.3k,Automobile,5k-10k Employees,Fortune India 500,29 years old,Alwar +91 more
+Oberoi Group of Hotels,4.2,1.2k,Hospitality,1k-5k Employees,90 years old,Delhi/NCR +31 more,
+Honeywell Technology Solutions,3.9,1.2k,Defence & Aerospace,10k-50k Employees,30 years old,Bangalore/Bengaluru +19 more,
+DIVI'S Laboratories,3.9,1.2k,Healthcare,10k-50k Employees,Public,34 years old,Hyderabad/Secunderabad +23 more
+Chegg,4.2,1.3k,EdTech,501-1k Employees,19 years old,Santa Clara +64 more,
+Saint-Gobain,4.0,1.3k,Building Material,10k-50k Employees,Forbes Global 2000,359 years old,Paris +92 more
+Haier Appliances India,4.1,1.3k,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20 years old,Qingdao +109 more
+Johnson & Johnson,4.2,1.2k,Pharma,1k-5k Employees,Forbes Global 2000,67 years old,New Brunswick +140 more
+Sigma Electric Manufacturing Corporation,4.0,1.1k,Industrial Machinery,1k-5k Employees,42 years old,Garner +20 more,
+Paisabazaar.com,3.6,1.3k,Internet,1k-5k Employees,Startup,10 years old,Gurgaon/Gurugram +22 more
+Jindal Saw,4.0,1.2k,Building Material,5k-10k Employees,Public,40 years old,Delhi/NCR +64 more
+Credit Suisse,4.3,1.3k,Financial Services,10k-50k Employees,168 years old,Zurich +10 more,
+Arvind Group,4.1,1.2k,Fashion & Textile,10k-50k Employees,Public,93 years old,Ahmedabad +80 more
+Max Fashion,4.2,1.2k,Retail,10k-50k Employees,10 years old,Abu Dhabi +136 more,
+Verizon,4.1,1.2k,Telecom,5k-10k Employees,Forbes Global 2000,24 years old,New York City +10 more
+Tata Communications Transformation Services,4.1,1.2k,Hardware & Networking,1k-5k Employees,18 years old,Mumbai +83 more,
+Hyatt Regency,4.2,1.1k,Hospitality,1k-5k Employees,Forbes Global 2000,44 years old,New Delhi +43 more
+Daikin,4.2,1.2k,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24 years old,Osaka City +89 more
+Star Union Dai-ichi Life Insurance,3.9,1.3k,Insurance,1k-5k Employees,15 years old,Navi Mumbai +233 more,
+V-Guard Industries,4.4,1.2k,Consumer Electronics & Appliances,1k-5k Employees,Public,47 years old,Kochi/Cochin +128 more
+Medi Assist India,3.8,1.2k,Insurance,5k-10k Employees,24 years old,Bangalore +54 more,
+DHL Express,4.1,1.2k,Logistics,1k-5k Employees,Conglomerate,45 years old,Bonn +84 more
+Globiva,3.2,1.3k,BPO,1k-5k Employees,7 years old,Gurgaon/Gurugram +19 more,
+Haldiram Foods,4.0,1.3k,FMCG,1k-5k Employees,54 years old,Nagpur +124 more,
+Exela Technologies,3.6,1.2k,IT Services & Consulting,1k-5k Employees,13 years old,Irving +20 more,
+FactSet,4.0,1.2k,Financial Services,1k-5k Employees,46 years old,Norwalk +14 more,
+Tata Group,4.3,1.2k,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156 years old,Mumbai +155 more
+Nuvoco Vistas,4.2,1.2k,Building Material,1k-5k Employees,Fortune India 500,25 years old,Mumbai +141 more
+Photon Interactive,4.0,1.3k,IT Services & Consulting,1k-5k Employees,25 years old,London +11 more,
+CG Power and Industrial Solutions,3.9,1.2k,Electrical Equipment,1k-5k Employees,Public,87 years old,Mumbai +82 more
+UBS,3.9,1.3k,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Forbes Global 2000,9 years old,Zurich +29 more
+HDFC Securities,3.7,1.2k,Financial Services,1k-5k Employees,Public,24 years old,Mumbai +161 more
+Medanta the Medicity,4.1,1.2k,Healthcare,5k-10k Employees,15 years old,Gurgaon +34 more,
+Relaxo Footwear,4.3,1.2k,Fashion & Textile,5k-10k Employees,Public,40 years old,New Delhi +127 more
+Piramal Group,4.0,1.1k,Financial Services,10k-50k Employees,Fortune India 500,44 years old,Mumbai +122 more
+Orange Business,4.3,1.2k,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32 years old,Paris +46 more
+Hindustan Petroleum,4.3,1.2k,Oil & Gas,5k-10k Employees,Central,50 years old,Mumbai +201 more
+Aadhar Housing Finance,4.1,1.2k,Financial Services,1k-5k Employees,14 years old,Mumbai +255 more,
+BNP Paribas,3.9,1.3k,Financial Services,10k-50k Employees,Forbes Global 2000,176 years old,Paris +22 more
+FirstCry,3.8,1.2k,Retail,1k-5k Employees,Indian Unicorn,14 years old,Pune +147 more
+Morgan Stanley,3.7,1.3k,Financial Services,10k-50k Employees,Forbes Global 2000,93 years old,New York +17 more
+First American Corporation,3.9,1.2k,Financial Services,1k-5k Employees,Forbes Global 2000,30 years old,Santa Ana +14 more
+NextComm Corporation,4.9,1.2k,1k-5k Employees,7 years old,Ahmedabad +11 more,,
+Biocon Biologics,3.8,1.2k,Biotechnology,1k-5k Employees,Public,46 years old,Bangalore/Bengaluru +30 more
+Aforeserve,3.4,1.2k,IT Services & Consulting,1k-5k Employees,24 years old,Noida +147 more,
+Security and Intelligence Services (India),4.1,1.1k,Law Enforcement & Security,1 Lakh+ Employees,Public,39 years old,Delhi/NCR +160 more
+Oracle Cerner,3.7,1.2k,IT Services & Consulting,5k-10k Employees,Public,45 years old,Kansas +5 more
+Emami,4.1,1.2k,Beauty & Personal Care,1k-5k Employees,Public,50 years old,Kolkata +148 more
+Belrise Industries,3.8,1.1k,Auto Components,10k-50k Employees,28 years old,Aurangabad +39 more,
+Aon,3.9,1.1k,Financial Services,5k-10k Employees,Forbes Global 2000,84 years old,London +18 more
+IDC Technologies,3.3,1.2k,IT Services & Consulting,1k-5k Employees,21 years old,Milpitas +56 more,
+Bata,4.0,1.1k,Fashion & Textile,1k-5k Employees,Public,93 years old,Lausanne +122 more
+Exotic Learning,4.5,1.2k,EdTech,51-200 Employees,4 years old,Lucknow +141 more,
+Fusion CX,3.2,1.2k,BPO,1k-5k Employees,20 years old,Ohio +44 more,
+Dell EMC,4.2,1.1k,IT Services & Consulting,5k-10k Employees,45 years old,Hopkinton +47 more,
+Hindustan Construction Company,4.3,1k,Engineering & Construction,1k-5k Employees,Public,98 years old,Mumbai +81 more
+Toyota Kirloskar Motor,4.4,1.1k,Automobile,5k-10k Employees,Fortune India 500,27 years old,Bangalore/Bengaluru +75 more
+Marriott International,4.3,1.1k,Hospitality,10k-50k Employees,Forbes Global 2000,97 years old,Bethesda +75 more
+Tata Power,4.0,1.2k,Power,10k-50k Employees,Public,109 years old,Mumbai +120 more
+KFC,4.2,1.1k,Hospitality,5k-10k Employees,72 years old,Louisville +141 more,
+Mercer,3.8,1.2k,Management Consulting,1k-5k Employees,79 years old,New York +17 more,
+Tesco,3.9,1.1k,Retail,1k-5k Employees,Forbes Global 2000,105 years old,Hertfordshire +15 more
+Narayana Educational Society,3.7,1.1k,Education & Training,1k-5k Employees,39 years old,Hyderabad/Secunderabad +131 more,
+Trident Group,3.4,1.2k,Fashion & Textile,10k-50k Employees,Public,34 years old,Ludhiana +44 more
+Faurecia,4.0,1.1k,Auto Components,1k-5k Employees,27 years old,Nanterre +25 more,
+Trent,4.1,1.2k,Retail,10k-50k Employees,Public,26 years old,Mumbai +111 more
+Ola Electric Mobility,3.3,1.2k,Automobile,5k-10k Employees,Indian Unicorn,7 years old,Bangalore +176 more
+TaskUs,3.5,1.2k,BPO,5k-10k Employees,16 years old,New Braunfels +23 more,
+Altruist Technologies,3.2,1.2k,BPO,1k-5k Employees,19 years old,Chandigarh +31 more,
+Tata Advanced Systems,3.9,1.4k,Defence & Aerospace,5k-10k Employees,17 years old,Hyderabad/Secunderabad +37 more,
+FedEx Express,4.2,1.1k,Logistics,5k-10k Employees,Forbes Global 2000,53 years old,Moon Township +89 more
+Iris Software,4.2,1.2k,IT Services & Consulting,1k-5k Employees,33 years old,Edison +16 more,
+Polycab Wires,4.1,1.2k,Electrical Equipment,1k-5k Employees,Fortune India 500,28 years old,Mumbai +125 more
+Veritas Finance,4.7,1.2k,NBFC,1k-5k Employees,Startup,9 years old,Chennai +260 more
+L.G.Balakrishnan & Bros,3.7,1.1k,Auto Components,1k-5k Employees,Public,87 years old,Coimbatore +40 more
+Marico,4.1,1.1k,FMCG,1k-5k Employees,Public,36 years old,Mumbai +150 more
+Suguna Foods,4.1,1.1k,Food Processing,5k-10k Employees,40 years old,Coimbatore +162 more,
+HTC Global Services,3.6,1.2k,IT Services & Consulting,5k-10k Employees,34 years old,Troy +25 more,
+iOPEX Technologies,3.7,1.2k,IT Services & Consulting,1k-5k Employees,15 years old,San Jose +14 more,
+NIIT,3.7,1.1k,Education & Training,1k-5k Employees,Public,43 years old,Gurgaon / Gurugram +95 more
+Infinite Computer Solutions,3.5,1.1k,IT Services & Consulting,1k-5k Employees,Public,23 years old,Rockville  +28 more
+Muthoot Group,3.6,1.1k,Financial Services,10k-50k Employees,Public,137 years old,Wedel +265 more
+Hero Motors Company,4.1,1.1k,Automobile,201-500 Employees,26 years old,New Delhi +184 more,
+Krishna Maruti,4.0,1.1k,Auto Components,1k-5k Employees,30 years old,Gurgaon/Gurugram +33 more,
+Sony,4.3,1.1k,Consumer Electronics & Appliances,1k-5k Employees,Public,30 years old,Delhi/NCR +125 more
+Jet Airways,4.6,1k,Aviation,201-500 Employees,Public,31 years old,Mumbai +43 more
+Bajaj Capital,3.9,1.1k,Financial Services,1k-5k Employees,Public,60 years old,Delhi/NCR +147 more
+Welspun,4.0,1.1k,Fashion & Textile,10k-50k Employees,Fortune India 500,39 years old,Mumbai +59 more
+Manipal Hospitals,4.3,1.1k,Healthcare,1k-5k Employees,71 years old,Bangalore/Bengaluru +50 more,
+Oracle Financial Services Software,3.7,1.1k,IT Services & Consulting,10k-50k Employees,Public,34 years old,Mumbai +17 more
+Pantaloons,4.2,1.1k,Fashion & Textile,5k-10k Employees,Public,27 years old,Mumbai +143 more
+Satin Creditcare Network,4.1,1.1k,NBFC,5k-10k Employees,Public,34 years old,Gurgaon/Gurugram +235 more
+SRL Diagnostics,4.1,1.1k,Healthcare,5k-10k Employees,29 years old,Mumbai +117 more,
+Inox Leisure,4.1,1.1k,Media & Entertainment,1k-5k Employees,Public,25 years old,Mumbai +86 more
+Nayara Energy,4.2,1k,Petrochemicals,1k-5k Employees,Fortune India 500,35 years old,Mumbai +76 more
+ISS Facility Services,4.2,1.1k,Facility Management Services,10k-50k Employees,19 years old,Copenhagen +57 more,
+Biocon Limited,3.9,1.2k,Biotechnology,5k-10k Employees,Public,46 years old,Bangalore Rural +49 more
+ZF Commercial Vehicle Control Systems,4.0,1k,Auto Components,Chennai +32 more,,,
+Akzo Nobel India,4.2,1.1k,Chemicals,1k-5k Employees,Public,85 years old,Amsterdam +129 more
+Adani Group,4.0,1.2k,Power,10k-50k Employees,Public,36 years old,Ahmedabad +127 more
+TTEC India,3.8,1.1k,BPO,1k-5k Employees,Public,40 years old,Englewood +23 more
+J. Kumar Infraprojects,4.1,1.1k,Engineering & Construction,5k-10k Employees,Public,44 years old,Mumbai +30 more
+Fabindia,4.0,1k,Fashion & Textile,1k-5k Employees,66 years old,Delhi/NCR +79 more,
+Barclays Shared Services,4.1,1k,IT Services & Consulting,5k-10k Employees,17 years old,London +12 more,
+Collabera Technologies,3.5,1.1k,IT Services & Consulting,501-1k Employees,33 years old,Basking Ridge +44 more,
+ICICI Home Finance,3.8,1.1k,NBFC,1k-5k Employees,25 years old,Mumbai +181 more,
+Daimler India Commercial Vehicles,4.1,1.1k,Automobile,1k-5k Employees,138 years old,Chennai +40 more,
+Cushman & Wakefield,4.3,1.1k,Real Estate,1k-5k Employees,107 years old,Chicago +38 more,
+Gland Pharma,3.7,1.1k,Pharma,1k-5k Employees,Fortune India 500,46 years old,Hyderabad +26 more
+VLCC,3.7,1k,Beauty & Personal Care,1k-5k Employees,Conglomerate,35 years old,Delhi/NCR +96 more
+Redcliffe Labs,4.5,1.1k,Healthcare,1k-5k Employees,6 years old,Noida +80 more,
+Chandigarh University,4.5,1.1k,Education & Training,1k-5k Employees,12 years old,Mohali +41 more,
+Supreme Industries,4.2,1.1k,Petrochemicals,5k-10k Employees,Public,82 years old,Mumbai +94 more
+Panasonic,4.1,1k,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106 years old,Kadoma +111 more
+Lavender Technology,5.0,1.1k,IT Services & Consulting,5k-10k Employees,14 years old,USA +4 more,
+Asahi India Glass,3.9,1k,Auto Components,1k-5k Employees,Public,40 years old,Gurgaon/Gurugram +62 more
+Ashoka Buildcon,4.1,1k,Engineering & Construction,1k-5k Employees,Public,48 years old,Nasik/Nashik +131 more
+ITD Cementation India,4.3,1k,Engineering & Construction,1k-5k Employees,Public,93 years old,Mumbai +68 more
+JioMart,3.9,1.1k,51-200 Employees,Kolkata +268 more,,,
+Jindal X,3.5,1.1k,BPO,1k-5k Employees,Public,25 years old,New Delhi +19 more
+TCS iON,3.9,1.1k,IT Services & Consulting,1k-5k Employees,13 years old,Mumbai +99 more,
+Annapurna Finance,4.1,1k,NBFC,5k-10k Employees,15 years old,Bhubaneswar +278 more,
+Sysnet Global Technologies,3.7,1k,IT Services & Consulting,1k-5k Employees,25 years old,Delhi/NCR +114 more,
+NeoSOFT,4.0,1.4k,IT Services & Consulting,1k-5k Employees,28 years old,Mumbai +20 more,
+Aye Finance,4.2,1.1k,NBFC,5k-10k Employees,Startup,11 years old,Delhi +238 more
+Godrej Group,4.0,1k,Chemicals,10k-50k Employees,Public,127 years old,Mumbai +116 more
+Shadowfax Technologies,3.7,1.1k,Logistics,5k-10k Employees,Public,9 years old,Bangalore +162 more
+Granules India,3.9,1k,Pharma,1k-5k Employees,Public,40 years old,Hyderabad/Secunderabad +14 more
+Ocwen Financial Solutions,4.2,979,Financial Services,1k-5k Employees,36 years old,West Palm Beach +7 more,
+Heritage Foods,4.2,1k,Food Processing,1k-5k Employees,Public,32 years old,Hyderabad/Secunderabad +96 more
+GMR Group,4.1,1.1k,Engineering & Construction,10k-50k Employees,Public,46 years old,Delhi/NCR +55 more
+Aptara,3.3,1k,Printing & Publishing,1k-5k Employees,36 years old,Falls Church +10 more,
+Sanofi,4.4,1k,Pharma,1k-5k Employees,Public,20 years old,Paris +71 more
+HighRadius,3.0,1.1k,FinTech,1k-5k Employees,18 years old,Houston +12 more,
+GE,4.3,1k,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,132 years old,Boston +62 more
+Compass Group Support Services,4.1,1k,Hospitality,10k-50k Employees,Public,83 years old,Chertsey +64 more
+Adani Ports and SEZ,3.9,1k,Ports & Shipping,1k-5k Employees,Public,26 years old,Ahmedabad +70 more
+MiraMed Ajuba,4.0,1k,BPO,1k-5k Employees,23 years old,Chennai +14 more,
+EPAM Systems,3.8,1.1k,IT Services & Consulting,5k-10k Employees,31 years old,Newtown +20 more,
+Bharat Forge,3.9,1k,Iron & Steel,1k-5k Employees,Public,63 years old,Pune +18 more
+Spicejet,3.5,1k,Aviation,5k-10k Employees,Public,20 years old,Gurgaon/Gurugram +59 more
+Canara Bank,3.5,1k,Banking,50k-1 Lakh Employees,Public,118 years old,Bangalore/Bengaluru +168 more
+Spinny,3.8,1.1k,Internet,1k-5k Employees,Indian Unicorn,9 years old,Gurgaon +44 more
+Caterpillar Inc,4.2,1k,Industrial Machinery,5k-10k Employees,Forbes Global 2000,99 years old,Deerfield +34 more
+Bharat FIH,4.0,1k,Electronics Manufacturing,10k-50k Employees,Chennai +32 more,,
+Broadridge Financial Solutions,4.0,1k,FinTech,5k-10k Employees,Forbes Global 2000,17 years old,New York City +9 more
+Unisys,3.8,998,IT Services & Consulting,1k-5k Employees,38 years old,Blue Bell +14 more,
+Evalueserve,3.4,1k,IT Services & Consulting,1k-5k Employees,24 years old,Schaffhausen +11 more,
+AB InBev India,3.5,1k,Beverage,1k-5k Employees,Public,36 years old,Leuven +65 more
+GE Vernova,4.2,1k,Noida +70 more,,,,
+NSE.IT,3.6,1k,IT Services & Consulting,1k-5k Employees,Public,25 years old,Mumbai +134 more
+Sharekhan,4.0,994,Financial Services,1k-5k Employees,Public,24 years old,Mumbai +109 more
+Steel Strips Wheels,3.8,989,Auto Components,1k-5k Employees,Public,33 years old,Chandigarh +36 more
+Xiaomi,3.9,1k,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14 years old,Haidian District +179 more
+Edelweiss,3.8,996,Financial Services,1k-5k Employees,Public,7 years old,Mumbai +108 more
+Vfs Global Services,3.7,969,BPO,1k-5k Employees,23 years old,Mumbai +25 more,
+Lumax Industries,4.0,1k,Auto Components,1k-5k Employees,Public,79 years old,Pune +32 more
+Amity University,3.5,1k,Education & Training,1k-5k Employees,19 years old,Noida +78 more,
+Sagility,3.9,1.1k,BPO,10k-50k Employees,2 years old,Westminster +19 more,
+IFB,3.7,1.1k,Consumer Electronics & Appliances,201-500 Employees,Public,50 years old,Kolkata +139 more
+Pine Labs,3.7,1k,FinTech,1k-5k Employees,Indian Unicorn,26 years old,Noida +80 more
+Unichem Laboratories,3.9,1k,Pharma,1k-5k Employees,Public,80 years old,Mumbai +67 more
+Bisleri,4.2,1k,Beverage,1k-5k Employees,59 years old,Mumbai +137 more,
+NEC,4.6,1k,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125 years old,Noida +41 more
+Indoco Remedies,3.7,1k,Pharma,5k-10k Employees,Public,77 years old,Mumbai +69 more
+Cinépolis,4.0,972,Media & Entertainment,1k-5k Employees,53 years old,Morelia +53 more,
+Physicswallah,3.8,1.1k,EdTech,10k-50k Employees,Indian Unicorn,5 years old,Noida +73 more
+Newgen Software Technologies,3.6,1k,IT Services & Consulting,1k-5k Employees,Public,32 years old,New Delhi +23 more
+CorroHealth,3.4,1k,1k-5k Employees,Hyderabad / Secunderabad +20 more,,,
+Tanishq,4.5,1k,Jewellery,5k-10k Employees,30 years old,Bangalore/Bengaluru +194 more,
+Synchrony,4.4,992,Financial Services,1k-5k Employees,Forbes Global 2000,92 years old,Stamford +8 more
+Aircel,4.5,895,Telecom,5k-10k Employees,25 years old,Gurgaon/Gurugram +113 more,
+Iffco Tokio General Insurance Co.,4.1,950,Insurance,5k-10k Employees,24 years old,Gurgaon/Gurugram +232 more,
+Punjab National Bank,4.1,942,Banking,1 Lakh+ Employees,Fortune India 500,130 years old,Delhi/NCR +174 more
+Jakson Group,4.4,960,Power,5k-10k Employees,77 years old,Noida +84 more,
+Iksula,3.8,908,IT Services & Consulting,501-1k Employees,17 years old,Mumbai +113 more,
+Fino Payments Bank,3.9,952,Banking,1k-5k Employees,7 years old,Mumbai +219 more,
+Northern Trust Operating Services,4.1,958,Financial Services,5k-10k Employees,Forbes Global 2000,135 years old,Chicago +16 more
+LivSpace,3.5,1.1k,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9 years old,Bangalore +38 more
+SYSKA LED Lights,2.9,945,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12 years old,Pune +151 more
+ECIL,4.2,931,Electronics Manufacturing,1k-5k Employees,Public,57 years old,Hyderabad/Secunderabad +40 more
+Saipem,4.1,928,Engineering & Construction,1k-5k Employees,Forbes Global 2000,67 years old,San Donato Milanese +37 more
+Devyani International,3.9,956,Hospitality,10k-50k Employees,Public,33 years old,Gurgaon/Gurugram +95 more
+Valeo,4.1,988,Auto Components,5k-10k Employees,Forbes Global 2000,101 years old,Paris +19 more
+Aditya Birla Health Insurance Co,3.9,1k,Insurance,1k-5k Employees,9 years old,Mumbai +193 more,
+FDC,4.1,945,Pharma,5k-10k Employees,Public,84 years old,Mumbai +99 more
+Paytm Payments Bank,3.9,1k,FinTech,1k-5k Employees,Public,8 years old,Noida +110 more
+Tietoevry,4.3,975,IT Services & Consulting,1k-5k Employees,Public,56 years old,Helsinki +9 more
+BVG India,4.0,941,Facility Management Services,50k-1 Lakh Employees,27 years old,Pune +97 more,
+Health Care Global Enterprises,4.1,955,Healthcare,5k-10k Employees,Public,35 years old,Bangalore/Bengaluru +41 more
+Best Sellers,4.2,918,Fashion & Textile,501-1k Employees,49 years old,Brande +81 more,
+Goldman Sachs,3.7,1k,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,21 years old,New York +19 more,
+Suryoday Small Finance Bank,4.1,960,Banking,5k-10k Employees,16 years old,Mumbai +157 more,
+VMware Software,4.5,992,Software Product,5k-10k Employees,Forbes Global 2000,26 years old,Palo Alto +17 more
+Sheenlac Paints,4.6,1.1k,Chemicals,501-1k Employees,Public,62 years old,Chennai +147 more
+Burger King,3.9,962,Hospitality,5k-10k Employees,10 years old,Miami +94 more,
+DISH TV,3.6,919,Broadcasting,201-500 Employees,Public,21 years old,Noida +136 more
+AGS Transact Technologies,3.5,936,FinTech,1k-5k Employees,22 years old,Mumbai +104 more,
+SKF,4.0,923,Auto Components,1k-5k Employees,Public,101 years old,Gothenburg +62 more
+Foxconn,4.1,986,Electronics Manufacturing,10k-50k Employees,50 years old,Taipei +40 more,
+Oil And Natural Gas Corporation,4.4,920,Oil & Gas,10k-50k Employees,Public,68 years old,Delhi/NCR +65 more
+Fidelity National Financial,3.8,939,Financial Services,1k-5k Employees,Forbes Global 2000,177 years old,Bangalore Rural +10 more
+Wheelseye Technology,3.7,963,Logistics,1k-5k Employees,Startup,7 years old,Gurgaon +181 more
+DENSO,4.2,918,Auto Components,1k-5k Employees,Public,77 years old,Kariya +34 more
+Sansera Engineering,4.2,927,Auto Components,1k-5k Employees,Public,38 years old,Bangalore/Bengaluru +23 more
+Xyz Company,3.8,1k,Financial Services,51-200 Employees (Global),Mumbai +90 more,,
+Apco Infratech,3.9,905,Engineering & Construction,1k-5k Employees,32 years old,Lucknow +71 more,
+ManpowerGroup,3.9,928,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29 years old,New Delhi +121 more
+SAI Life Sciences,3.9,956,Pharma,1k-5k Employees,Public,25 years old,Hyderabad +16 more
+Tata 1mg,3.7,975,Internet,1k-5k Employees,9 years old,Gurgaon +51 more,
+Clover Infotech,3.7,946,IT Services & Consulting,1k-5k Employees,30 years old,Mumbai +16 more,
+Shriram Pistons & Rings,4.1,885,Auto Components,1k-5k Employees,Public,61 years old,Delhi/NCR +52 more
+ANZ Banking Group,4.2,892,Financial Services,5k-10k Employees,Forbes Global 2000,17 years old,Melbourne +16 more
+QualityKiosk Technologies,3.7,939,IT Services & Consulting,1k-5k Employees,24 years old,Mumbai +16 more,
+Gujarat Fluorochemicals,4.1,924,Chemicals,1k-5k Employees,Fortune India 500,37 years old,Noida +24 more
+Dixon Technologies,4.1,912,Electronics Manufacturing,1k-5k Employees,Public,31 years old,Noida +32 more
+Schindler,4.0,957,Industrial Machinery,5k-10k Employees,Pune +63 more,,
+Fresenius Kabi,4.2,913,Pharma,1k-5k Employees,25 years old,Pune +58 more,
+Atul,4.0,904,Chemicals,1k-5k Employees,Public,77 years old,Valsad +53 more
+Nexa,4.2,821,Automobile,1k-5k Employees,9 years old,Delhi/NCR +180 more,
+Vibgyor High School,3.8,934,Education & Training,1k-5k Employees,20 years old,Mumbai +29 more,
+The Jaypee Group,3.9,922,Engineering & Construction,10k-50k Employees,Public,45 years old,Noida +96 more
+K12 Techno Services,3.1,989,EdTech,1k-5k Employees,14 years old,Bangalore/Bengaluru +32 more,
+Vestas,4.3,918,Power,1k-5k Employees,Forbes Global 2000,27 years old,Aarhus +43 more
+Amneal Pharmaceuticals,4.3,907,Pharma,5k-10k Employees,22 years old,Bridgewater +26 more,
+Hitachi Astemo,4.1,955,Auto Components,1k-5k Employees,Neemrana +32 more,,
+EOSGlobe,3.1,934,BPO,1k-5k Employees,22 years old,Thane +17 more,
+Altisource,3.6,882,Real Estate,1k-5k Employees,17 years old,Bangalore/Bengaluru +8 more,
+FOCUS EDUMATICS,3.4,940,EdTech,1k-5k Employees,25 years old,Bangalore/Bengaluru +19 more,
+Amara Raja Energy & Mobility,4.3,956,Auto Components,5k-10k Employees,Fortune India 500,39 years old,Tirupati +70 more
+Tata AutoComp Systems,3.9,926,Auto Components,1k-5k Employees,Public,29 years old,Pune +34 more
+iSON Xperiences,3.6,918,BPO,5k-10k Employees,13 years old,Lagos +36 more,
+Luminous Power Technologies,4.1,886,Consumer Electronics & Appliances,1k-5k Employees,36 years old,Gurgaon/Gurugram +107 more,
+Indegene,3.6,948,Analytics & KPO,1k-5k Employees,26 years old,Princeton +22 more,
+Wistron,3.9,947,Electronics Manufacturing,1k-5k Employees,Forbes Global 2000,23 years old,Taipei +20 more
+CreditAccess Grameen,4.3,911,NBFC,10k-50k Employees,Public,25 years old,Bangalore/Bengaluru +258 more
+TELUS International Philippines,3.8,941,IT Services & Consulting,1k-5k Employees,Startup,19 years old,Pasig City +15 more
+Infogain,3.6,934,IT Services & Consulting,1k-5k Employees,34 years old,Los Gatos +17 more,
+Patanjali Foods,4.0,870,FMCG,5k-10k Employees,Public,38 years old,Mumbai +154 more
+GAIL,4.5,864,Oil & Gas,1k-5k Employees,Fortune India 500,40 years old,Delhi/NCR +93 more
+Medhaj Techno Concept,4.2,880,Other,1k-5k Employees,17 years old,Lucknow +141 more,
+Tenneco,3.8,894,Auto Components,1k-5k Employees,Forbes Global 2000,84 years old,Lake Forest +35 more
+Jio Platforms,3.6,1k,IT Services & Consulting,5k-10k Employees,Navi Mumbai +72 more,,
+IndiaFirst Life Insurance,4.1,930,Insurance,1k-5k Employees,15 years old,Mumbai +185 more,
+Infinx,3.6,916,Software Product,1k-5k Employees,12 years old,Mumbai +29 more,
+Videocon d2h,3.9,808,Internet,501-1k Employees,Public,15 years old,Mumbai +129 more
+Kantar,3.6,932,Analytics & KPO,5k-10k Employees,16 years old,London +34 more,
+Johnson Lifts,4.0,851,Industrial Machinery,5k-10k Employees,43 years old,Chennai +67 more,
+Continental Automotive Components,4.2,906,Auto Components,5k-10k Employees,153 years old,Lower Saxony +19 more,
+CSB Bank,3.4,938,Banking,1k-5k Employees,104 years old,Thrissur/Trichur +154 more,
+Eaton Corporation,4.0,897,Power,5k-10k Employees,Public,113 years old,Cleveland +19 more
+AIIMS,4.2,852,Healthcare,10k-50k Employees,68 years old,Delhi/NCR +51 more,
+Consolidated Contractors,4.5,794,Engineering & Construction,1k-5k Employees,Public,72 years old,Marousi +50 more
+Wind World,4.0,866,Power,5k-10k Employees,30 years old,Mumbai +63 more,
+Bajaj Motors,3.9,826,Auto Components,501-1k Employees,38 years old,Gurgaon +64 more,
+PharmEasy,3.7,909,Internet,1k-5k Employees,Indian Unicorn,9 years old,Mumbai +57 more
+Piaggio,3.7,854,Automobile,1k-5k Employees,140 years old,Pontedera +70 more,
+Godrej Properties,3.7,934,Real Estate,1k-5k Employees,Public,34 years old,Mumbai +27 more
+Mahindra CIE Automotive,3.8,849,Auto Components,1k-5k Employees,Public,25 years old,Mumbai +37 more
+Bharat Sanchar Nigam,3.9,839,Telecom,50k-1 Lakh Employees,Central,24 years old,Delhi/NCR +210 more
+TE Connectivity,4.1,891,Industrial Machinery,1k-5k Employees,Forbes Global 2000,83 years old,Schaffhausen +14 more
+PNB Housing Finance,3.9,887,Financial Services,1k-5k Employees,Public,36 years old,Delhi/NCR +115 more
+Intertek,3.8,875,Other,1k-5k Employees,27 years old,London +83 more,
+Jaquar,4.1,899,Building Material,10k-50k Employees,64 years old,Gurgaon +86 more,
+Zf Rane Automotive,4.1,833,Auto Components,1k-5k Employees,Chennai +44 more,,
+JW Marriott,4.1,806,Hospitality,1k-5k Employees,97 years old,Bethesda +38 more,
+TUV SUD,3.9,882,Other,1k-5k Employees,158 years old,Munich +98 more,
+Godrej Consumer Products,4.2,859,FMCG,1k-5k Employees,Public,23 years old,Mumbai +110 more
+Automotive Manufacturers,4.2,838,Automobile,10k-50k Employees,76 years old,Mumbai +120 more,
+Gannon Dunkerley & Co.,3.9,810,Engineering & Construction,1k-5k Employees,100 years old,Mumbai +66 more,
+IIFL SAMASTA,4.1,900,NBFC,10k-50k Employees,Bangalore / Bengaluru +272 more,,
+Mondelez International,4.4,885,Food Processing,1k-5k Employees,Forbes Global 2000,12 years old,Greater Chicago Area +139 more
+Capri Global Capital,3.7,897,NBFC,1k-5k Employees,Public,27 years old,Mumbai +219 more
+Worley,4.1,892,Engineering & Construction,5k-10k Employees,53 years old,North Sydney +44 more,
+Sahara India Pariwar,3.8,866,Broadcasting,5k-10k Employees,Conglomerate,46 years old,Lucknow +225 more
+JSW Cement,4.1,865,Building Material,1k-5k Employees,Conglomerate,15 years old,Mumbai +106 more
+Apexon,3.4,879,IT Services & Consulting,1k-5k Employees,28 years old,Santa Clara +15 more,
+Adobe,4.1,906,Software Product,5k-10k Employees,Public,42 years old,San Jose +15 more
+Slk Software Services,3.5,872,IT Services & Consulting,1k-5k Employees,24 years old,Bangalore/Bengaluru +11 more,
+Spencer's Retail,3.9,834,Retail,1k-5k Employees,Public,161 years old,Kolkata +57 more
+Karma Ayurveda,4.5,879,Healthcare,51-200 Employees,New Delhi +4 more,,
+Punj Lloyd,4.4,774,Engineering & Construction,5k-10k Employees,Public,42 years old,Gurgaon/Gurugram +70 more
+Dhoot Transmission,3.7,842,Power,201-500 Employees,26 years old,Mumbai +31 more,
+Sonata Software,3.6,874,IT Services & Consulting,1k-5k Employees,Public,38 years old,Bangalore/Bengaluru +12 more
+Petrofac,4.4,821,Oil & Gas,1k-5k Employees,43 years old,Jermyn Street +39 more,
+Morningstar,3.9,913,Financial Services,1k-5k Employees,40 years old,Chicago +16 more,
+Siemens Gamesa Renewable Power Private Limited,4.1,820,Power,1k-5k Employees,48 years old,Chennai +56 more,
+R Systems International,3.4,864,IT Services & Consulting,1k-5k Employees,Public,31 years old,El Dorado Hills +15 more
+Hinduja Leyland Finance,4.1,897,NBFC,1k-5k Employees,18 years old,Chennai +231 more,
+GAO Tek,4.5,1.1k,Electrical Equipment,201-500 Employees,19 years old,New York +34 more,
+Hatsun Agro Product,4.0,861,Food Processing,5k-10k Employees,Public,54 years old,Chennai +102 more
+Shriram Life Insurance,3.8,858,Insurance,1k-5k Employees,Conglomerate,19 years old,Hyderabad/Secunderabad +221 more
+Urban Company,3.5,895,Internet,1k-5k Employees,Indian Unicorn,9 years old,Gurgaon +51 more
+Coca-Cola Company,4.3,838,Beverage,5k-10k Employees,Forbes Global 2000,138 years old,Atlanta +165 more
+Tikona Infinet,3.7,802,Telecom,1k-5k Employees,16 years old,Mumbai +45 more,
+NSH,3.6,779,Engineering & Construction,501-1k Employees,46 years old,Al Jubail +44 more,
+Viraj Profiles,3.8,812,Iron & Steel,1k-5k Employees,24 years old,Mumbai +21 more,
+Serco,4.4,798,Analytics & KPO,5k-10k Employees,36 years old,Hook +39 more,
+Nielsen,3.8,833,Analytics & KPO,1k-5k Employees,101 years old,New York City +71 more,
+HPCL-Mittal Energy Limited,4.3,802,Petrochemicals,1k-5k Employees,17 years old,Noida +24 more,
+Episource,3.8,856,IT Services & Consulting,1k-5k Employees,18 years old,Gardena +13 more,
+Decathlon,3.9,868,Retail,1k-5k Employees,48 years old,Lille +60 more,
+Thyrocare Technologies,3.6,861,Healthcare,1k-5k Employees,Public,28 years old,Mumbai +62 more
+Podar International School,4.3,856,Education & Training,5k-10k Employees,97 years old,Mumbai +110 more,
+Amazon Logistics,4.3,873,Logistics,51-200 Employees,Hyderabad / Secunderabad +124 more,,
+RBL FinServe,4.1,844,Financial Services,5k-10k Employees,19 years old,Mumbai +283 more,
+iQor Global Services,3.6,767,BPO,1k-5k Employees,26 years old,Saint Petersburg +48 more,
+Atos Global IT Solutions And Services,4.0,836,IT Services & Consulting,5k-10k Employees,24 years old,Navi Mumbai +17 more,
+Airtel Payments Bank,4.2,862,FinTech,501-1k Employees,Public,8 years old,Delhi/NCR +225 more
+OpenText Technologies,3.8,862,Software Product,1k-5k Employees,33 years old,Waterloo +10 more,
+Strides Pharma,3.9,806,Pharma,201-500 Employees,Public,34 years old,Bangalore/Bengaluru +31 more
+Arvind Lifestyle Brands,4.1,799,Retail,201-500 Employees,Bangalore / Bengaluru +85 more,,
+Bajaj Housing Finance,3.8,857,NBFC,1k-5k Employees,16 years old,Pune +122 more,
+JK Lakshmi Cement,3.9,823,Building Material,1k-5k Employees,Public,42 years old,Delhi/NCR +115 more
+Kirloskar Oil Engines,4.2,829,Industrial Machinery,1k-5k Employees,Public,78 years old,Pune +89 more
+Mando Automotive,3.9,786,Auto Components,1k-5k Employees,Fortune India 500,18 years old,Kanchipuram +17 more
+Sunknowledge Services,3.9,877,BPO,1k-5k Employees,18 years old,New York +11 more,
+iMerit,3.7,867,Software Product,1k-5k Employees,Startup,12 years old,Kolkata +11 more
+MDIndia Health Insurance TPA,3.8,819,Insurance,5k-10k Employees,24 years old,Pune +77 more,
+PNC Infratech,4.0,815,Engineering & Construction,5k-10k Employees,Public,25 years old,Delhi/NCR +75 more
+Sri Chaitanya Educational Institutions,3.8,808,Education & Training,50k-1 Lakh Employees,38 years old,Hyderabad/Secunderabad +86 more,
+FastInfo,4.3,849,EdTech,501-1k Employees,Startup,5 years old,Kolkata +7 more
+Shubham Housing Development Finance,3.9,841,NBFC,1k-5k Employees,14 years old,Gurgaon +115 more,
+Altimetrik,3.8,872,IT Services & Consulting,1k-5k Employees,12 years old,Southfield +10 more,
+V5 Global Services,3.9,845,Recruitment,10k-50k Employees,19 years old,Delhi/NCR +159 more,
+Kendriya Vidyalaya Sangathan,4.4,784,Education & Training,10k-50k Employees,Public,61 years old,Delhi/NCR +208 more
+Ion Exchange India,3.9,827,Waste Management,1k-5k Employees,Public,60 years old,Mumbai +91 more
+Parexel International,4.0,811,Clinical Research,1k-5k Employees,42 years old,Massachusetts +12 more,
+Onward Technologies Inc,3.2,789,Software Product,1k-5k Employees,Public,33 years old,Mumbai +60 more
+BGR Energy Systems,3.9,804,Engineering & Construction,1k-5k Employees,Public,39 years old,Chennai +49 more
+Jubilant Pharmova,4.0,775,Pharma,1k-5k Employees,Public,46 years old,Noida +53 more
+Aarvee Associates,4.0,809,Engineering & Construction,1k-5k Employees,35 years old,Hyderabad/Secunderabad +127 more,
+Barbeque Nation,4.0,809,Hospitality,5k-10k Employees,18 years old,Bangalore/Bengaluru +71 more,
+NTT DATA Business Solutions,3.8,879,IT Services & Consulting,1k-5k Employees,Bangalore / Bengaluru +24 more,,
+DCM Shriram,4.3,811,Chemicals,5k-10k Employees,Public,34 years old,Delhi/NCR +76 more
+Volkswagen,4.2,753,Automobile,1k-5k Employees,Forbes Global 2000,23 years old,Mumbai +95 more
+Novo Nordisk,4.2,831,Pharma,1k-5k Employees,Forbes Global 2000,101 years old,New York City +63 more
+Muthoot Microfin,4.5,823,NBFC,10k-50k Employees,9 years old,Ernakulam +245 more,
+Rockman Industries,3.9,801,Auto Components,1k-5k Employees,64 years old,Delhi/NCR +30 more,
+ReNew,4.3,848,Power,1k-5k Employees,13 years old,Gurugram +80 more,
+Intel,4.3,843,Semiconductors,10k-50k Employees,Public,56 years old,Santa Clara +32 more
+The Ramco Cements,4.3,810,Building Material,1k-5k Employees,Public,63 years old,Chennai +90 more
+Jacobs Engineering Group,4.0,805,Engineering & Construction,1k-5k Employees,Forbes Global 2000,77 years old,Dallas +35 more
+XcelServ Solutions,4.6,813,IT Services & Consulting,501-1k Employees,13 years old,Las Vegas +35 more,
+Edelweiss Tokio Life Insurance,3.9,803,Insurance,1k-5k Employees,13 years old,Mumbai +115 more,
+Softenger,4.3,814,IT Services & Consulting,501-1k Employees,25 years old,Pune +31 more,
+Chetu,3.3,849,Software Product,1k-5k Employees,24 years old,Sunrise +8 more,
+Evision Technoserve,4.7,809,Recruitment,51-200 Employees,12 years old,Delhi/NCR +63 more,
+Nippon Paint India,4.1,834,Chemicals,1k-5k Employees,Forbes Global 2000,143 years old,Osaka +124 more
+Medplus(optival Health Solutions),3.6,816,501-1k Employees,Fortune India 500,18 years old,Hyderabad +85 more,
+OM Logistics,4.1,767,Logistics,1k-5k Employees,25 years old,Delhi/NCR +102 more,
+Aerial Telecom Solutions,4.5,799,Telecom,5k-10k Employees,14 years old,Mohali +85 more,
+Lemon Tree Hotels,4.2,743,Hospitality,5k-10k Employees,Public,22 years old,Delhi/NCR +65 more
+Power Grid Corporation of India,4.4,798,Power,5k-10k Employees,Fortune India 500,35 years old,Gurgaon/Gurugram +184 more
+Pristyn Care,3.6,855,Healthcare,1k-5k Employees,Indian Unicorn,6 years old,Delhi +27 more
+1point1 Solutions,3.4,791,BPO,5k-10k Employees,Public,16 years old,Navi Mumbai +14 more
+Vertex Customer Solutions,3.6,665,IT Services & Consulting,5k-10k Employees,14 years old,Panchkula +31 more,
+Vistaar Finance,4.2,777,NBFC,1k-5k Employees,14 years old,Bengaluru/Bangalore +165 more,
+Provana,3.7,828,IT Services & Consulting,1k-5k Employees,13 years old,Lisle +6 more,
+Hyundai Mobis,3.9,795,Auto Components,1k-5k Employees,Forbes Global 2000,7 years old,Kanchipuram +43 more
+V2 Retail,3.5,765,Retail,1k-5k Employees,Public,23 years old,Delhi/NCR +89 more
+Ceasefire Industries,3.3,782,Industrial Machinery,1k-5k Employees,22 years old,Noida +69 more,
+Capacit'e Infraprojects,3.6,702,Engineering & Construction,1k-5k Employees,Public,12 years old,Mumbai +31 more
+Unicharm,4.2,771,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63 years old,Mita +143 more
+TechnipFMC,4.0,768,Industrial Machinery,1k-5k Employees,7 years old,Paris +39 more,
+Brillio,3.6,823,IT Services & Consulting,1k-5k Employees,10 years old,Edison +12 more,
+ThyssenKrupp Industries India,4.2,752,Industrial Machinery,1k-5k Employees,Conglomerate,77 years old,Pune +44 more
+Nykaa,3.5,819,Internet,1k-5k Employees,Public,12 years old,Mumbai +81 more
+Kotak Mahindra Prime,4.0,785,NBFC,5k-10k Employees,Public,28 years old,Mumbai +124 more
+GEP Worldwide,3.8,836,IT Services & Consulting,1k-5k Employees,25 years old,Clark +10 more,
+Hindustan Zinc,3.9,772,Metals & Mining,1k-5k Employees,Public,58 years old,Udaipur +29 more
+Qualcomm,4.0,813,Semiconductors,10k-50k Employees,Forbes Global 2000,28 years old,San Diego +15 more
+Happiest Minds Technologies,3.9,809,IT Services & Consulting,1k-5k Employees,Public,13 years old,Bangalore +14 more
+TEKsystems,3.5,802,IT Services & Consulting,1k-5k Employees,41 years old,Hanover +14 more,
+More Supermarket,3.8,801,Retail,10k-50k Employees,17 years old,Mumbai +126 more,
+CarDekho,3.7,791,Internet,1k-5k Employees,Indian Unicorn,16 years old,Jaipur +68 more
+Dana Anand,4.2,769,Auto Components,1k-5k Employees,31 years old,Delhi/NCR +38 more,
+ZF Steering Gear,3.8,763,Auto Components,501-1k Employees,Public,109 years old,Pune +23 more
+Hathway,3.7,754,Broadcasting,501-1k Employees,65 years old,Mumbai +49 more,
+CenturyPly,4.0,748,Furniture & Furnishing,1k-5k Employees,Public,38 years old,Kolkata +99 more
+Colliers International,4.0,776,Real Estate,1k-5k Employees,29 years old,Ontario +34 more,
+Intex Technologies,3.7,727,Consumer Electronics & Appliances,1k-5k Employees,Public,28 years old,Delhi/NCR +71 more
+Acuity Knowledge Partners,3.5,814,Financial Services,1k-5k Employees,22 years old,London +11 more,
+Stanza Living,3.1,801,Internet,501-1k Employees,Startup,7 years old,Delhi +30 more
+Karur Vysya Bank,3.7,787,Banking,5k-10k Employees,Public,108 years old,Karur +142 more
+Tube Investments of India,4.0,756,Engineering & Construction,1k-5k Employees,Public,75 years old,Chennai +54 more
+Reliance AJIO,3.8,793,Internet,1k-5k Employees,8 years old,Bengaluru +189 more,
+United Alliance Technology,4.9,777,IT Services & Consulting,Pune +9 more,,,
+TK Elevator,4.1,737,Industrial Machinery,1k-5k Employees,29 years old,Essen +64 more,
+Aditya Birla Finance,3.9,804,NBFC,1k-5k Employees,12 years old,Mumbai +152 more,
+TradeIndia (Infocom Network Private Limited),3.5,751,Internet,1k-5k Employees,28 years old,Noida +38 more,
+Pizza Hut,4.0,750,Hospitality,1k-5k Employees,66 years old,Plano +103 more,
+Bosch Chassis Systems,4.2,709,Auto Components,1k-5k Employees,73 years old,Gerlingen +21 more,
+Feedback Infrastructure Services,3.5,729,Engineering & Construction,5k-10k Employees,34 years old,Gurgaon/Gurugram +118 more,
+Apotex Research,4.2,706,Pharma,201-500 Employees,21 years old,Brantford +13 more,
+Imperial Auto Industries,3.9,758,Auto Components,1k-5k Employees,Public,55 years old,Faridabad +35 more
+Rashmi Metaliks,3.6,760,Iron & Steel,1k-5k Employees,20 years old,Kolkata +27 more,
+Secure Meters,4.1,749,Electronics Manufacturing,1k-5k Employees,Public,37 years old,Udaipur +69 more
+Spandana Sphoorty Financial,3.8,746,NBFC,10k-50k Employees,Public,26 years old,Hyderabad/Secunderabad +227 more
+Syngenta,4.3,767,Agriculture,1k-5k Employees,24 years old,Basel +139 more,
+Kirloskar Brothers,4.0,759,Industrial Machinery,1k-5k Employees,Public,136 years old,Pune +58 more
+Diageo,4.0,775,Beverage,1k-5k Employees,Public,27 years old,London +83 more
+Sundaram Finance,4.2,756,NBFC,1k-5k Employees,Public,70 years old,Chennai +206 more
+Colgate Palmolive,4.2,743,FMCG,1k-5k Employees,Public,87 years old,New York +96 more
+Fidelity Investments,4.3,806,Financial Services,5k-10k Employees,81 years old,Boston +16 more,
+Genius Consultants,3.8,759,Recruitment,201-500 Employees,31 years old,Kolkata +76 more,
+H.G. Infra Engineering,4.4,758,Engineering & Construction,1k-5k Employees,Public,21 years old,Jaipur +77 more
+Ahluwalia Contracts India,4.1,742,Engineering & Construction,1k-5k Employees,Public,59 years old,Delhi/NCR +49 more
+Kinara Capital,4.5,806,FinTech,1k-5k Employees,13 years old,Bangalore +108 more,
+Pricol,4.0,738,Auto Components,1k-5k Employees,Public,49 years old,Coimbatore +26 more
+Dassault Systemes,4.0,787,Software Product,5k-10k Employees,Forbes Global 2000,43 years old,Velizy-villacoublay +9 more
+PayPal,3.9,806,FinTech,1k-5k Employees,Forbes Global 2000,26 years old,San Jose +12 more
+Orchids International School,3.1,772,Education & Training,1k-5k Employees,20 years old,Nasik/Nashik +25 more,
+Nilkamal,3.9,742,Furniture & Furnishing,1k-5k Employees,Public,43 years old,Mumbai +95 more
+Tata Chemicals,4.2,707,Chemicals,1k-5k Employees,Public,85 years old,Mumbai +79 more
+Sundaram Clayton,4.1,714,Auto Components,1k-5k Employees,Public,62 years old,Chennai +24 more
+Shalby Hospitals,4.6,790,Healthcare,1k-5k Employees,Public,30 years old,Ahmedabad +23 more
+CALIBEHR,4.1,754,Recruitment,10k-50k Employees,45 years old,Mumbai +128 more,
+VIP Industries,4.0,738,Retail,1k-5k Employees,Public,53 years old,Mumbai +85 more
+Incedo,3.4,779,IT Services & Consulting,1k-5k Employees,13 years old,Iselin +10 more,
+FLSmidth,3.7,750,Industrial Machinery,1k-5k Employees,142 years old,Copenhagen +21 more,
+JTEKT,4.2,755,Auto Components,1k-5k Employees,Public,18 years old,Osaka +23 more
+Gmmco,4.2,740,Industrial Machinery,1k-5k Employees,57 years old,Chennai +79 more,
+Visionet Systems,3.2,751,IT Services & Consulting,1k-5k Employees,29 years old,Cranbury +12 more,
+Fusion Microfinance,4.1,759,NBFC,10k-50k Employees,14 years old,Delhi +208 more,
+eClinicalWorks,3.9,759,Software Product,1k-5k Employees,25 years old,Westborough +13 more,
+Mahindra First Choice Wheels,3.8,729,Internet,1k-5k Employees,30 years old,Mumbai +109 more,
+Air India,4.1,751,Aviation,10k-50k Employees,Central,94 years old,Delhi/NCR +54 more
+SLK Global Services,3.8,719,BPO,1k-5k Employees,24 years old,Dallas +8 more,
+Egis  India Consulting Engineers,4.2,707,Engineering & Construction,1k-5k Employees,19 years old,Gurgaon/Gurugram +98 more,
+AstraZeneca,4.2,738,Pharma,501-1k Employees,Public,25 years old,Cambridge +42 more
+Perfetti Van Melle,4.3,723,Food Processing,1k-5k Employees,23 years old,Lainate +124 more,
+Nirma,4.3,706,FMCG,10k-50k Employees,Fortune India 500,34 years old,Ahmedabad +53 more
+MakeMyTrip,3.7,741,Internet,5k-10k Employees,Public,24 years old,Gurgaon +37 more
+KIMS Hospital,4.1,716,Healthcare,1k-5k Employees,12 years old,Hyderabad/Secunderabad +39 more,
+Next Education India,3.8,727,EdTech,1k-5k Employees,17 years old,Hyderabad/Secunderabad +80 more,
+VeeTechnologies,3.8,745,IT Services & Consulting,1k-5k Employees,24 years old,New York +27 more,
+Pacific BPO,3.5,751,BPO,1k-5k Employees,14 years old,Noida +16 more,
+LOREAL,4.1,721,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33 years old,Clichy +84 more
+Caratlane Trading,4.3,762,Retail,1k-5k Employees,16 years old,Chennai +55 more,
+Hikal,4.0,723,Pharma,1k-5k Employees,36 years old,Mumbai +17 more,
+MAHLE ANAND Filter Systems,4.2,719,Auto Components,1k-5k Employees,19 years old,Stuttgart +25 more,
+Teva Pharmaceuticals,4.2,733,Pharma,1k-5k Employees,Forbes Global 2000,123 years old,Dublin +33 more
+INDO-MIM,4.3,708,Industrial Machinery,1k-5k Employees,28 years old,Bangalore/Bengaluru +20 more,
+Capital Numbers Infotech,4.7,743,IT Services & Consulting,501-1k Employees,12 years old,Kolkata +16 more,
+Birla Corporation,4.2,732,Building Material,5k-10k Employees,Public,105 years old,Kolkata +111 more
+HFCL,4.2,722,Hardware & Networking,1k-5k Employees,Public,37 years old,Delhi/NCR +93 more
+Vedanta Aluminium,4.0,739,Metals & Mining,1k-5k Employees,21 years old,Jharsuguda +32 more,
+Fluor Corporation,4.3,639,Forbes Global 2000,Gurgaon / Gurugram +22 more,,,
+Prodapt,3.8,746,IT Services & Consulting,1k-5k Employees,25 years old,Chennai +11 more,
+C&S Electric,4.0,703,Electrical Equipment,5k-10k Employees,58 years old,Delhi/NCR +48 more,
+Webhelp,3.8,754,BPO,1k-5k Employees,24 years old,Paris +14 more,
+SitusAMC,3.3,736,Software Product,1k-5k Employees,Gurgaon / Gurugram +17 more,,
+ICICI Prudential Mutual Fund,3.8,726,Financial Services,1k-5k Employees,31 years old,New Delhi +132 more,
+CADD Centre Training Services,4.1,635,Education & Training,1k-5k Employees,36 years old,Chennai +123 more,
+Zoho,4.4,790,Software Product,10k-50k Employees,28 years old,Chennai +26 more,
+Pernod Ricard,3.9,717,Beverage,1k-5k Employees,Forbes Global 2000,49 years old,Paris +96 more
+Future Focus Infotech,3.6,694,IT Services & Consulting,5k-10k Employees,27 years old,Chennai +54 more,
+Metropolis Healthcare,4.1,687,Healthcare,1k-5k Employees,Conglomerate,44 years old,Mumbai +77 more
+Uber,4.2,728,Internet,1k-5k Employees,Public,15 years old,San Francisco +44 more
+Patra Corporation,3.8,721,BPO,1k-5k Employees,19 years old,El Dorado Hills +14 more,
+Troikaa Pharmaceuticals,3.7,706,Pharma,1k-5k Employees,41 years old,Ahmedabad +68 more,
+Mu Sigma,2.8,781,Analytics & KPO,1k-5k Employees,Indian Unicorn,20 years old,Northbrook +10 more
+Better.com,3.0,721,Financial Services,1k-5k Employees,Startup,8 years old,New York City +5 more
+Air India Sats Airport Services,3.8,685,Aviation,1k-5k Employees,14 years old,Mumbai +33 more,
+Orion Edutech,3.3,678,EdTech,5k-10k Employees,18 years old,Kolkata +105 more,
+Ford Business Solutions,4.5,717,IT Services & Consulting,10k-50k Employees,26 years old,Dearborn +42 more,
+SBFC Finance,3.8,743,NBFC,1k-5k Employees,7 years old,Mumbai +156 more,
+TNQ Technologies,3.7,709,Printing & Publishing,1k-5k Employees,26 years old,Chennai +9 more,
+Skill Lync,3.1,730,EdTech,1k-5k Employees,Startup,9 years old,Palo Alto +13 more
+Thomas Cook,3.9,681,Travel & Tourism,1k-5k Employees,Public,143 years old,Mumbai +75 more
+Otis Elevator,4.1,693,Industrial Machinery,1k-5k Employees,171 years old,Farmington +59 more,
+Wheels,4.1,675,Auto Components,1k-5k Employees,Public,62 years old,Chennai +35 more
+Neel Metal Products,4.1,647,Metals & Mining,501-1k Employees,41 years old,Gurgaon +32 more,
+Amara Raja Group,4.2,706,Auto Components,5k-10k Employees,Public,39 years old,Bangalore/Bengaluru +56 more
+C.R.I. Pumps,3.9,664,Industrial Machinery,1k-5k Employees,63 years old,Coimbatore +59 more,
+Indira IVF Hospital,4.0,686,Healthcare,1k-5k Employees,9 years old,Mumbai +85 more,
+Centre for Development of Advanced Computing,3.9,708,IT Services & Consulting,1k-5k Employees,36 years old,Pune +28 more,
+GVPR Engineers,4.0,693,Engineering & Construction,501-1k Employees,Public,27 years old,Hyderabad/Secunderabad +67 more
+Schaeffler India,4.2,683,Auto Components,1k-5k Employees,Public,78 years old,Mumbai +18 more
+Yashoda Hospitals,3.9,653,Healthcare,501-1k Employees,35 years old,Ghaziabad +24 more,
+Federal Bank,3.9,698,Banking,10k-50k Employees,Public,93 years old,Aluva +117 more
+Quest Retail Private Limited,4.5,696,Retail,501-1k Employees,19 years old,Gurgaon/Gurugram +71 more,
+Test Yantra Software Solutions,3.4,713,IT Services & Consulting,1k-5k Employees,Public,17 years old,Bangalore/Bengaluru +15 more
+Toppr,3.4,676,EdTech,1k-5k Employees,Startup,11 years old,Mumbai +43 more
+Leadec India,4.0,666,Facility Management Services,1k-5k Employees,62 years old,Stuttgart +51 more,
+Willis Towers Watson,3.9,700,Financial Services,1k-5k Employees,Forbes Global 2000,8 years old,London +15 more
+Pramerica Life Insurance,3.9,680,Insurance,1k-5k Employees,10 years old,Gurgaon +117 more,
+Vertiv,4.0,677,IT Services & Consulting,51-200 Employees (Global),Startup,8 years old,Columbus +46 more
+Bank of India,4.0,677,Banking,50k-1 Lakh Employees,Fortune India 500,118 years old,Mumbai +158 more
+Aarvi Encon,4.1,675,Recruitment,5k-10k Employees,Public,37 years old,Mumbai +94 more
+Aviva Life Insurance India,3.6,671,Insurance,1k-5k Employees,Forbes Global 2000,328 years old,London +105 more
+Alok Industries,3.8,659,Fashion & Textile,10k-50k Employees,Public,38 years old,Mumbai +29 more
+Huhtamaki,3.9,650,Packaging,1k-5k Employees,89 years old,Espoo +32 more,
+Meril,3.9,698,Medical Equipment,1k-5k Employees,18 years old,Vapi +63 more,
+Shriram General Insurance,3.7,679,Insurance,1k-5k Employees,16 years old,Jaipur +159 more,
+Suzuki Motorcycle,4.1,658,Automobile,1k-5k Employees,27 years old,Hamamatsu-shi +97 more,
+Everest Industries,4.1,676,Building Material,1k-5k Employees,Public,90 years old,Noida +70 more
+Gharda Chemicals,4.2,656,Chemicals,1k-5k Employees,57 years old,Mumbai +56 more,
+Grant Thornton,3.7,693,Accounting & Auditing,5k-10k Employees,100 years old,Chicago +45 more,
+Napino Auto & Electronics,4.1,677,Auto Components,5k-10k Employees,Public,27 years old,Gurgaon/Gurugram +15 more
+Centum Electronics,3.9,664,Electronics Manufacturing,1k-5k Employees,Public,30 years old,Bangalore/Bengaluru +13 more
+Dunzo,3.5,705,Internet,1k-5k Employees,Startup,10 years old,Bangalore +18 more
+DLF,4.0,684,Real Estate,501-1k Employees,Public,78 years old,Gurgaon/Gurugram +28 more
+Digit Insurance,3.9,715,Insurance,1k-5k Employees,Fortune India 500,8 years old,Bengaluru/Bangalore +69 more
+Marks & Spencer,4.0,682,Retail,1k-5k Employees,Forbes Global 2000,140 years old,London +56 more
+Lakshmi Machine Works,4.0,677,Industrial Machinery,1k-5k Employees,Public,62 years old,Coimbatore +22 more
+Godrej Agrovet,4.1,668,Agriculture,1k-5k Employees,Mumbai +108 more,,
+Zydus Wellness,3.9,715,FMCG,501-1k Employees,Public,36 years old,Ahmedabad +99 more
+Aspire Systems,3.9,711,IT Services & Consulting,1k-5k Employees,28 years old,Oak Brook +17 more,
+Columbia Asia,4.4,588,Healthcare,1k-5k Employees,19 years old,Bangalore/Bengaluru +20 more,
+THE LEELA PALACES HOTELS & RESORTS,4.0,627,Hospitality,1k-5k Employees,Conglomerate,41 years old,Mumbai +27 more
+Rupeek,3.7,699,FinTech,1k-5k Employees,Startup,9 years old,Bangalore +55 more
+Westside,4.1,673,Fashion & Textile,5k-10k Employees,26 years old,Mumbai +97 more,
+Aparna Constructions and Estates,4.2,667,Real Estate,1k-5k Employees,28 years old,Hyderabad/Secunderabad +17 more,
+HT Media,3.3,662,Media & Entertainment,1k-5k Employees,Public,100 years old,Delhi/NCR +39 more
+Sykes Business Services Of India,3.5,666,BPO,10k-50k Employees,47 years old,Tampa +16 more,
+Sandhar Technologies,3.9,656,Auto Components,1k-5k Employees,Public,37 years old,Gurgaon/Gurugram +28 more
+Parekh Integrated Services,4.1,655,Logistics,1k-5k Employees,43 years old,Mumbai +69 more,
+Bechtel,4.1,635,Engineering & Construction,1k-5k Employees,126 years old,Reston +25 more,
+Allianz Technology,4.3,705,IT Services & Consulting,1k-5k Employees,134 years old,Munich +12 more,
+Kohler,3.9,686,Building Material,1k-5k Employees,151 years old,Kohler +39 more,
+Duck Creek Technologies,4.5,678,Software Product,501-1k Employees,24 years old,Boston +6 more,
+Star Cement,4.1,665,Building Material,1k-5k Employees,Public,23 years old,Kolkata +62 more
+Greaves Cotton,4.1,647,Auto Components,501-1k Employees,Public,165 years old,Mumbai +38 more
+Vedanta Resources,3.9,680,Metals & Mining,1k-5k Employees,Public,48 years old,London +59 more
+Knorr-Bremse,4.1,666,Auto Components,501-1k Employees,Forbes Global 2000,11 years old,Munich +26 more
+Natco Pharma,4.0,661,Pharma,1k-5k Employees,Public,43 years old,Hyderabad/Secunderabad +48 more
+KEI Industries,4.2,655,Electrical Equipment,1k-5k Employees,Public,56 years old,Delhi/NCR +75 more
+Timken,3.9,659,Industrial Machinery,1k-5k Employees,Public,26 years old,Bangalore/Bengaluru +35 more
+Panacea Biotec,3.9,634,Biotechnology,1k-5k Employees,Public,40 years old,Delhi/NCR +52 more
+ffreedom app,3.6,682,Internet,501-1k Employees,4 years old,Bengaluru/Bangalore +21 more,
+Godfrey Phillips India,4.1,647,FMCG,501-1k Employees,Public,91 years old,Delhi/NCR +86 more
+National Health Mission,3.7,624,Healthcare,10k-50k Employees,19 years old,Guwahati +234 more,
+Samsung Engineering,4.2,620,Engineering & Construction,1k-5k Employees,18 years old,Suwon-Si +47 more,
+United Breweries,3.9,644,Beverage,1k-5k Employees,Public,167 years old,Bangalore/Bengaluru +89 more
+Varroc Polymers,3.9,638,Auto Components,201-500 Employees,29 years old,Aurangabad +31 more,
+Medha Servo Drives,4.3,652,Electrical Equipment,1k-5k Employees,40 years old,Hyderabad/Secunderabad +46 more,
+SHYAM METALICS AND ENERGY,3.7,679,Iron & Steel,1k-5k Employees,Fortune India 500,29 years old,Kolkata +46 more
+Asirvad Microfinance,4.0,674,NBFC,10k-50k Employees,17 years old,Chennai +212 more,
+Franklin Templeton Investments,4.2,640,1k-5k Employees,77 years old,San Mateo +27 more,,
+NielsenIQ,3.9,736,IT Services & Consulting,5k-10k Employees,101 years old,Chicago +30 more,
+Samsung Research,3.4,720,Consumer Electronics & Appliances,1k-5k Employees,55 years old,Seocho-gu +11 more,
+Atlas Copco,4.3,659,Industrial Machinery,1k-5k Employees,Public,151 years old,Nacka Municipality +50 more
+Page Industries,4.2,665,Fashion & Textile,10k-50k Employees,Public,30 years old,Bangalore/Bengaluru +75 more
+Defence Research & Development Organisation,4.5,636,Defence & Aerospace,10k-50k Employees,Central,66 years old,Delhi/NCR +44 more
+LEAD School,3.3,705,EdTech,1k-5k Employees,Indian Unicorn,11 years old,Mumbai +89 more
+Astral Pipe,4.3,674,Building Material,1-10 Employees,Fortune India 500,Ahmedabad +96 more,
+Greenko Group,3.9,632,Power,1k-5k Employees,20 years old,Hyderabad +58 more,
+ValueMomentum,3.4,688,IT Services & Consulting,1k-5k Employees,24 years old,Piscataway +7 more,
+Infra.Market,4.2,707,Building Material,1k-5k Employees,Indian Unicorn,8 years old,Thane +76 more
+Tata Consumer Products,3.9,670,FMCG,1k-5k Employees,Public,62 years old,Mumbai +144 more
+Piramal Pharma,4.0,710,Pharma,1k-5k Employees,Public,36 years old,Lexington +51 more
+Indusind Marketing & Financial Services,4.0,633,Financial Services,501-1k Employees,22 years old,Chennai +244 more,
+T-SYSTEMS ICT INDIA,3.9,698,IT Services & Consulting,1k-5k Employees,Public,8 years old,Frankfurt +9 more
+Bayer Crop Science Vegetable Seeds,4.4,604,Hyderabad / Secunderabad +134 more,,,,
+Precision Techserve,3.8,650,IT Services & Consulting,1k-5k Employees,25 years old,Chennai +84 more,
+NetAmbit,3.3,657,BPO,10k-50k Employees,24 years old,Noida +87 more,
+Qinecsa Solutions,2.9,652,Clinical Research,Mysuru / Mysore +9 more,,,
+Aristo Pharmaceuticals,4.1,644,Pharma,1k-5k Employees,53 years old,Mumbai +89 more,
+Adani Green Energy,4.2,677,Power,1k-5k Employees,Fortune India 500,9 years old,Ahmedabad +67 more
+Kalpataru Group,3.9,672,Real Estate,1k-5k Employees,Conglomerate,55 years old,Mumbai +64 more
+SFO Technologies,3.6,640,Electronics Manufacturing,1k-5k Employees,34 years old,Kochi/Cochin +14 more,
+Future Supply Chain Solutions,4.3,616,Logistics,1k-5k Employees,Public,18 years old,Mumbai +62 more
+Rebel Foods,3.8,672,Internet,5k-10k Employees,Indian Unicorn,12 years old,Mumbai +61 more
+Financial Software & Systems,3.8,639,FinTech,1k-5k Employees,33 years old,Chennai +26 more,
+Acme Cleantech Solutions,4.0,546,Industrial Machinery,1k-5k Employees,21 years old,Gurgaon/Gurugram +79 more,
+Northern Trust,3.8,708,Financial Services,5k-10k Employees,Bangalore / Bengaluru +15 more,,
+Salesforce,4.1,697,Software Product,5k-10k Employees,Public,25 years old,San Francisco +26 more
+Galfar,4.1,604,Engineering & Construction,1k-5k Employees,52 years old,Muscat +34 more,
+Cult.fit,3.8,695,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8 years old,Bangalore +35 more
+Innova Solutions,3.6,684,IT Services & Consulting,1k-5k Employees,26 years old,Atlanta +24 more,
+Lumina Datamatics,3.5,648,IT Services & Consulting,1k-5k Employees,49 years old,Mumbai +15 more,
+Mswipe Technologies,3.1,632,FinTech,1k-5k Employees,13 years old,Mumbai +80 more,
+Velocis Systems,3.9,637,IT Services & Consulting,1k-5k Employees,29 years old,Noida +46 more,
+AtkinsRealis,4.2,585,Engineering & Construction,1k-5k Employees,Public,113 years old,Montreal +52 more
+Michelin,3.9,653,Auto Components,1k-5k Employees,15 years old,Clermont-Ferrand +41 more,
+Snapdeal,4.0,604,Internet,1k-5k Employees,Indian Unicorn,14 years old,Delhi +30 more
+Prochant,4.4,696,BPO,1k-5k Employees,25 years old,Prochant +7 more,
+Citco,3.1,678,Financial Services,1k-5k Employees,8 years old,Cayman Islands +11 more,
+Fareportal,3.3,651,Internet,1k-5k Employees,22 years old,New York +11 more,
+General Mills,4.2,648,Food Processing,1k-5k Employees,Forbes Global 2000,96 years old,Minneapolis +41 more
+Lowe's,4.2,682,Retail,1k-5k Employees,Forbes Global 2000,78 years old,Mooresville +6 more
+City Union Bank,3.4,677,Banking,5k-10k Employees,Public,120 years old,Thanjavur +120 more
+CNH,4.2,656,Automobile,1k-5k Employees,Public,11 years old,London +55 more
+NBC Bearings,3.9,649,Auto Components,1k-5k Employees,Public,78 years old,Jaipur +25 more
+Nityo Infotech,3.1,640,IT Services & Consulting,1k-5k Employees,18 years old,plainsboro New Jersey +27 more,
+Quess IT Staffing Solutions,3.4,593,Conglomerate,Bangalore / Bengaluru +51 more,,,
+J B Chemicals And Pharmaceuticals,3.9,634,Pharma,1k-5k Employees,Public,48 years old,Mumbai +70 more
+Athena BPO,3.2,637,BPO,201-500 Employees,5 years old,Mumbai +26 more,
+NetCracker,3.0,660,IT Services & Consulting,1k-5k Employees,31 years old,Waltham +8 more,
+Netscribes,2.9,652,Analytics & KPO,1k-5k Employees,24 years old,New York +8 more,
+Bayer,4.2,644,Pharma,10k-50k Employees,Public,161 years old,Monheim Am Rhein +98 more
+Royal Sundaram General Insurance,4.0,625,Insurance,1k-5k Employees,23 years old,Chennai +91 more,
+ICCS,3.3,639,BPO,501-1k Employees,19 years old,Delhi/NCR +25 more,
+Sanden Vikas,4.0,604,Auto Components,1k-5k Employees,42 years old,Faridabad +22 more,
+Karvy Stock Broking,3.7,604,1k-5k Employees,34 years old,Hyderabad/Secunderabad +101 more,,
+Musashi Auto Parts,4.0,599,Auto Components,1k-5k Employees,86 years old,Gurgaon/Gurugram +20 more,
+GAMMON INDIA,3.8,531,Engineering & Construction,11-50 Employees,Public,102 years old,Mumbai +66 more
+Aparajitha Corporate Services,4.0,606,Legal,1k-5k Employees,24 years old,Madurai +72 more,
+DuPont,4.1,604,Waste Management,1k-5k Employees,222 years old,Wilmington +46 more,
+Hitachi Payment Services,3.8,620,FinTech,1k-5k Employees,16 years old,Mumbai +46 more,
+Shilpa Medicare,3.6,614,Pharma,1k-5k Employees,Public,37 years old,Raichur +28 more
+Sandvik Asia,4.3,564,Industrial Machinery,10k-50k Employees (Global),162 years old,Stockholm +35 more,
+Collins Aerospace,4.1,642,Defence & Aerospace,1k-5k Employees,91 years old,Charlotte +7 more,
+Border Security Force,4.5,604,Law Enforcement & Security,1 Lakh+ Employees,59 years old,Delhi/NCR +88 more,
+OCS Group,4.0,598,Facility Management Services,10k-50k Employees,28 years old,Mumbai +48 more,
+Jabil Circuit India,4.0,622,Electronics Manufacturing,1k-5k Employees,Public,58 years old,St Petersburg +12 more
+Artech Infosystems,3.6,616,1k-5k Employees,32 years old,Morristown +20 more,,
+Tata Electronics,4.0,703,Semiconductors,11-50 Employees,Startup,Krishnagiri +18 more,
+Temenos,3.3,649,Software Product,1k-5k Employees,31 years old,Geneva +8 more,
+Signify,3.6,617,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8 years old,Eindhoven +63 more
+Knight Frank,4.2,615,Real Estate,501-1k Employees,128 years old,London +42 more,
+Merino Industries,3.8,602,Furniture & Furnishing,1k-5k Employees,Public,56 years old,Delhi/NCR +56 more
+Medusind Solutions,3.8,626,IT Services & Consulting,1k-5k Employees,22 years old,Mumbai +9 more,
+OLX,3.8,615,Internet,1k-5k Employees,18 years old,Gurgaon +47 more,
+Schlumberger,4.1,613,Oil & Gas,5k-10k Employees,Forbes Global 2000,98 years old,Houston +27 more
+Genpact Headstrong Capital Markets,3.8,606,IT Services & Consulting,1k-5k Employees,26 years old,New Delhi +18 more,
+Navayuga Engineering Company,4.1,584,Engineering & Construction,501-1k Employees,125 years old,Hyderabad/Secunderabad +58 more,
+Zepto,3.7,672,Internet,1k-5k Employees,Indian Unicorn,3 years old,Mumbai +29 more
+Tata Starbucks,4.3,605,Hospitality,1k-5k Employees,53 years old,Mumbai +40 more,
+ESL Steel,4.1,583,Iron & Steel,5k-10k Employees,Public,18 years old,Jharkhand +19 more
+DAV Public School,4.1,574,Education & Training,1 Lakh+ Employees,138 years old,Delhi/NCR +139 more,
+Micromax Informatics,3.7,551,Consumer Electronics & Appliances,1k-5k Employees,24 years old,Gurgaon/Gurugram +112 more,
+HomeLane,3.5,641,Architecture & Interior Design,1k-5k Employees,Startup,10 years old,Bangalore +34 more
+Adani Enterprises,3.9,627,10k-50k Employees,Public,36 years old,Ahmedabad +56 more,
+Mastek,3.6,640,IT Services & Consulting,1k-5k Employees,Public,42 years old,Mumbai +18 more
+Porter,4.2,633,Internet,1k-5k Employees,Startup,10 years old,Bangalore +24 more
+Arohan Financial Services,4.1,607,NBFC,5k-10k Employees,18 years old,Kolkata +159 more,
+Xebia,3.5,638,IT Services & Consulting,1k-5k Employees,23 years old,Hilversum +16 more,
+Ageas Federal Life Insurance,3.6,598,Insurance,1k-5k Employees,16 years old,Mumbai +110 more,
+Quantiphi Analytics Solutions Private Limited,3.1,655,IT Services & Consulting,1k-5k Employees,Startup,11 years old,Marlborough +11 more
+Volvo,4.1,593,Automobile,1k-5k Employees,Forbes Global 2000,97 years old,Gothenburg +36 more
+The Akshaya Patra Foundation,4.6,768,Non-Profit,5k-10k Employees,24 years old,Bangalore/Bengaluru +67 more,
+Reliance Power,4.2,676,Power,1k-5k Employees,Public,29 years old,Navi Mumbai +29 more
+Eveready Industries,4.0,578,Consumer Electronics & Appliances,1k-5k Employees,Public,90 years old,Kolkata +77 more
+AuthBridge Research Services,3.7,631,IT Services & Consulting,1k-5k Employees,19 years old,Gurgaon +13 more,
+Rungta Mines,4.1,621,Metals & Mining,1k-5k Employees,Public,62 years old,Singhbum +24 more
+Guardian India,4.1,614,Insurance,1k-5k Employees,164 years old,New York  +9 more,
+BNP Paribas India Solutions,4.0,606,IT Services & Consulting,5k-10k Employees,176 years old,Paris +9 more,
+GlaxoSmithKline Consumer Healthcare,4.5,547,Pharma,1k-5k Employees,Public,24 years old,London +93 more
+RAMTeCH Software Solutions,3.9,572,IT Services & Consulting,1k-5k Employees,32 years old,Noida +27 more,
+Amul Dairy,4.2,590,Food Processing,1k-5k Employees,76 years old,Anand +127 more,
+TÜV NORD,3.8,592,Other,201-500 Employees,35 years old,Mumbai +57 more,
+Globant,4.0,648,Software Product,1k-5k Employees,21 years old,San Francisco +12 more,
+CRB Tech Solution,4.1,602,EdTech,501-1k Employees,23 years old,Pune +9 more,
+Dhani Services,3.5,551,201-500 Employees,7 years old,Mumbai +75 more,,
+Svatantra Microfin,4.2,620,NBFC,5k-10k Employees,12 years old,Mumbai +235 more,
+Prism Johnson,4.0,610,Building Material,1k-5k Employees,Public,32 years old,Mumbai +106 more
+First Advantage,3.9,594,Recruitment,1k-5k Employees,21 years old,Atlanta +12 more,
+Kutumbh Care,3.9,580,Recruitment,5k-10k Employees,17 years old,Noida +159 more,
+Amphenol Interconnect,4.2,578,Electrical Equipment,201-500 Employees,52 years old,Pune +13 more,
+Kurlon,4.3,578,Furniture & Furnishing,501-1k Employees,62 years old,Bangalore/Bengaluru +84 more,
+IMPACT Infotech,3.6,584,Recruitment,1k-5k Employees,30 years old,Pune +55 more,
+Bridge & Roof Co,3.6,525,Engineering & Construction,1k-5k Employees,Central,104 years old,Kolkata +60 more
+Salcomp Manufacturing,4.2,597,Electronics Manufacturing,1k-5k Employees,18 years old,Salo +20 more,
+GirnarSoft,3.6,592,IT Services & Consulting,1k-5k Employees,17 years old,Jaipur +44 more,
+Veradigm,4.1,580,Pune +6 more,,,,
+Steag Energy Services,4.2,563,Power,1k-5k Employees,24 years old,Essen +38 more,
+NoBrokerHOOD,3.3,613,Software Product,1k-5k Employees,Startup,Bangalore / Bengaluru +27 more,
+ICA Edu Skills,3.8,564,Education & Training,1k-5k Employees,25 years old,Kolkata +114 more,
+GE Healthcare,4.2,621,Healthcare,1k-5k Employees,30 years old,Chicago +29 more,
+ACL Digital,3.6,607,IT Services & Consulting,1k-5k Employees,32 years old,Santa Clara +20 more,
+Deccan Fine Chemicals,3.7,597,Agro Chemicals,1k-5k Employees,16 years old,Hyderabad/Secunderabad +20 more,
+Jaya Hind Industries,3.8,558,Auto Components,1k-5k Employees,Public,77 years old,Pune +21 more
+Deepak Fertilisers and Petrochemicals,3.9,584,Agro Chemicals,1k-5k Employees,Public,45 years old,Pune +46 more
+Edubridge Learning,4.1,678,EdTech,501-1k Employees,15 years old,Mumbai +62 more,
+Bitwise Solutions,4.2,600,IT Services & Consulting,1k-5k Employees,28 years old,Schaumburg +7 more,
+McDermott International,4.2,561,Engineering & Construction,1k-5k Employees,Public,101 years old,Houston +28 more
+Carnival Cruise Lines,4.5,562,Sports & Recreation,1k-5k Employees,Public,52 years old,Miami +26 more
+Transsion,4.2,542,Consumer Electronics & Appliances,501-1k Employees,Public,18 years old,Shenzhen +57 more
+Indium Software,4.1,677,IT Services & Consulting,1k-5k Employees,25 years old,Chennai +9 more,
+Bpo Convergence,3.6,589,BPO,1k-5k Employees,Conglomerate,10 years old,Bhubaneswar +32 more
+Ashirvad Pipes,4.1,588,Building Material,1k-5k Employees,49 years old,Bangalore/Bengaluru +85 more,
+Advik Hi Tech,3.8,555,Auto Components,1k-5k Employees,24 years old,Pune +22 more,
+Medlife,3.7,527,Internet,1k-5k Employees,Startup,10 years old,Bangalore +28 more
+Tata Hitachi Construction Machinery,4.1,586,Industrial Machinery,1k-5k Employees,Fortune India 500,25 years old,Bangalore/Bengaluru +66 more
+Embibe,3.7,622,EdTech,1k-5k Employees,Startup,12 years old,Bangalore +18 more
+Simplilearn,3.2,601,EdTech,1k-5k Employees,15 years old,San Francisco +9 more,
+Union Bank of India,4.1,584,Banking,50k-1 Lakh Employees,Public,105 years old,Mumbai +123 more
+Fractal Analytics,4.0,626,Analytics & KPO,1k-5k Employees,Indian Unicorn,24 years old,New York City +13 more
+Silaris Informations,3.2,586,BPO,1k-5k Employees,13 years old,Delhi/NCR +19 more,
+TCNS Clothing Company,4.1,573,Fashion & Textile,501-1k Employees,Public,23 years old,Delhi/NCR +96 more
+Swaraj Tractors,4.2,572,Automobile,1k-5k Employees,Conglomerate,62 years old,Mumbai +75 more
+Comviva Technology,3.3,596,IT Services & Consulting,1k-5k Employees,25 years old,Gurgaon +17 more,
+Amazon Services,4.2,544,Hyderabad / Secunderabad +46 more,,,,
+H&M,4.0,583,Fashion & Textile,1k-5k Employees,Forbes Global 2000,77 years old,Stockholm +45 more
+L&T Power,3.9,562,Power,1k-5k Employees,Public,18 years old,Mumbai +87 more
+Amazon Web Services,4.0,609,Software Product,10k-50k Employees,Public,18 years old,Seattle +45 more
+Citigroup,3.7,603,Banking,10k-50k Employees,Forbes Global 2000,212 years old,New York City +35 more
+Times Internet,3.6,579,Internet,10k-50k Employees,Public,25 years old,Gurgaon +23 more
+Varthana,4.4,572,Financial Services,501-1k Employees,11 years old,Bangalore +72 more,
+Ugam Solution,3.7,559,IT Services & Consulting,1k-5k Employees,24 years old,Mumbai +12 more,
+Baxter International,4.0,557,Healthcare,1k-5k Employees,Forbes Global 2000,93 years old,Deerfield +26 more
+Flash Electronics,3.7,536,Electronics Manufacturing,1k-5k Employees,35 years old,Pune +16 more,
+Lumen Technologies,4.0,565,Hardware & Networking,1k-5k Employees,Forbes Global 2000,94 years old,Monroe +14 more
+Lea Associates South Asia,4.3,554,Engineering & Construction,51-200 Employees,31 years old,Delhi/NCR +115 more,
+Telenor,4.5,527,Telecom,501-1k Employees,Forbes Global 2000,15 years old,Fornebu +113 more
+The Lalit,3.7,495,Hospitality,1k-5k Employees,43 years old,New Delhi +28 more,
+Re Sustainability Limited,4.0,584,Waste Management,10k-50k Employees,30 years old,Hyderabad +66 more,
+Nippon Life India Asset Management,4.7,566,Financial Services,1k-5k Employees,Public,29 years old,Mumbai +157 more
+Wipro Infrastructure Engineering,3.8,564,Industrial Machinery,1k-5k Employees,48 years old,Bangalore/Bengaluru +35 more,
+IFFCO,4.1,559,Agro Chemicals,1k-5k Employees,57 years old,Delhi/NCR +85 more,
+Rallis India,4.3,583,Agro Chemicals,1k-5k Employees,Public,76 years old,Mumbai +93 more
+Engineers India,4.3,557,1k-5k Employees,Public,59 years old,Delhi/NCR +59 more,
+Cogoport,2.9,591,Internet,51-200 Employees,Startup,8 years old,Mumbai +12 more
+HP India,4.2,586,Consumer Electronics & Appliances,1k-5k Employees,27 years old,Bengaluru +51 more,
+Primus Global Technologies,4.1,566,IT Services & Consulting,11-50 Employees,22 years old,Irving +27 more,
+Rodic Consultants,4.3,549,Engineering & Construction,1k-5k Employees,24 years old,Delhi/NCR +99 more,
+Chennai Radha Engineering Works,4.0,534,Engineering & Construction,5k-10k Employees,19 years old,Chennai +39 more,
+Pratap Technocrats,4.0,570,Telecom,10k-50k Employees,26 years old,Jaipur +104 more,
+Hitachi Systems Micro Clinic,4.0,546,IT Services & Consulting,1k-5k Employees,33 years old,Chiyoda City +72 more,
+Tata Cummins,4.5,603,Auto Components,1k-5k Employees,31 years old,Pune +34 more,
+Eris Lifesciences,3.8,581,Pharma,1k-5k Employees,Public,17 years old,Ahmedabad +76 more
+CSM Technologies,4.5,575,IT Services & Consulting,1k-5k Employees,26 years old,Bhubaneswar +19 more,
+MattsenKumar,3.6,574,BPO,1k-5k Employees,14 years old,Gurgaon/Gurugram +9 more,
+Rico Auto Industries,3.8,560,Auto Components,1k-5k Employees,Public,41 years old,Gurgaon/Gurugram +25 more
+Finolex Cables,3.9,555,Electrical Equipment,1k-5k Employees,Public,68 years old,Pune +63 more
+Balkrishna Industries,4.1,545,Auto Components,1k-5k Employees,Public,37 years old,Mumbai +20 more
+Denave,3.7,543,Marketing & Advertising,501-1k Employees,25 years old,Noida +56 more,
+Government of India,4.3,555,Government,1 Lakh+ Employees,Central,74 years old,New Delhi +132 more
+MG Motor,4.0,604,Automobile,1k-5k Employees,100 years old,To be Validated +63 more,
+Astral Adhesives,4.1,571,Chemicals,501-1k Employees,37 years old,Ahmedabad +111 more,
+Shaktiman Tirth Agro Technology,4.2,547,Industrial Machinery,1k-5k Employees,27 years old,Rajkot +42 more,
+Rohan Builders,4.2,548,Real Estate,1k-5k Employees,31 years old,Pune +58 more,
+Wonder Cement,4.2,574,Building Material,1k-5k Employees,Fortune India 500,14 years old,Ajmer +83 more
+Caparo Engineering India,4.0,525,Auto Components,51-200 Employees,56 years old,Gurgaon/Gurugram +34 more,
+Crowne Plaza,4.1,513,Hospitality,501-1k Employees,Public,41 years old,Atlanta +28 more
+India Cements,3.8,555,Building Material,1k-5k Employees,Public,78 years old,Chennai +80 more
+EMERSON PROCESS MANAGEMENT,4.1,554,Industrial Machinery,1k-5k Employees,Public,134 years old,St. Louis +28 more
+Biba Apparels,3.9,554,Fashion & Textile,1k-5k Employees,38 years old,Gurgaon +86 more,
+Naukri,4.0,610,Internet,1k-5k Employees,Public,28 years old,Noida +59 more
+PUMA,4.3,558,Fashion & Textile,1k-5k Employees,76 years old,Herzogenaurach +82 more,
+Ups Logistics,4.0,548,Logistics,1k-5k Employees,Forbes Global 2000,117 years old,Atlanta +36 more
+Indo Autotech,3.8,532,Auto Components,1k-5k Employees,50 years old,Faridabad +25 more,
+Skipper,3.8,526,Power,1k-5k Employees,Public,43 years old,Kolkata +61 more
+Central Industrial Security Force,4.5,524,Law Enforcement & Security,1 Lakh+ Employees,55 years old,Delhi/NCR +70 more,
+Hindustan Sanitaryware & Industries,4.1,507,Furniture & Furnishing,1k-5k Employees,Public,64 years old,Gurgaon/Gurugram +56 more
+DP World,4.0,582,Logistics,1k-5k Employees,Public,19 years old,Dubai +56 more
+Sharda Motor Industries,3.8,551,Auto Components,1k-5k Employees,Public,38 years old,Delhi/NCR +25 more
+Religare,3.8,545,Financial Services,1k-5k Employees,Public,40 years old,New Delhi +91 more
+Redington,4.0,520,Hardware & Networking,1k-5k Employees,Public,25 years old,Dubai +42 more
+Integreon,3.5,537,Legal,1k-5k Employees,24 years old,Fargo +10 more,
+JSW Group,4.1,563,Iron & Steel,10k-50k Employees,Conglomerate,42 years old,Mumbai +74 more
+Progressive Infotech,3.5,551,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26 years old,Noida +55 more
+TDK India,4.0,545,Semiconductors,1k-5k Employees,Forbes Global 2000,Nashik +23 more,
+Target,4.3,568,Retail,1k-5k Employees,Forbes Global 2000,122 years old,Minneapolis +16 more
+Neeyamo Enterprise Solutions,3.6,561,1k-5k Employees,15 years old,Chennai +9 more,,
+Rane (Madras),4.0,536,Auto Components,1k-5k Employees,Public,27 years old,Vallancherry +28 more
+Isuzu Motors,4.0,534,Automobile,1k-5k Employees,Forbes Global 2000,12 years old,Tokyo +28 more
+Toyo Engineering,3.9,532,Engineering & Construction,1k-5k Employees,63 years old,Mumbai +33 more,
+Accolite,3.4,583,IT Services & Consulting,1k-5k Employees,17 years old,Dallas +12 more,
+Nlb Services,4.0,571,Recruitment,1k-5k Employees,17 years old,Alpharetta +20 more,
+KGISL,3.2,570,IT Services & Consulting,1k-5k Employees,28 years old,Coimbatore +13 more,
+Xceedance,3.7,569,Insurance,1k-5k Employees,11 years old,Boston +9 more,
+Investors Clinic,3.8,584,Real Estate,1k-5k Employees,15 years old,Noida +23 more,
+Fleetguard Filters,4.2,549,Auto Components,1k-5k Employees,37 years old,Pune +69 more,
+MALABAR GOLD AND DIAMONDS,4.2,540,Jewellery,10k-50k Employees,31 years old,Kozhikode +85 more,
+Zuventus Healthcare,3.9,540,Pharma,1k-5k Employees,22 years old,Mumbai +77 more,
+VA Tech Wabag,3.9,540,Waste Management,501-1k Employees,Public,100 years old,Chennai +42 more
+NSB Bpo Solutions,2.9,532,BPO,1k-5k Employees,31 years old,Bhopal +75 more,
+Ramco Systems,3.5,556,Software Product,1k-5k Employees,Public,27 years old,Chennai +24 more
+CMS Computers Limited (INDIA),3.9,533,IT Services & Consulting,1k-5k Employees,48 years old,Mumbai +68 more,
+SKH Metals,4.1,553,Auto Components,1k-5k Employees,18 years old,Gurgaon/Gurugram +15 more,
+HIL,4.2,550,Building Material,1k-5k Employees,Public,78 years old,Hyderabad/Secunderabad +81 more
+LifeCell International,3.5,538,Biotechnology,1k-5k Employees,20 years old,Chennai +68 more,
+Magna International,4.0,551,Auto Components,501-1k Employees,Public,67 years old,Aurora +18 more
+Fortrea Development India Private Limited,4.1,549,Clinical Research,5k-10k Employees,1 years old,Durham +9 more,
+Ukb Electronics,4.2,549,Electronics Manufacturing,501-1k Employees,28 years old,Noida +17 more,
+Ingram Micro,3.9,533,IT Services & Consulting,1k-5k Employees,Conglomerate,45 years old,Irvine +44 more
+Bses Rajdhani Power,3.8,523,Power,5k-10k Employees (Global),23 years old,Delhi/NCR +12 more,
+Radical Minds,2.9,566,BPO,5k-10k Employees,14 years old,Gurgaon/Gurugram +8 more,
+FIITJEE,3.4,561,Education & Training,1k-5k Employees,32 years old,Delhi +43 more,
+Sunbeam Auto,3.7,547,Auto Components,1k-5k Employees,38 years old,Gurgaon/Gurugram +26 more,
+Tafe Motors & Tractors,4.0,546,Automobile,1k-5k Employees,Bhopal +49 more,,
+ICON Plc,4.2,545,Clinical Research,1k-5k Employees,Public,34 years old,Dublin +15 more
+MagicBricks,3.2,556,Internet,501-1k Employees,18 years old,Noida +28 more,
+Shyam Steel Industries,3.7,538,Metals & Mining,1k-5k Employees,71 years old,Kolkata +55 more,
+Bharti Infratel,4.3,513,Telecom,1k-5k Employees,Public,18 years old,Gurgaon/Gurugram +67 more
+uFaber,2.8,567,Education & Training,1k-5k Employees,Startup,11 years old,Mumbai +19 more
+IVY Comptech,4.0,562,IT Services & Consulting,1k-5k Employees,23 years old,Hyderabad/Secunderabad +5 more,
+Innodata India Private Limited,3.2,541,IT Services & Consulting,1k-5k Employees,27 years old,New Jersey +9 more,
+HSBC Bank,4.1,532,Banking,10k-50k Employees,Fortune India 500,Hyderabad / Secunderabad +31 more,
+KMV Projects,4.2,530,Engineering & Construction,1k-5k Employees,17 years old,Hyderabad/Secunderabad +57 more,
+Unimoni,3.9,492,FinTech,1k-5k Employees,18 years old,Abu Dhabi +124 more,
+Ivrcl Infrastructures & Projects,4.3,447,Engineering & Construction,1k-5k Employees,Public,37 years old,Hyderabad/Secunderabad +51 more
+MasterCard,4.1,568,FinTech,5k-10k Employees,Forbes Global 2000,58 years old,Purchase +14 more
+Linde India,4.1,534,Oil & Gas,201-500 Employees,Public,145 years old,Pullach +43 more
+Somany Ceramics,4.3,532,Building Material,1k-5k Employees,Public,56 years old,Noida +64 more
+JK Paper,4.0,530,Pulp & Paper,1k-5k Employees,Public,62 years old,Delhi/NCR +41 more
+Ag Industries,4.0,514,Auto Components,201-500 Employees,33 years old,Delhi/NCR +27 more,
+Microtek International,3.7,534,Consumer Electronics & Appliances,201-500 Employees,44 years old,Delhi/NCR +84 more,
+Ihg Group,4.0,520,Hospitality,1k-5k Employees,21 years old,Gurgaon/Gurugram +41 more,
+Csc E Governance Services,3.9,517,Government,1k-5k Employees,Public,15 years old,Delhi +169 more
+Hitachi,4.1,542,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114 years old,Tokyo +73 more
+Integra Software Services,4.0,550,IT Services & Consulting,1k-5k Employees,30 years old,Pondicherry +8 more,
+Ienergizer BPO Services,4.2,547,BPO,10k-50k Employees,Noida +11 more,,
+Zetwerk Manufacturing Businesses,4.1,574,Industrial Machinery,1k-5k Employees,Indian Unicorn,6 years old,Bangalore +77 more
+Epsilon,4.0,554,Marketing & Advertising,1k-5k Employees,55 years old,Texas +15 more,
+Vijay Sales,4.2,549,Consumer Electronics & Appliances,1k-5k Employees,57 years old,Mumbai +41 more,
+Thriveni Earthmovers,4.1,526,Metals & Mining,5k-10k Employees,33 years old,Salem +34 more,
+Petpooja,4.4,553,Software Product,1k-5k Employees,13 years old,Ahmedabad +53 more,
+Orient Electric,4.0,538,Consumer Electronics & Appliances,501-1k Employees,Public,70 years old,Delhi/NCR +55 more
+Jain Irrigation Systems,4.0,511,Agriculture,5k-10k Employees,Public,61 years old,Jalgaon +83 more
+India Shelter Finance Corporation,4.0,524,NBFC,1k-5k Employees,14 years old,Gurgaon +126 more,
+National Informatics Centre,4.1,522,Government,1k-5k Employees,Central,48 years old,New Delhi +65 more
+Mott MacDonald,4.3,518,Management Consulting,1k-5k Employees,35 years old,Croydon +43 more,
+Sintex Industries,4.1,489,Industrial Machinery,5k-10k Employees,Public,93 years old,Kalol +51 more
+Marsh McLennan,4.1,542,Management Consulting,5k-10k Employees,Forbes Global 2000,153 years old,New York +19 more
+Baroda Global Shared Services,4.0,562,Banking,10k-50k Employees,Public,7 years old,Mumbai +86 more
+McKinsey & Company,4.0,544,Management Consulting,501-1k Employees,98 years old,Gurgaon / Gurugram +21 more,
+Sun Life Financial,4.3,527,Financial Services,1k-5k Employees,Forbes Global 2000,159 years old,Toronto +9 more
+Epicenter Technologies,3.6,522,BPO,1k-5k Employees,23 years old,Mumbai +6 more,
+Rentokil Pest Control,3.8,511,Facility Management Services,501-1k Employees,70 years old,Mumbai +98 more,
+Parag Milk Foods,4.4,617,FMCG,1k-5k Employees,Public,32 years old,Mumbai +68 more
+India Japan Lighting,4.3,509,Auto Components,501-1k Employees,28 years old,Chennai +26 more,
+Royal Caribbean International,4.4,509,Sports & Recreation,501-1k Employees,Public,55 years old,Miami +18 more
+eTeam,3.3,557,Recruitment,1k-5k Employees,25 years old,South Plainfield +16 more,
+Sutherland Healthcare Solutions,3.9,533,Analytics & KPO,1k-5k Employees,22 years old,Clifton +7 more,
+Titan Eye Plus,4.3,528,Other,1 Lakh+ Employees (Global),17 years old,Bangalore/Bengaluru +112 more,
+Raychem RPG,4.0,512,Electrical Equipment,1k-5k Employees,35 years old,Mumbai +23 more,
+Omaxe,4.1,491,Real Estate,201-500 Employees,Public,35 years old,Delhi/NCR +22 more
+Trimax IT Infrastructure Services,3.4,472,IT Services & Consulting,1k-5k Employees,29 years old,Mumbai +70 more,
+ACTE,4.8,543,Education & Training,1-10 Employees,13 years old,Chennai +10 more,
+KaaShiv InfoTech Company,4.9,549,IT Services & Consulting,51-200 Employees,Chennai +4 more,,
+Greenlam Industries,4.2,536,Building Material,1k-5k Employees,Public,11 years old,Delhi/NCR +85 more
+Hapag-Lloyd,3.9,529,Ports & Shipping,1k-5k Employees,177 years old,Hamburg +11 more,
+Micro Turners,3.9,495,Auto Components,5k-10k Employees,55 years old,Panchkula +34 more,
+United Spirits,3.9,486,Beverage,1k-5k Employees,Public,27 years old,Bangalore/Bengaluru +91 more
+Cigniti Technologies,3.9,524,IT Services & Consulting,1k-5k Employees,Public,26 years old,Irving +6 more
+Deepak Nitrite,3.9,509,Chemicals,1k-5k Employees,Public,54 years old,Vadodara/Baroda +14 more
+Sl Lumax,3.5,494,Auto Components,1k-5k Employees,Public,27 years old,Sriperumbudur +13 more
+Crompton Greaves Consumer Electricals,3.8,551,Consumer Electronics & Appliances,1k-5k Employees,Mumbai +76 more,,
+Lovely Professional University,3.5,534,Education & Training,1k-5k Employees,19 years old,Phagwara +24 more,
+Creambell,4.1,507,Food Processing,51-200 Employees,33 years old,Baddi +86 more,
+Progressive Infovision,4.3,529,Recruitment,1k-5k Employees,23 years old,Delhi/NCR +71 more,
+Atkins,3.9,523,Engineering & Construction,1k-5k Employees,86 years old,London +19 more,
+MPS Limited,4.0,509,Content Development,1k-5k Employees,Public,54 years old,Noida +21 more
+Amway India Enterprises,4.1,480,FMCG,1k-5k Employees,29 years old,Jaipur +75 more,
+mPokket,4.3,580,FinTech,1k-5k Employees,Startup,8 years old,Jaipur +11 more
+Mynd Solutions Private,3.7,503,BPO,1k-5k Employees,22 years old,Chennai +30 more,
+Experis IT,3.1,501,Recruitment,501-1k Employees,26 years old,Chennai +32 more,
+Care Hospital,4.2,480,Healthcare,1k-5k Employees,27 years old,Hyderabad / Secunderabad +36 more,
+Jaro Education,2.5,529,EdTech,1k-5k Employees,15 years old,Chennai +18 more,
+Bikanervala,4.0,511,FMCG,1k-5k Employees,74 years old,New Delhi +50 more,
+Aequs,3.7,509,Defence & Aerospace,1k-5k Employees,27 years old,Chennai +12 more,
+Mount Litera Zee School,4.0,503,Education & Training,1k-5k Employees,30 years old,Mumbai +114 more,
+EPL Limited,4.0,487,Packaging,1k-5k Employees,Public,40 years old,Mumbai +32 more
+Encora,3.8,573,IT Services & Consulting,1k-5k Employees,19 years old,Scottsdale +12 more,
+Vaco Binary Semantics,3.5,538,IT Services & Consulting,1k-5k Employees,8 years old,Gurgaon/Gurugram +31 more,
+Lambda Therapeutic Research,4.6,520,Clinical Research,1k-5k Employees,25 years old,Ahmedabad +7 more,
+Encore Capital Group,4.1,505,IT Services & Consulting,1k-5k Employees,71 years old,San Diego +2 more,
+Molex,3.9,504,Semiconductors,1k-5k Employees,86 years old,Lisle +13 more,
+Diebold Nixdorf,3.9,500,IT Services & Consulting,1k-5k Employees,32 years old,North Canton +39 more,
+Maveric Systems,3.7,535,IT Services & Consulting,1k-5k Employees,Public,24 years old,Chennai +9 more
+Gayatri Projects,3.9,494,Engineering & Construction,1k-5k Employees,Public,61 years old,Hyderabad/Secunderabad +65 more
+Hella,4.1,513,Auto Components,1k-5k Employees,125 years old,Lippstadt +21 more,
+Welspun World,3.8,512,Building Material,1k-5k Employees,Public,39 years old,Mumbai +46 more
+PeopleStrong,3.6,507,Recruitment,1k-5k Employees,18 years old,Gurgaon +18 more,
+Guidehouse,4.0,503,Management Consulting,5k-10k Employees,21 years old,Trivandrum/Thiruvananthapuram +9 more,
+Forever Living Products,4.4,536,Fitness & Wellness,1k-5k Employees,46 years old,Scottsdale +70 more,
+K Raheja Corp,4.3,519,Real Estate,1k-5k Employees,68 years old,Mumbai +16 more,
+Medicover Hospitals,3.9,518,Healthcare,10k-50k Employees,13 years old,Hyderabad +30 more,
+Vijaya Diagnostic Centre,4.1,500,Healthcare,501-1k Employees,43 years old,Hyderabad/Secunderabad +30 more,
+BASF,4.5,495,Chemicals,1k-5k Employees,Fortune India 500,81 years old,Ludwigshafen +72 more
+GKN,4.0,474,Industrial Machinery,1k-5k Employees,39 years old,Redditch +27 more,
+CIEL HR,4.1,536,Recruitment,1k-5k Employees,Startup,9 years old,Bangalore +78 more
+Alshaya Group,4.0,512,Retail,501-1k Employees,134 years old,Kuwait City +27 more,
+ALLEN Career Institute,4.1,535,Education & Training,10k-50k Employees,36 years old,Kota +55 more,
+Thermo Fisher Scientific,3.9,536,Pharma,1k-5k Employees,Forbes Global 2000,68 years old,Waltham +27 more
+Teamware Solutions,4.3,528,Recruitment,1k-5k Employees,21 years old,Chennai +18 more,
+Wuerth,3.8,515,Industrial Machinery,1k-5k Employees,30 years old,Mumbai +56 more,
+MAS Financial Services,3.7,491,Financial Services,1k-5k Employees,Public,29 years old,Ahmedabad +99 more
+Lionbridge Technologies,3.7,488,Content Development,1k-5k Employees,28 years old,Waltham +13 more,
+Steel Authority Of India,4.1,487,Iron & Steel,10k-50k Employees,Public,70 years old,Delhi/NCR +31 more
+Ask Automotive,4.3,484,Auto Components,5k-10k Employees,36 years old,Gurgaon/Gurugram +24 more,
+Mindarika,3.9,479,Auto Components,1k-5k Employees,32 years old,Gurgaon/Gurugram +22 more,
+Electrotherm,4.2,472,Iron & Steel,1k-5k Employees,Public,41 years old,Ahmedabad +33 more
+Tavant Technologies,3.9,521,IT Services & Consulting,1k-5k Employees,24 years old,Santa Clara +11 more,
+IBS Software Services,3.9,506,Software Product,1k-5k Employees,27 years old,Thiruvananthapuram +12 more,
+OMICS International,2.5,479,Printing & Publishing,1k-5k Employees,Conglomerate,17 years old,Hyderabad/Secunderabad +5 more
+Ramky Infrastructure,4.2,476,Engineering & Construction,501-1k Employees,Public,30 years old,Hyderabad +39 more
+NRB Bearings,4.2,494,Auto Components,1k-5k Employees,Public,59 years old,Mumbai +17 more
+Wapcos,3.6,509,Engineering & Construction,1k-5k Employees,State,55 years old,Gurgaon/Gurugram +118 more
+Navitasys India,4.0,524,Electronics Manufacturing,1k-5k Employees,5 years old,Bawal +17 more,
+Turbo Energy,4.3,496,Auto Components,1k-5k Employees,41 years old,Chennai +18 more,
+Henry Harvin Education,4.4,526,EdTech,201-500 Employees,9 years old,Noida +13 more,
+TIAA Global Business Services,4.0,522,Financial Services,1k-5k Employees,106 years old,Manhattan +8 more,
+Apollo Munich Health Insurance,4.0,465,Financial Services,1k-5k Employees,Public,17 years old,Gurgaon +108 more
+Poly Medicure,3.7,498,Medical Equipment,1k-5k Employees,Public,27 years old,Delhi/NCR +29 more
+Medreich,3.8,497,Pharma,1k-5k Employees,48 years old,Bangalore/Bengaluru +12 more,
+Quatrro,3.5,496,BPO,501-1k Employees,19 years old,Gurgaon +7 more,
+Shivam Autotech,3.8,490,Auto Components,501-1k Employees,Public,26 years old,Gurgaon/Gurugram +19 more
+Apar Industries,4.1,499,Electrical Equipment,1k-5k Employees,Public,66 years old,Vadodara/Baroda +52 more
+Hilton,4.4,480,Hospitality,1k-5k Employees,Forbes Global 2000,105 years old,Mclean +36 more
+Aisin Automotive Haryana,4.2,479,Auto Components,501-1k Employees,13 years old,Gurgaon/Gurugram +21 more,
+General Motors,4.5,470,Automobile,10k-50k Employees,Forbes Global 2000,28 years old,Detroit +34 more
+Apex Group,2.9,608,Financial Services,1k-5k Employees,21 years old,Hamilton +18 more,
+Freshworks,3.7,539,Software Product,1k-5k Employees,Public,14 years old,San Mateo +39 more
+Echobooom Management & Entrepreneurial Solutions,4.0,527,Management Consulting,201-500 Employees,4 years old,Mumbai +20 more,
+Action Construction Equipment,3.7,504,Industrial Machinery,1k-5k Employees,Public,29 years old,Delhi/NCR +44 more
+Sona Comstar,4.3,499,Auto Components,1k-5k Employees,Public,29 years old,Gurgaon / Gurugram +13 more
+Poorvika Mobiles,4.7,527,Retail,5k-10k Employees,20 years old,Chennai +76 more,
+Siemens Energy,4.2,518,Power,1k-5k Employees,177 years old,Munich +34 more,
+Rackspace,3.9,514,IT Services & Consulting,1k-5k Employees,26 years old,San Antonio +10 more,
+Rane Engine Valve Limited,4.0,463,Auto Components,1k-5k Employees,Public,65 years old,Chennai +14 more
+Fiat India Automobiles,3.7,483,Automobile,1k-5k Employees,27 years old,Mumbai +18 more,
+Saudi Aramco,4.6,471,Oil & Gas,1k-5k Employees,Forbes Global 2000,91 years old,Dhahran +30 more
+Future Lifestyle Fashion,4.2,464,Retail,1k-5k Employees,Public,12 years old,Mumbai +58 more
+PrimEra Medical Technologies,3.9,504,IT Services & Consulting,1k-5k Employees,9 years old,Hyderabad/Secunderabad +4 more,
+Times Group,3.9,487,Printing & Publishing,5k-10k Employees,186 years old,Mumbai +44 more,
+Greenply,4.0,482,Furniture & Furnishing,1k-5k Employees,Public,40 years old,Gurgaon/Gurugram +74 more
+Qualitest,3.6,525,IT Services & Consulting,1k-5k Employees,27 years old,Bridgewater +12 more,
+Cloudnine Hospital,4.0,505,Healthcare,5k-10k Employees,17 years old,Bangalore +22 more,
+Smollan Group,4.3,503,Marketing & Advertising,501-1k Employees,93 years old,Johannesburg +105 more,
+Karvy Data Management Services,3.7,492,Analytics & KPO,1k-5k Employees,16 years old,Hyderabad/Secunderabad +79 more,
+Tata Power Delhi Distribution,3.9,486,Power,1k-5k Employees,22 years old,New Delhi +31 more,
+Ebix Software India,3.3,478,IT Services & Consulting,1k-5k Employees,Public,48 years old,Atlanta +30 more
+Ge India Industrial,4.3,466,Industrial Machinery,201-500 Employees,Conglomerate,122 years old,Bangalore +19 more
+ShareChat,3.6,526,Internet,1k-5k Employees,Indian Unicorn,9 years old,Bangalore +36 more
+Luxoft,4.0,517,IT Services & Consulting,1k-5k Employees,24 years old,Zug +15 more,
+Indostar Capital Finance,4.5,503,NBFC,1k-5k Employees,Public,13 years old,Mumbai +202 more
+Dhani Healthcare,3.6,502,FinTech,1k-5k Employees,Gurgaon / Gurugram +78 more,,
+BankBazaar,3.3,494,FinTech,1k-5k Employees,16 years old,Chennai +11 more,
+Courtyard by Marriott,4.2,455,Hospitality,1k-5k Employees,Public,97 years old,Bethesda +35 more
+Kothari Agritech,4.7,496,Building Material,1k-5k Employees,27 years old,Pune +133 more,
+Affinity Express,3.0,487,Marketing & Advertising,1k-5k Employees,31 years old,Elgin +7 more,
+Hitachi Energy,4.1,531,Power,1k-5k Employees,Fortune India 500,5 years old,Zurich +27 more
+Vastu Housing Finance,4.4,517,NBFC,1k-5k Employees,9 years old,Mumbai +119 more,
+Vakrangee,3.7,457,BPO,1k-5k Employees,Public,34 years old,Mumbai +82 more
+Dhanuka Agritech,3.8,456,Agro Chemicals,1k-5k Employees,Public,42 years old,Gurgaon/Gurugram +79 more
+Sadbhav Engineering,4.4,450,Engineering & Construction,1k-5k Employees,Public,36 years old,Ahmedabad +62 more
+Sterlite Power,4.0,494,Power,1k-5k Employees,Fortune India 500,14 years old,Delhi/NCR +59 more
+Travel Food Services,3.9,494,Hospitality,1k-5k Employees,15 years old,Mumbai +26 more,
+AVTEC,3.8,478,Auto Components,1k-5k Employees,Conglomerate,19 years old,Delhi/NCR +20 more
+IDEMIA,4.1,511,Law Enforcement & Security,1k-5k Employees,7 years old,Courbevoie +40 more,
+TO THE NEW,3.8,524,IT Services & Consulting,1k-5k Employees,16 years old,Singapore +16 more,
+ChannelPlay,4.1,476,Marketing & Advertising,1k-5k Employees,18 years old,Gurgaon/Gurugram +63 more,
+Renault,4.3,464,Automobile,10k-50k Employees,Forbes Global 2000,126 years old,Boulogne Billancourt Cedex +140 more
+AVEVA,4.3,499,Software Product,1k-5k Employees,57 years old,Cambridge +12 more,
+Credence Resource Management,3.6,498,BPO,501-1k Employees,10 years old,Dallas +3 more,
+Psp Projects,3.9,495,Engineering & Construction,1k-5k Employees,16 years old,Ahmedabad +39 more,
+Patel Infrastructure,4.0,476,Engineering & Construction,201-500 Employees,52 years old,Vadodara/Baroda +46 more,
+Geojit Financial Services,3.7,453,1k-5k Employees,Public,37 years old,Kochi +124 more,
+Principal Global Services,4.2,501,Insurance,1k-5k Employees,Forbes Global 2000,18 years old,Des Moines +8 more
+Adidas,4.0,499,Fashion & Textile,5k-10k Employees,Public,75 years old,Herzogenaurach +58 more
+Ongc Petro Additions,4.0,465,Petrochemicals,1k-5k Employees,Public,18 years old,Vadodara/Baroda +27 more
+House Of Anita Dongre,4.2,456,Fashion & Textile,1k-5k Employees,26 years old,Navi Mumbai +43 more,
+Hitachi Digital Services,3.8,509,IT Services & Consulting,1k-5k Employees,1 years old,Santa Clara +13 more,
+MOURI Tech,3.9,508,IT Services & Consulting,1k-5k Employees,19 years old,Hyderabad/Secunderabad +9 more,
+WSP,4.2,506,Engineering & Construction,1k-5k Employees,65 years old,Montreal +28 more,
+Grab A Grub Services,3.9,491,Logistics,51-200 Employees,11 years old,Mumbai +101 more,
+Neuland Laboratories,4.1,485,Pharma,1k-5k Employees,Public,40 years old,Hyderabad/Secunderabad +7 more
+Fedbank Financial Services,4.1,483,NBFC,1k-5k Employees,14 years old,Mumbai +121 more,
+Orient Cement,4.3,479,Building Material,1k-5k Employees,Public,45 years old,Hyderabad/Secunderabad +61 more
+MothersonSumi INfotech & Designs,3.3,493,IT Services & Consulting,1k-5k Employees,24 years old,Noida +14 more,
+Country Holidays Inn & Suites,4.4,490,Travel & Tourism,501-1k Employees,8 years old,Noida +19 more,
+Writer Corporation,3.8,493,Facility Management Services,501-1k Employees,71 years old,Mumbai +76 more,
+Goodyear,4.0,481,Auto Components,501-1k Employees,Public,126 years old,Akron +53 more
+Expleo Solutions,3.9,495,IT Services & Consulting,1k-5k Employees,42 years old,Chennai +12 more,
+Venus Remedies,4.4,475,Pharma,1k-5k Employees,Public,35 years old,Panchkula +33 more
+Bisk Farm,4.0,473,Food Processing,201-500 Employees,24 years old,Kolkata +92 more,
+Triveni Engineering & Industries,4.1,463,Food Processing,1k-5k Employees,Public,92 years old,Mysore/Mysuru +50 more
+BEML,4.1,454,Industrial Machinery,5k-10k Employees,Fortune India 500,60 years old,Bangalore/Bengaluru +31 more
+Quikr,3.9,462,Internet,1k-5k Employees,Indian Unicorn,16 years old,Bangalore +24 more
+Adani Solar,4.0,457,Power,1k-5k Employees,Public,9 years old,Ahmedabad +28 more
+V-Trans,4.1,476,Logistics,1k-5k Employees,Public,66 years old,Mumbai +71 more
+Jai Balaji Group,3.6,462,Iron & Steel,1k-5k Employees,Public,25 years old,Kolkata +30 more
+Saud Bahwan Group,3.3,457,Automobile,201-500 Employees,49 years old,Muscat +19 more,
+SoftAge Information Technology,3.6,447,IT Services & Consulting,1k-5k Employees,30 years old,Gurgaon/Gurugram +122 more,
+HCL Comnet,4.0,430,Noida +34 more,,,,
+Mahindra Tractors,4.3,559,79 years old,Mumbai +98 more,,,
+M3M India,4.1,499,Real Estate,501-1k Employees,39 years old,Gurgaon +7 more,
+Hilti,3.7,494,Industrial Machinery,501-1k Employees,83 years old,Schaan +38 more,
+Updater Services,4.0,465,Facility Management Services,50k-1 Lakh Employees,39 years old,Chennai +62 more,
+Patel Engineering,4.3,462,Engineering & Construction,1k-5k Employees,Public,75 years old,Mumbai +56 more
+Genesys International Corporation,3.8,451,IT Services & Consulting,1k-5k Employees,Public,29 years old,Mumbai +14 more
+Bunge India,4.0,471,Food Processing,1k-5k Employees,Forbes Global 2000,24 years old,Chesterfield +54 more
+3M,4.3,469,Electronics Manufacturing,1k-5k Employees,Public,37 years old,Saint Paul +43 more
+Amadeus,3.9,501,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,37 years old,Bengaluru/Bangalore +13 more
+Clarivate,3.9,491,Analytics & KPO,1k-5k Employees,Public,8 years old,Philadelphia +12 more
+Entrata,4.4,488,Software Product,501-1k Employees,21 years old,Provo +3 more,
+Samunnati Financial Intermediation and Services,4.5,482,Financial Services,201-500 Employees,Startup,10 years old,Chennai +52 more
+RITES,4.0,468,Engineering & Construction,1k-5k Employees,Central,50 years old,Gurgaon/Gurugram +62 more
+Quality Austria Central Asia,3.5,453,Other,201-500 Employees,14 years old,Delhi/NCR +51 more,
+T.v. Sundram Iyengar & Sons,4.2,426,Automobile,1k-5k Employees,113 years old,Chennai +77 more,
+Zydus Healthcare,4.0,510,74 years old,Mumbai +73 more,,,
+TTK Prestige,4.0,473,Consumer Electronics & Appliances,1k-5k Employees,Public,69 years old,Bangalore/Bengaluru +71 more
+Allied Digital Services,3.5,469,IT Services & Consulting,1k-5k Employees,Public,29 years old,Mumbai +47 more
+HBL Power Systems,4.0,445,Electrical Equipment,1k-5k Employees,Public,47 years old,Hyderabad/Secunderabad +43 more
+Wipro Digital,3.6,492,IT Services & Consulting,1k-5k Employees,9 years old,Brooklyn +25 more,
+Renovision Automation Services,3.7,460,IT Services & Consulting,1k-5k Employees,18 years old,New Delhi +63 more,
+Holiday Inn,4.2,456,Hospitality,1k-5k Employees,72 years old,Memphis +46 more,
+Portea Medical,4.4,455,Healthcare,1k-5k Employees,Startup,11 years old,Bangalore +32 more
+Visteon,3.9,461,Software Product,1k-5k Employees,24 years old,Van Buren Township +15 more,
+TVS Electronics,3.9,456,Consumer Electronics & Appliances,501-1k Employees,Public,38 years old,Chennai +57 more
+ATS Infrastructure,3.9,444,Real Estate,1k-5k Employees,26 years old,Noida +12 more,
+Central Reserve Police Force,4.6,441,Government,1 Lakh+ Employees,Central,85 years old,Delhi/NCR +74 more
+Y-Axis Overseas Careers,3.5,486,Other,1k-5k Employees,25 years old,Hyderabad/Secunderabad +17 more,
+Jyothy Laboratories,4.2,466,FMCG,1k-5k Employees,41 years old,Mumbai +114 more,
+Okaya Power,3.8,465,Electrical Equipment,501-1k Employees,37 years old,Delhi/NCR +83 more,
+Surya Roshni,4.1,465,Real Estate,1k-5k Employees,Public,51 years old,Delhi/NCR +57 more
+Rane NSK Steering Systems,4.1,457,Auto Components,1k-5k Employees,Bawal +19 more,,
+Asb International,4.1,455,Industrial Machinery,1k-5k Employees,27 years old,Thane +14 more,
+Orient Technologies,3.8,446,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32 years old,Chiyoda-ku +43 more
+Vivanta by Taj,4.2,437,Hospitality,1k-5k Employees,14 years old,Gurgaon/Gurugram +40 more,
+_VOIS,4.0,556,IT Services & Consulting,10k-50k Employees,18 years old,Pune +12 more,
+Zee Entertainment Enterprises,3.6,500,Media & Entertainment,1k-5k Employees,Public,32 years old,Mumbai +28 more
+Yatra,3.7,466,Travel & Tourism,501-1k Employees,18 years old,Gurgaon +19 more,
+TCI Express,3.9,463,Logistics,1k-5k Employees,Public,28 years old,Gurugram  +69 more
+Bharat Serums and Vaccines,3.9,461,Pharma,1k-5k Employees,53 years old,Mumbai +50 more,
+Centum Learning,3.8,453,Education & Training,1k-5k Employees,17 years old,Delhi/NCR +76 more,
+Qatar Airways,4.3,473,Aviation,1k-5k Employees,31 years old,Doha +21 more,
+Saint Gobain Glass,4.0,472,Building Material,5k-10k Employees,Chennai +47 more,,
+My Home Industries,4.2,440,Building Material,501-1k Employees,27 years old,Hyderabad/Secunderabad +60 more,
+HRH Next Services,3.2,473,BPO,51-200 Employees,17 years old,Hyderabad/Secunderabad +14 more,
+PPG Asian Paints,4.0,464,Chemicals,1k-5k Employees,27 years old,Mumbai +51 more,
+Forbes Marshall,4.1,462,Industrial Machinery,1k-5k Employees,99 years old,Pune +22 more,
+United Colors of Benetton,4.4,445,Fashion & Textile,501-1k Employees,32 years old,Gurgaon/Gurugram +64 more,
+Avalon Technologies,3.9,422,Electronics Manufacturing,1k-5k Employees,Chennai +13 more,,
+Mahindra Automotives,4.1,518,Automobile,10k-50k Employees,76 years old,Hyderabad +93 more,
+Veritas,4.2,483,Software Product,1k-5k Employees,Public,35 years old,Santa Clara +38 more
+Nephroplus,4.0,445,Healthcare,1k-5k Employees,15 years old,Hyderabad +90 more,
+Inox Wind,3.7,443,Power,501-1k Employees,Public,15 years old,Noida +38 more
+Kissht Finance,4.1,466,FinTech,201-500 Employees,Startup,9 years old,Mumbai +58 more
+Housing.com,3.7,471,Internet,1k-5k Employees,Startup,12 years old,Gurgaon +32 more
+Metso Outotec,4.3,469,Metals & Mining,1k-5k Employees,Alwar +37 more,,
+Victora Group,3.9,458,Automobile,201-500 Employees,33 years old,Faridabad +26 more,
+Lohia Group,3.7,454,Industrial Machinery,1k-5k Employees,Public,48 years old,Kanpur +18 more
+Vadilal Industries,4.2,441,FMCG,501-1k Employees,Public,117 years old,Ahmedabad +76 more
+CARE,4.3,470,Non-Profit,1k-5k Employees,74 years old,Noida +104 more,
+Keventer,3.9,451,FMCG,501-1k Employees,38 years old,Kolkata +54 more,
+Livpure,4.0,446,Consumer Electronics & Appliances,1k-5k Employees,14 years old,Gurgaon +71 more,
+Syneos Health,4.1,486,Clinical Research,1k-5k Employees,40 years old,Morrisville +11 more,
+Jubilant Generics,4.0,457,Pharma,5k-10k Employees,11 years old,Noida +20 more,
+Family Health Plan,4.0,439,Insurance,1k-5k Employees,29 years old,Hyderabad/Secunderabad +30 more,
+Educomp Solutions,3.7,413,EdTech,11-50 Employees,Public,30 years old,Gurgaon/Gurugram +112 more
+McNally Bharat Engineering,4.2,408,Engineering & Construction,51-200 Employees,Public,63 years old,Kolkata +51 more
+Marlabs,3.3,476,IT Services & Consulting,1k-5k Employees,28 years old,Piscataway +12 more,
+Doosan Power Systems,4.1,463,Power,501-1k Employees,14 years old,Crawley +27 more,
+Kellogg,4.3,439,FMCG,1k-5k Employees,Forbes Global 2000,118 years old,Battle Creek +72 more
+St. Xavier's High School,4.0,428,Education & Training,1k-5k Employees (Global),155 years old,Mumbai +131 more,
+JM Financial,3.8,471,Financial Services,1k-5k Employees,Public,40 years old,Mumbai +59 more
+Revent Group,4.0,370,Auto Components,1k-5k Employees,Gurgaon/Gurugram +29 more,,
+Testbook.com,3.6,494,EdTech,501-1k Employees,Startup,10 years old,Mumbai +23 more
+Sri Chaitanya Techno Schools,3.9,478,Education & Training,10k-50k Employees,38 years old,Hyderabad/Secunderabad +89 more,
+RR kabel,4.2,469,Electrical Equipment,1k-5k Employees,Public,29 years old,Mumbai +88 more
+Akal Information Systems,4.1,458,IT Services & Consulting,501-1k Employees,25 years old,Delhi/NCR +37 more,
+ALTEN,3.8,500,IT Services & Consulting,5k-10k Employees,36 years old,Bengaluru/Bangalore +19 more,
+UnitedLex,3.2,468,Legal,1k-5k Employees,18 years old,New York +6 more,
+Emami Agrotech,3.9,441,Food Processing,1k-5k Employees,Public,22 years old,Kolkata +52 more
+Medley Pharmaceuticals,4.1,438,Pharma,1k-5k Employees,Public,55 years old,Mumbai +65 more
+CTS Consulting & Technical Support,3.8,484,Engineering & Construction,201-500 Employees,16 years old,Eysines +30 more,
+Medtronic,4.1,457,Medical Equipment,1k-5k Employees,Forbes Global 2000,45 years old,Mumbai +37 more
+Bluestream Software Solution,4.7,460,IT Services & Consulting,1k-5k Employees,New Delhi +8 more,,
+Yokogawa,3.6,446,Auto Components,1k-5k Employees,109 years old,Tokyo +22 more,
+HLL Lifecare,3.7,425,Healthcare,1k-5k Employees,Central,58 years old,Trivandrum/Thiruvananthapuram +93 more
+Genus Power Infrastructures,4.0,421,Consumer Electronics & Appliances,1k-5k Employees,Public,32 years old,Jaipur +44 more
+Reliance Smart,4.2,475,Retail,5k-10k Employees,Public,18 years old,Mumbai +189 more
+Wipro PARI,3.6,459,1k-5k Employees,Pune +17 more,,,
+Mitsubishi Electric,4.2,456,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103 years old,Chiyoda City +41 more
+Essjay Ericsson,4.2,430,Recruitment,1k-5k Employees,53 years old,Delhi +78 more,
+JK Tech,3.8,424,IT Services & Consulting,501-1k Employees,Public,30 years old,Noida +17 more
+Gestamp,3.7,419,Auto Components,501-1k Employees,27 years old,Madrid +7 more,
+Vestige,4.3,453,Fitness & Wellness,10k-50k Employees,20 years old,Delhi/NCR +103 more,
+Army Public School,4.3,445,Education & Training,5k-10k Employees (Global),50 years old,Delhi/NCR +83 more,
+Carborundum Universal,4.0,437,Metals & Mining,1k-5k Employees,Public,70 years old,Chennai +33 more
+Tiger Analytics,3.5,490,Analytics & KPO,1k-5k Employees,Startup,13 years old,Santa Clara +8 more
+Casagrand,4.1,464,Real Estate,501-1k Employees,20 years old,Chennai +11 more,
+BDO India LLP,3.5,479,Accounting & Auditing,5k-10k Employees,51 years old,New Delhi +25 more,
+Voltech,3.6,411,Electrical Equipment,1k-5k Employees,36 years old,Chennai +39 more,
+London Stock Exchange Group,4.1,484,Financial Services,5k-10k Employees,326 years old,London +8 more,
+Fidelity International,4.1,478,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,55 years old,London +9 more,
+Nomura Holdings,3.8,454,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,15 years old,Mumbai +9 more
+Coal India,4.2,448,Metals & Mining,1 Lakh+ Employees,Public,49 years old,Kolkata +49 more
+Levi Strauss & Co.,4.5,423,Fashion & Textile,1k-5k Employees,Public,171 years old,San Francisco +68 more
+Dodsal Engineering & Construction,4.4,407,Engineering & Construction,501-1k Employees,Conglomerate,41 years old,Dubai +35 more
+Rockwell Automation,4.0,465,Industrial Automation,1k-5k Employees,Forbes Global 2000,121 years old,Milwaukee +20 more
+Emids Technologies Limited,3.8,461,IT Services & Consulting,1k-5k Employees,25 years old,Franklin +5 more,
+CDK Global,3.6,452,Software Product,1k-5k Employees,52 years old,Hoffman Estates +5 more,
+Shriram Automall,3.9,450,Automobile,1k-5k Employees,13 years old,Delhi/NCR +96 more,
+Fiem Industries,3.8,439,Auto Components,501-1k Employees,Public,35 years old,New Delhi +22 more
+Amul India,4.2,465,Food Processing,1k-5k Employees (Global),51 years old,Anand +112 more,
+DealShare,3.5,461,Internet,1k-5k Employees,Indian Unicorn,6 years old,Jaipur +43 more
+Metriqe Solutions,4.3,459,BPO,201-500 Employees,17 years old,Irving +2 more,
+Shriram Housing Finance,4.0,459,Financial Services,501-1k Employees,Public,14 years old,Mumbai +120 more
+BSH Home Appliances Group,4.1,457,Consumer Electronics & Appliances,1k-5k Employees,57 years old,Munich +44 more,
+Utility Powertech,4.1,441,Power,1k-5k Employees,29 years old,Noida +88 more,
+The Times of India,4.0,422,Media & Entertainment,1k-5k Employees,186 years old,New Delhi +48 more,
+Suma Soft,3.9,447,IT Services & Consulting,1k-5k Employees,24 years old,Pune +9 more,
+Nvidia,4.1,450,Hardware & Networking,1k-5k Employees,Forbes Global 2000,31 years old,Santa Clara +9 more
+Centaur Pharmaceuticals,3.6,445,Pharma,1k-5k Employees,46 years old,Mumbai +50 more,
+Varun Motors,4.0,445,Automobile,1k-5k Employees,31 years old,Hyderabad/Secunderabad +34 more,
+Accel Frontline,3.9,395,IT Services & Consulting,51-200 Employees,33 years old,Chennai +57 more,
+Vaaman Engineers,3.9,449,Engineering & Construction,1k-5k Employees,34 years old,Mumbai +31 more,
+Eicher Motors,4.2,430,Automobile,5k-10k Employees,Public,42 years old,Gurgaon +80 more
+NTT,4.0,661,IT Services & Consulting,10k-50k Employees,18 years old,London +39 more,
+Khazana Jewellery,3.9,448,Jewellery,501-1k Employees,35 years old,Chennai +51 more,
+Foray Software,3.6,443,IT Services & Consulting,501-1k Employees,13 years old,Hyderabad/Secunderabad +17 more,
+Xerox,3.9,411,Printing & Publishing,1k-5k Employees,Forbes Global 2000,Bangalore / Bengaluru +34 more,
+Central Public Works Department,4.4,398,Government,5k-10k Employees,170 years old,Delhi/NCR +106 more,
+le méridien,4.2,389,Hospitality,501-1k Employees,52 years old,Paris +25 more,
+Satya MicroCapital,3.8,457,Financial Services,1k-5k Employees,Public,8 years old,Delhi +120 more
+Hetero Healthcare,3.6,444,Pharma,1k-5k Employees,18 years old,Hyderabad/Secunderabad +60 more,
+Ramboll,4.2,442,Engineering & Construction,1k-5k Employees,79 years old,Copenhagen +27 more,
+Quislex Legal Services,3.9,441,Legal,501-1k Employees,20 years old,New York +4 more,
+Hi Tech Gears,3.8,425,Auto Components,501-1k Employees,Public,38 years old,Gurgaon/Gurugram +25 more
+Schindler Group,3.8,422,Industrial Machinery,1k-5k Employees,27 years old,Ebikon +48 more,
+NecLife,3.7,413,Pharma,1k-5k Employees,Public,29 years old,Chandigarh +18 more
+Licious,3.8,460,Internet,1k-5k Employees,Indian Unicorn,9 years old,Bangalore +33 more
+Nihilent,3.6,460,IT Services & Consulting,1k-5k Employees,24 years old,Pune +6 more,
+Lear Corporation,4.1,434,Auto Components,1k-5k Employees,Public,107 years old,Southfield +16 more
+Electronica Finance,4.2,532,NBFC,1k-5k Employees,Public,34 years old,Pune +106 more
+InternEzy,5.0,512,EdTech,51-200 Employees,Chennai +5 more,,
+LanceSoft,3.1,470,Recruitment,1k-5k Employees,24 years old,Herndon +23 more,
+GlobalData,3.6,440,Analytics & KPO,1k-5k Employees,40 years old,London +10 more,
+Offshore Infrastructures,4.2,405,Engineering & Construction,1k-5k Employees,29 years old,Mumbai +40 more,
+NxtWave,3.9,479,EdTech,1k-5k Employees,Startup,4 years old,Hyderabad / Secunderabad +20 more
+Ather Energy,4.1,461,Automobile,1k-5k Employees,Startup,11 years old,Bangalore +40 more
+Apple,4.3,442,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48 years old,Cupertino +82 more
+Kidzee,4.1,411,EdTech,1k-5k Employees,21 years old,Ernakulam +102 more,
+Technip Energies,4.1,466,Engineering & Construction,1k-5k Employees,66 years old,Paris +28 more,
+Prama Hikvision India,3.6,437,Electronics Manufacturing,201-500 Employees,15 years old,Hangzhou +43 more,
+ASG Eye Hospital,3.9,436,Healthcare,501-1k Employees,19 years old,Jodhpur +61 more,
+VRL Logistics,4.0,435,Logistics,10k-50k Employees,Public,41 years old,Hubballi +89 more
+Stock Holding Corporation of India,3.5,418,Financial Services,201-500 Employees,Public,38 years old,Mumbai +92 more
+B. G. Shirke Construction Technology,4.3,416,Engineering & Construction,1k-5k Employees,80 years old,Pune +22 more,
+IL&FS Engineering and Construction,4.4,394,Engineering & Construction,1k-5k Employees,Public,36 years old,Hyderabad/Secunderabad +47 more
+Ameriprise Financial,3.8,450,Financial Services,1k-5k Employees,Forbes Global 2000,130 years old,Minneapolis +11 more
+Tekwissen,4.9,443,IT Services & Consulting,501-1k Employees,15 years old,Ann Arbor +4 more,
+Tracxn,3.3,441,Internet,501-1k Employees,Startup,11 years old,Bangalore +7 more
+Ministry of Defence,4.5,411,Government,1 Lakh+ Employees,Central,77 years old,Delhi/NCR +63 more
+Magneti Marelli Motherson Auto System,3.8,396,Auto Components,11-50 Employees,16 years old,Pune +16 more,
+Praj Industries,4.2,439,Biotechnology,1k-5k Employees,Public,41 years old,Pune +21 more
+Ziqitza Health Care,4.0,438,Healthcare,5k-10k Employees,Public,19 years old,Mumbai +52 more
+Amber Enterprises India,3.9,434,Consumer Electronics & Appliances,1k-5k Employees,Public,34 years old,Mumbai +29 more
+Sintex-bapl,3.8,413,Petrochemicals,501-1k Employees,Public,17 years old,Pune +52 more
+Thryve Digital,4.0,459,IT Services & Consulting,1k-5k Employees,8 years old,Chennai +5 more,
+Hindware,4.0,458,Building Material,1k-5k Employees,64 years old,Gurgaon +93 more,
+Royaloak Incorporation,4.0,445,Furniture & Furnishing,1k-5k Employees,14 years old,Bangalore/Bengaluru +34 more,
+Infor Global Solution,4.0,444,Software Product,1k-5k Employees,22 years old,New York +8 more,
+Go First,3.6,444,Aviation,1k-5k Employees,Public,19 years old,Mumbai +33 more
+Talentpro,4.1,442,Recruitment,501-1k Employees,24 years old,Chennai +98 more,
+Pennar Industries,3.7,430,Engineering & Construction,1k-5k Employees,Public,36 years old,Hyderabad/Secunderabad +23 more
+CompuCom,4.0,447,IT Services & Consulting,1k-5k Employees,37 years old,Fort Mill +8 more,
+ITC Limited Foods Division,4.0,441,Food Processing,10k-50k Employees,114 years old,Kolkata +67 more,
+Airports Authority of India,4.4,441,Aviation,10k-50k Employees,Central,29 years old,Delhi/NCR +80 more
+VDart,4.5,439,IT Services & Consulting,201-500 Employees,17 years old,Alpharetta +2 more,
+Becton Dickinson,4.1,435,Medical Equipment,201-500 Employees,Forbes Global 2000,23 years old,Franklin Lakes +31 more
+Colt Technology Services,4.4,424,Hardware & Networking,1k-5k Employees,32 years old,London +10 more,
+Vikram Solar,3.9,421,Power,1k-5k Employees,18 years old,Kolkata +29 more,
+NBTC GROUP,3.6,398,Oil & Gas,501-1k Employees,47 years old,Al Ahmadi +22 more,
+Delta Electronics,3.9,448,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32 years old,Gurgaon/Gurugram +37 more
+Bristlecone,3.8,438,IT Services & Consulting,1k-5k Employees,26 years old,Pune +11 more,
+BharatMatrimony.com,3.9,419,Internet,1k-5k Employees (Global),27 years old,Chennai +30 more,
+Bridgestone,4.2,418,Auto Components,1k-5k Employees,Forbes Global 2000,28 years old,Tokyo +49 more
+Orient Craft,3.8,407,Fashion & Textile,1k-5k Employees,48 years old,Gurgaon/Gurugram +12 more,
+Ultimate Kronos Group,3.7,446,IT Services & Consulting,1k-5k Employees,4 years old,Noida +8 more,
+Dodla Dairy,4.3,440,Food Processing,1k-5k Employees,29 years old,Hyderabad/Secunderabad +56 more,
+Ferrero,3.8,430,Food Processing,501-1k Employees,20 years old,Pune +73 more,
+Maxgen Technologies,4.5,437,IT Services & Consulting,201-500 Employees,11 years old,Mumbai +7 more,
+Lenovo,4.1,428,Consumer Electronics & Appliances,1k-5k Employees,40 years old,Bangalore / Bengaluru +74 more,
+Vasudha Pharma Chem,3.7,420,Pharma,1k-5k Employees,Public,29 years old,Hyderabad/Secunderabad +7 more
+Cpf India,4.2,415,Food Processing,501-1k Employees,30 years old,Bangalore/Bengaluru +53 more,
+Amar Ujala,4.0,410,Printing & Publishing,1k-5k Employees,76 years old,Noida +48 more,
+Vedang Cellular Services,4.0,406,Telecom,1k-5k Employees,14 years old,Mumbai +56 more,
+Macawber Beekay,4.1,391,Industrial Machinery,1k-5k Employees,38 years old,Noida +45 more,
+Collegedunia,3.1,457,EdTech,1k-5k Employees,Startup,10 years old,Gurgaon/Gurugram +17 more
+PTC,4.2,434,Software Product,1k-5k Employees,Public,39 years old,Boston +39 more
+Sulekha.com,4.2,430,Internet,1k-5k Employees,17 years old,Chennai +19 more,
+Godrej Industries,4.2,428,Chemicals,1k-5k Employees,Public,61 years old,Mumbai +56 more
+Pyramid IT Consulting,3.1,425,Recruitment,1k-5k Employees,28 years old,Atlanta +20 more,
+Recpdcl.ltd,4.1,389,Facility Management Services,1k-5k Employees,Central,17 years old,Noida +62 more
+LIC Housing Finance,4.1,379,NBFC,1k-5k Employees,Public,35 years old,Mumbai +103 more
+Corteva Agriscience,4.3,442,Agro Chemicals,1k-5k Employees,Public,5 years old,Wilmington +80 more
+LG Soft India,3.5,438,Consumer Electronics & Appliances,1k-5k Employees,28 years old,Bangalore/Bengaluru +12 more,
+PCBL Limited,3.9,433,Petrochemicals,1k-5k Employees,Public,64 years old,Kolkata +17 more
+Maini Precision Products,3.7,405,Auto Components,1k-5k Employees,51 years old,Bangalore/Bengaluru +10 more,
+Optimum Infosystem,3.5,448,IT Services & Consulting,1k-5k Employees,27 years old,Singapore +13 more,
+Apollo Health and Lifestyle,4.2,432,Healthcare,501-1k Employees,22 years old,Hyderabad/Secunderabad +57 more,
+EaseMyTrip.com,3.9,428,Internet,201-500 Employees,Public,16 years old,Delhi +7 more
+Maharashtra State Electricity Distribution Company,4.2,412,Power,50k-1 Lakh Employees,19 years old,Mumbai +76 more,
+ZTE Corporation,4.0,378,Telecom,201-500 Employees,Forbes Global 2000,21 years old,shenzhen +41 more
+Practo,3.2,444,Internet,501-1k Employees (Global),16 years old,Bangalore +22 more,
+Me n Moms,4.4,440,Retail,501-1k Employees,30 years old,Mumbai +63 more,
+Nucleus Software Exports,3.6,438,Software Product,1k-5k Employees,Public,38 years old,Noida +12 more
+Dishman Carbogen Amcis,3.8,411,Healthcare,1k-5k Employees,17 years old,Bubendorf +10 more,
+BSCPL Infrastructure,3.7,407,Engineering & Construction,1k-5k Employees,52 years old,Hyderabad/Secunderabad +41 more,
+Paras Dairy,3.6,392,FMCG,501-1k Employees,Public,37 years old,Delhi/NCR +47 more
+Saudi Binladin Group,4.3,386,Engineering & Construction,201-500 Employees,93 years old,Jeddah +25 more,
+Cuemath,3.8,440,EdTech,1k-5k Employees,Startup,11 years old,Bangalore +20 more
+B.L. Kashyap & Sons,3.9,429,Engineering & Construction,501-1k Employees,46 years old,Delhi/NCR +23 more,
+Cairn Energy,4.1,400,Oil & Gas,1k-5k Employees,43 years old,Edinburgh +25 more,
+Dimension Data,4.3,374,IT Services & Consulting,1k-5k Employees,41 years old,Bryanston +52 more,
+SLMG Beverages,4.0,453,Beverage,501-1k Employees,Lucknow +55 more,,
+Agrostar,4.0,439,Internet,1k-5k Employees,Startup,11 years old,Pune +37 more
+Finastra,3.9,426,Software Product,1k-5k Employees,Startup,7 years old,Paddington +10 more
+L & W Constructions,3.7,400,Engineering & Construction,501-1k Employees,18 years old,Bangalore/Bengaluru +14 more,
+Peel-works,4.1,438,Software Product,201-500 Employees,14 years old,Mumbai +25 more,
+Data Entry,4.0,439,BPO,51-200 Employees,25 years old,New Delhi +96 more,
+NetConnectGlobal,3.4,417,IT Services & Consulting,1k-5k Employees,27 years old,Bangalore/Bengaluru +40 more,
+Almarai,4.4,389,Food Processing,1k-5k Employees,Forbes Global 2000,47 years old,Riyadh +32 more
+SK Finance Limited,4.2,521,NBFC,10k-50k Employees,Public,30 years old,Jaipur +149 more
+Hinduja Housing Finance,3.9,438,NBFC,1k-5k Employees,9 years old,Chennai +130 more,
+NJ India Invest,3.7,405,Financial Services,1k-5k Employees,30 years old,Surat +74 more,
+FCC Clutch,4.2,405,Auto Components,501-1k Employees,85 years old,Hamamatsu +22 more,
+Transport Corporation Of India,4.1,403,Logistics,1k-5k Employees,Public,66 years old,Gurgaon +70 more
+J K Fenner,3.9,398,Engineering & Construction,201-500 Employees,37 years old,Chennai +45 more,
+Wockhardt Hospital,4.3,378,Healthcare,1k-5k Employees,51 years old,Mumbai +21 more,
+Suraksha Diagnostic,3.8,426,Healthcare,201-500 Employees,32 years old,Kolkata +26 more,
+Prince Pipes & Fittings,4.3,413,Building Material,1k-5k Employees,Public,37 years old,Mumbai +53 more
+Bharat Gears,4.2,403,Auto Components,1k-5k Employees,Public,52 years old,Mumbai +20 more
+AI Airport Services,3.7,419,1k-5k Employees,Mumbai +51 more,,,
+Blackberrys,4.2,418,Fashion & Textile,10k-50k Employees,33 years old,Gurgaon/Gurugram +74 more,
+Enterprise Growth Accelerator,3.6,372,Faridabad +9 more,,,,
+Gartner,4.2,448,Management Consulting,1k-5k Employees,Public,45 years old,Stamford +11 more
+Toyota Industries Engine India,4.4,399,1k-5k Employees,29 years old,Kariya +7 more,,
+Oriental Structural Engineers,4.3,358,Engineering & Construction,1k-5k Employees,38 years old,Delhi/NCR +51 more,
+Aurigo,4.8,446,Software Product,201-500 Employees,21 years old,Austin +3 more,
+Tecnimont,3.9,415,Engineering & Construction,1k-5k Employees,19 years old,Milan +31 more,
+Kajaria Ceramics,4.2,406,Building Material,1k-5k Employees,Public,39 years old,Delhi/NCR +67 more
+Manjushree Technopack,3.8,411,Packaging,1k-5k Employees,41 years old,Bangalore/Bengaluru +21 more,
+CtrlS,4.0,464,IT Services & Consulting,501-1k Employees,17 years old,Hyderabad +14 more,
+Alorica,3.2,454,BPO,1k-5k Employees,25 years old,Irvine +11 more,
+Glorious Insight,4.8,419,IT Services & Consulting,201-500 Employees,Noida +2 more,,
+Canon,4.2,405,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87 years old,Ota City +61 more
+Nelito System,3.6,400,IT Services & Consulting,501-1k Employees,29 years old,Navi Mumbai +36 more,
+Texmo Industries,3.9,393,Industrial Machinery,501-1k Employees,68 years old,Coimbatore +34 more,
+Magus Customer Dialog,3.5,392,BPO,51-200 Employees,35 years old,Pune +16 more,
+Celebi Aviation Holding,4.1,392,Mumbai +13 more,,,,
+Turtlemint,3.6,436,Internet,1k-5k Employees,Startup,9 years old,Mumbai +83 more
+Blue Yonder,4.2,425,IT Services & Consulting,1k-5k Employees,39 years old,Scottsdale +10 more,
+CJ Darcl Logistics Limited,4.0,418,Logistics,1k-5k Employees,38 years old,Gurgaon / Gurugram +58 more,
+Jayaswal Neco Industries,4.1,404,Iron & Steel,1k-5k Employees,Public,52 years old,Nagpur +24 more
+SMC Global Securities,3.5,403,1k-5k Employees,Public,30 years old,SMC Global Securities Ltd. +61 more,
+Spoton Logistics,4.5,403,Logistics,1k-5k Employees,Startup,12 years old,Bangalore +71 more
+Bahwan Engineering,4.2,372,Engineering & Construction,201-500 Employees,Conglomerate,47 years old,Ruwi +20 more
+Moglix,3.6,441,Internet,501-1k Employees,Indian Unicorn,9 years old,Singapore +34 more
+WayCool Foods and Products,3.7,429,FMCG,501-1k Employees,9 years old,Chennai +38 more,
+Boeing,4.0,429,Aviation,1k-5k Employees,Public,108 years old,Arlington +9 more
+Autoliv,4.0,423,Auto Components,1k-5k Employees,71 years old,Klarabergsviadukten 70 +15 more,
+Sudarshan Chemical Industries,3.8,420,Chemicals,1k-5k Employees,Public,72 years old,Pune +22 more
+Chaayos,3.5,411,Hospitality,1k-5k Employees,12 years old,Delhi +21 more,
+RuralShores,4.1,401,BPO,1k-5k Employees,16 years old,Bangalore +40 more,
+Assystem,3.8,400,1k-5k Employees,30 years old,Paris +53 more,,
+Pamac Finserve,3.6,386,Financial Services,501-1k Employees,29 years old,Mumbai +56 more,
+Advantmed,3.6,435,Software Product,501-1k Employees,19 years old,Santa Ana +7 more,
+Heidelberg Cement,4.2,393,Building Material,1k-5k Employees,Forbes Global 2000,18 years old,Gurgaon/Gurugram +59 more
+Vizag Steel,4.2,422,Iron & Steel,10k-50k Employees,Public,53 years old,Visakhapatnam/Vizag +20 more
+Herbalife International,4.1,404,Healthcare,1k-5k Employees,44 years old,Los Angeles +80 more,
+IRB Infrastructure,4.2,379,Engineering & Construction,5k-10k Employees,Public,26 years old,Mumbai +48 more
+Philips Innovation Campus,3.9,419,Healthcare,1k-5k Employees,Public,26 years old,Amsterdam +16 more
+EdgeVerve Systems,3.6,413,Software Product,1k-5k Employees,10 years old,Bangalore/Bengaluru +12 more,
+Riya Travel,3.8,401,Travel & Tourism,1k-5k Employees,44 years old,Mumbai +35 more,
+Williams Lea,4.1,401,BPO,1k-5k Employees,Public,204 years old,New York +14 more
+Hamilton Housewares,4.0,400,Consumer Electronics & Appliances,1k-5k Employees,52 years old,Mumbai +30 more,
+Cadbury,4.5,398,Food Processing,1k-5k Employees,200 years old,London +95 more,
+Damco Solutions,4.1,413,IT Services & Consulting,501-1k Employees,28 years old,Princeton +20 more,
+Westin,4.0,388,Hospitality,1k-5k Employees,94 years old,Kolkata +28 more,
+National Payments Corporation of India,3.9,462,FinTech,1k-5k Employees,14 years old,Mumbai +10 more,
+Capco Technologies,3.7,418,IT Services & Consulting,1k-5k Employees,26 years old,London +15 more,
+Marelli,3.8,396,Auto Components,51-200 Employees,105 years old,Corbetta +15 more,
+Schoolnet India,3.8,357,EdTech,51-200 Employees,Public,27 years old,Noida +84 more
+Bahwan CyberTek,3.9,428,IT Services & Consulting,1k-5k Employees,25 years old,Chennai +19 more,
+DeHaat,3.7,425,Agriculture,1k-5k Employees,Startup,5 years old,Patna +92 more
+Continental,4.0,415,Auto Components,5k-10k Employees,Forbes Global 2000,153 years old,Hanover +43 more
+Anlitiks,4.8,410,Hyderabad / Secunderabad +1 more,,,,
+FinThrive,3.9,382,Software Product,501-1k Employees,21 years old,Chennai +8 more,
+Gandhi Automations,4.2,443,Industrial Machinery,501-1k Employees,28 years old,Mumbai +20 more,
+Al Turki Enterprises,3.8,381,Oil & Gas,501-1k Employees,19 years old,Muscat +12 more,
+DHL Global Forwarding,4.2,422,Logistics,501-1k Employees,209 years old,Bonn +20 more,
+Etech Global Services,4.4,403,BPO,1k-5k Employees,27 years old,Nacogdoches +9 more,
+Baker Hughes,4.1,403,Oil & Gas,1k-5k Employees,Conglomerate,8 years old,Boston  +33 more
+Pace Setters Business Solutions,3.4,383,BPO,201-500 Employees,18 years old,Mumbai +20 more,
+Kirloskar Pneumatic,4.2,412,Industrial Machinery,501-1k Employees,Public,66 years old,Pune +13 more
+AT&T,4.1,394,Telecom,5k-10k Employees,Forbes Global 2000,41 years old,Dallas +16 more
+RAK Ceramics,3.9,388,Building Material,501-1k Employees,35 years old,Ras Al Khaimah +46 more,
+Nexdigm,3.5,421,Management Consulting,1k-5k Employees,Pune +10 more,,
+Maersk Line,4.2,399,Logistics,1k-5k Employees,Public,120 years old,Copenhagen +25 more
+Craftsman Automation,3.9,386,Industrial Machinery,1k-5k Employees,38 years old,Coimbatore +18 more,
+H & R Johnson,3.9,363,Building Material,1k-5k Employees,28 years old,Staffordshire +64 more,
+Monte Carlo,4.2,372,Fashion & Textile,201-500 Employees,Public,40 years old,San Francisco +77 more
+RenewBuy,3.7,421,1k-5k Employees,Startup,10 years old,Gurgaon +77 more,
+Perficient,3.7,419,IT Services & Consulting,1k-5k Employees,27 years old,St Louis +10 more,
+iNurture Education Solutions,2.6,415,EdTech,501-1k Employees,19 years old,Bangalore +38 more,
+Five-Star Business Finance,4.3,413,NBFC,5k-10k Employees,Public,40 years old,Chennai +157 more
+BMC Software,4.1,410,IT Services & Consulting,1k-5k Employees,44 years old,Houston +8 more,
+Mecon,3.9,394,Metals & Mining,1k-5k Employees,State,65 years old,Ranchi +41 more
+Sayaji Hotels,4.3,380,Hospitality,1k-5k Employees,Public,37 years old,Indore +27 more
+Vijai Electricals,3.6,372,Power,5k-10k Employees,51 years old,Hyderabad/Secunderabad +37 more,
+Ge T & D India,4.3,351,Electrical Equipment,201-500 Employees,Public,67 years old,Henderson +36 more
+Reshamandi,3.7,409,Fashion & Textile,501-1k Employees,Startup,4 years old,Bangalore +31 more
+Cashify,3.8,400,Other,501-1k Employees,Startup,11 years old,Gurgaon +43 more
+Radico Khaitan,4.0,395,Beverage,1k-5k Employees,Public,81 years old,Delhi/NCR +55 more
+Super Smelters,4.0,395,Metals & Mining,501-1k Employees,29 years old,Kolkata +16 more,
+Nagarjuna Fertilizers and Chemicals,4.0,381,Agro Chemicals,501-1k Employees,39 years old,Hyderabad/Secunderabad +62 more,
+Hpl Electric & Power,3.6,372,Electrical Equipment,1k-5k Employees,32 years old,Noida +51 more,
+Waaree Energies,3.9,417,Power,51-200 Employees,35 years old,Mumbai +35 more,
+CSC Global,3.5,407,Financial Services,1k-5k Employees,125 years old,Delaware +6 more,
+Suroj Buildcon,4.2,397,Engineering & Construction,1k-5k Employees,11 years old,Pune +36 more,
+Karvy DigiKonnect,3.0,390,Financial Services,10k-50k Employees,9 years old,Hyderabad +20 more,
+Ess Kay Fincorp,4.1,377,NBFC,5k-10k Employees,Public,30 years old,Jaipur +108 more
+JSW Paints,3.9,442,Chemicals,1k-5k Employees,8 years old,Mumbai +106 more,
+Karvy Data Management,3.2,401,Hyderabad / Secunderabad +39 more,,,,
+Netmeds.com,3.6,463,Internet,501-1k Employees,Startup,9 years old,Chennai +107 more
+Dr. Batras' Positive Health Clinic,3.7,407,Healthcare,5k-10k Employees,42 years old,Mumbai +81 more,
+URC Construction,3.6,401,Engineering & Construction,1k-5k Employees,68 years old,Chennai +32 more,
+CRYSTAL CROP PROTECTION,4.0,397,Agro Chemicals,1k-5k Employees,Public,44 years old,Delhi/NCR +69 more
+TriGeo Technologies,3.2,394,IT Services & Consulting,11-50 Employees,28 years old,Hyderabad/Secunderabad +5 more,
+Roop Polymers,4.1,387,Auto Components,1k-5k Employees,Public,51 years old,Gurgaon/Gurugram +19 more
+Vindhya Telelinks,4.2,380,Hardware & Networking,501-1k Employees,Public,41 years old,Delhi/NCR +59 more
+Hindusthan National Glass,3.7,379,Packaging,501-1k Employees,Public,78 years old,Kolkata +18 more
+Coats,4.0,378,Fashion & Textile,1k-5k Employees,50 years old,Middlesex +45 more,
+CMC,4.1,361,Education & Training,10k-50k Employees,Public,56 years old,Bhopal +53 more
+Toothsi,2.8,419,Internet,501-1k Employees,Startup,6 years old,Mumbai +14 more
+Solara Active Pharma Sciences,3.7,407,Pharma,1k-5k Employees,Public,6 years old,Chennai +15 more
+TSYS|Total System Services,4.3,406,Financial Services,1k-5k Employees,Public,40 years old,Columbus +7 more
+Jindal Poly Films,3.6,397,Packaging,1k-5k Employees,Public,50 years old,Delhi/NCR +12 more
+Bajaj Capital Insurance,3.7,385,Insurance,1k-5k Employees,20 years old,New Delhi +100 more,
+Metro Group of Hospitals,3.8,353,Healthcare,10k-50k Employees (Global),27 years old,Noida +23 more,
+Adarsh Credit Co-Operative Society,4.0,335,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,25 years old,Ahmedabad +132 more,
+Cyfuture,3.3,401,IT Services & Consulting,201-500 Employees,23 years old,Noida +28 more,
+Castrol,4.2,384,Petrochemicals,501-1k Employees,Public,125 years old,Pangbourne +95 more
+Sterling Holiday Resort,3.9,374,Hospitality,1k-5k Employees,Public,38 years old,Chennai +59 more
+Syrma Technology,4.2,418,Electronics Manufacturing,201-500 Employees,20 years old,Chennai +16 more,
+IDBI Intech Limited,3.7,394,IT Services & Consulting,1k-5k Employees,Public,24 years old,Navi Mumbai +24 more
+Dineshchandra R Agarwal Infracon,4.2,378,Engineering & Construction,1k-5k Employees,52 years old,Ahmedabad +54 more,
+Efs Facilities Services,3.9,374,Facility Management Services,1k-5k Employees,18 years old,Dubai +47 more,
+Satyam Auto Components,3.9,369,Auto Components,1k-5k Employees,23 years old,Ludhiana +22 more,
+Novotel Hotels,4.4,365,Hospitality,1k-5k Employees,57 years old,Issy les Moulineaux +30 more,
+N.C.L. Industries,3.9,365,Building Material,501-1k Employees,Public,44 years old,Hyderabad/Secunderabad +59 more
+Axtria,3.2,439,Software Product,1k-5k Employees,14 years old,Berkeley Heights +8 more,
+Glenmark Life Sciences,3.8,408,Pharma,201-500 Employees,Public,47 years old,Mumbai +16 more
+Carrier,3.8,402,Consumer Electronics & Appliances,1k-5k Employees,109 years old,Florida +40 more,
+Deloitte Digital,3.9,381,IT Services & Consulting,10k-50k Employees,7 years old,New York +18 more,
+HBL Global,4.0,362,NBFC,11-50 Employees,24 years old,Mumbai +79 more,
+Trigent Software,3.8,410,IT Services & Consulting,1k-5k Employees,29 years old,Southborough +24 more,
+Micron Electricals,4.0,382,Engineering & Construction,1k-5k Employees,48 years old,Bangalore/Bengaluru +16 more,
+Fena,4.2,361,FMCG,1k-5k Employees,48 years old,Delhi/NCR +64 more,
+Wellness Forever Medicare,3.9,379,Retail,1k-5k Employees,16 years old,Mumbai +34 more,
+BLK Super Speciality Hospital,4.1,372,Healthcare,501-1k Employees,65 years old,Delhi/NCR +11 more,
+Larsen & Toubro Group,4.1,393,Engineering & Construction,1 Lakh+ Employees,Chennai +71 more,,
+TVS Eurogrip,3.7,393,Auto Components,1k-5k Employees,Public,42 years old,Madurai +53 more
+Indecomm Global Services,3.7,389,IT Services & Consulting,1k-5k Employees,21 years old,Edison +13 more,
+Danfoss Industries,4.1,374,Electrical Equipment,1k-5k Employees,31 years old,Nordborg +16 more,
+Healthians,3.5,395,Healthcare,1k-5k Employees,Startup,11 years old,Gurgaon +41 more
+Sasken,3.5,384,IT Services & Consulting,1k-5k Employees,Public,35 years old,Bangalore/Bengaluru +10 more
+SIS Prosegur Holdings,3.7,383,Law Enforcement & Security,10k-50k Employees,29 years old,Patna +75 more,
+Scientific Publishing Services,3.9,360,Analytics & KPO,1k-5k Employees,29 years old,Chennai +5 more,
+Leighton Contractors,4.2,359,Engineering & Construction,501-1k Employees,26 years old,Mumbai +20 more,
+Škoda Auto Volkswagen,4.2,417,Automobile,5k-10k Employees,Fortune India 500,23 years old,Pune +13 more
+South Indian Bank,3.6,393,Banking,1k-5k Employees,Public,95 years old,Thrissur/Trichur +68 more
+Reliance Infrastructure,4.1,367,Engineering & Construction,1k-5k Employees,Public,95 years old,Mumbai +55 more
+Usha Martin,4.1,360,Iron & Steel,1k-5k Employees,Public,63 years old,Kolkata +25 more
+Acadecraft,3.1,381,EdTech,201-500 Employees,13 years old,Noida +12 more,
+Reliance Capital,3.8,369,Financial Services,1k-5k Employees,Public,19 years old,Navi Mumbai +80 more
+QHTalbros,3.6,346,Auto Components,5k-10k Employees,Public,38 years old,Gurgaon/Gurugram +16 more
+Tata Power Solar,4.2,410,Power,1k-5k Employees,Public,35 years old,Mumbai +55 more
+Inspirisys Solution,3.9,403,IT Services & Consulting,1k-5k Employees,Public,33 years old,Chennai +43 more
+Torry Harris Integration Solutions,3.9,401,IT Services & Consulting,1k-5k Employees,26 years old,Perth Amboy +7 more,
+North East Small Finance Bank,4.0,397,Banking,1k-5k Employees,8 years old,Guwahati +66 more,
+Welspun Corp,4.1,396,Iron & Steel,5k-10k Employees,Fortune India 500,39 years old,Mumbai +20 more
+IIFL Home Finance,4.0,394,Gurgaon / Gurugram +150 more,,,,
+Dr. Reddy's Foundation,4.1,389,Non-Profit,1k-5k Employees,28 years old,Hyderabad/Secunderabad +74 more,
+Transrail Lighting,4.0,386,Engineering & Construction,501-1k Employees,16 years old,Mumbai +61 more,
+Moser Baer,4.1,347,Consumer Electronics & Appliances,1k-5k Employees,Public,41 years old,Delhi/NCR +12 more
+Einfochips,3.5,397,IT Services & Consulting,1k-5k Employees,30 years old,San Jose +10 more,
+NLC,4.5,390,Metals & Mining,10k-50k Employees,Fortune India 500,68 years old,Chennai +12 more
+Jorie Healthcare,4.6,389,Healthcare,1k-5k Employees (Global),9 years old,Illinois +4 more,
+Emerson Electric Co.,4.2,379,IT Services & Consulting,5k-10k Employees,Public,134 years old,St Louis +24 more
+Universal Sompo General Insurance,3.8,378,Insurance,1k-5k Employees,17 years old,Mumbai +80 more,
+British Council,3.7,377,Education & Training,1k-5k Employees,90 years old,London +21 more,
+S P Singla Constructions,3.8,367,Engineering & Construction,501-1k Employees,28 years old,Panchkula +52 more,
+Jiva Ayurvedic Pharmacy,3.8,366,Healthcare,1k-5k Employees,32 years old,Faridabad +43 more,
+Sarovar Hotels & Resorts,4.2,364,Hospitality,1k-5k Employees,28 years old,Gurgaon/Gurugram +60 more,
+Cvent,3.4,404,IT Services & Consulting,1k-5k Employees,25 years old,Fairfax +3 more,
+NICE,3.8,399,Software Product,1k-5k Employees,Public,38 years old,Pune +14 more
+Carlsberg,4.3,389,Beverage,1k-5k Employees,Forbes Global 2000,177 years old,Vesterbro +56 more
+smartData Enterprises,3.5,383,IT Services & Consulting,501-1k Employees,25 years old,White Plains +9 more,
+QUICK HEAL TECHNOLOGIES,3.8,372,Software Product,1k-5k Employees,Public,29 years old,Pune +42 more
+RapiPay,4.0,407,FinTech,1k-5k Employees,Startup,6 years old,Noida +97 more
+Ramkrishna Forgings,3.7,387,Railways,1k-5k Employees,Public,43 years old,Kolkata +17 more
+Sulzer,3.8,385,Industrial Machinery,501-1k Employees,190 years old,Winterthur +21 more,
+Tuaman Engineering,4.2,380,Engineering & Construction,1k-5k Employees,19 years old,Kolkata +23 more,
+Otsuka Pharmaceutical India Private Limited,4.2,367,Pharma,501-1k Employees,Forbes Global 2000,8 years old,Chiyoda City +32 more
+Onshore Construction,3.9,357,Engineering & Construction,201-500 Employees,29 years old,Mumbai +30 more,
+GD Goenka Public School,3.9,372,Education & Training,201-500 Employees,30 years old,Gurgaon/Gurugram +54 more,
+Lite Bite Foods,4.4,351,Hospitality,1k-5k Employees,23 years old,Gurgaon/Gurugram +21 more,
+Razorpay,3.7,426,FinTech,1k-5k Employees,Indian Unicorn,10 years old,Bangalore +22 more
+Baazar Retail Private Limited,4.3,390,Retail,1k-5k Employees,22 years old,Kolkata +73 more,
+FMC,4.2,377,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15 years old,Philadelphia +93 more
+Navin Fluorine International,4.0,372,Chemicals,1k-5k Employees,Public,57 years old,Mumbai +17 more
+Value Point Systems,3.8,369,IT Services & Consulting,201-500 Employees,33 years old,Bangalore +41 more,
+RealPage,3.8,400,IT Services & Consulting,1k-5k Employees,26 years old,Richardson +7 more,
+SG Analytics,3.4,396,Analytics & KPO,1k-5k Employees,18 years old,Pune +6 more,
+Bharat Biotech International,3.1,368,Biotechnology,1k-5k Employees,28 years old,Hyderabad +26 more,
+Paramount Health Services Tpa,3.9,365,Internet,1k-5k Employees,22 years old,Mumbai +28 more,
+Global Autotech,4.1,361,Auto Components,201-500 Employees,19 years old,Greater Noida +10 more,
+Wakefit,4.2,410,Furniture & Furnishing,1k-5k Employees,Startup,8 years old,Bangalore +31 more
+Koch Business Solutions,3.6,408,Oil & Gas,1k-5k Employees,84 years old,Wichita +8 more,
+DBG Technology,4.0,405,Electronics Manufacturing,1k-5k Employees,29 years old,Huizhou +14 more,
+Excitel Broadband,3.7,387,Telecom,1k-5k Employees,9 years old,Delhi +41 more,
+McCain Foods,4.2,376,Food Processing,501-1k Employees,28 years old,Toronto +56 more,
+Acme Generics LLP,4.3,373,Pharma,1k-5k Employees,19 years old,Baddi +17 more,
+Satyam Venture Engineering Services,3.9,363,Auto Components,1k-5k Employees,24 years old,Hyderabad/Secunderabad +14 more,
+Venky's,3.7,344,FMCG,5k-10k Employees,Public,48 years old,Pune +63 more
+Cotiviti,4.0,393,Analytics & KPO,1k-5k Employees,45 years old,South Jordan +5 more,
+Virtual Employee,3.3,385,Recruitment,1k-5k Employees,17 years old,Noida +13 more,
+Serum Institute of India,4.3,376,Biotechnology,1k-5k Employees,58 years old,Pune +17 more,
+Glaze Trading India,3.9,358,Retail,5k-10k Employees,21 years old,Delhi/NCR +79 more,
+Axiscades,3.4,374,IT Services & Consulting,1k-5k Employees,Public,34 years old,Bangalore/Bengaluru +9 more
+ExxonMobil,3.8,374,Oil & Gas,1k-5k Employees,Public,Irving +30 more,
+Google Operations Center,3.6,414,Internet,1k-5k Employees,Hyderabad / Secunderabad +17 more,,
+ManipalCigna Health Insurance,3.9,391,Insurance,1k-5k Employees,12 years old,Mumbai +86 more,
+Impetus Technologies,3.6,386,IT Services & Consulting,1k-5k Employees,33 years old,Los Gatos +16 more,
+Gainwell Commosales,4.2,379,Industrial Machinery,1k-5k Employees,80 years old,Kolkata +63 more,
+Pepperfry,3.3,369,Furniture & Furnishing,1k-5k Employees,13 years old,Mumbai +34 more,
+Pearson Education India,4.1,355,Education & Training,201-500 Employees,24 years old,Noida +54 more,
+Wissen Technology,4.0,396,IT Services & Consulting,1k-5k Employees,9 years old,Bengaluru +9 more,
+Sapphire Foods India,4.0,380,Retail,5k-10k Employees,9 years old,Mumbai +52 more,
+Uppcl,4.0,374,Power,10k-50k Employees,Public,25 years old,Lucknow +71 more
+India Post,3.9,373,Government,1 Lakh+ Employees,Public,170 years old,Mysore/Mysuru +159 more
+Sanghi Industries,3.7,354,Building Material,501-1k Employees,Public,39 years old,Ahmedabad +24 more
+Kokilaben Dhirubhai Ambani Hospital,3.9,349,Healthcare,1k-5k Employees,15 years old,Mumbai +17 more,
+F1 Info Solutions and Services,3.9,348,IT Services & Consulting,201-500 Employees,23 years old,Mumbai +42 more,
+ThoughtWorks,4.0,421,IT Services & Consulting,1k-5k Employees,31 years old,Chicago +11 more,
+Pathkind Diagnostics Private Limited,4.0,376,Healthcare,501-1k Employees,8 years old,Gurgaon/Gurugram +81 more,
+Prestige Group,4.3,357,Real Estate,1k-5k Employees,38 years old,Bengaluru +21 more,
+Lakme,4.3,353,Beauty & Personal Care,201-500 Employees,Public,44 years old,Mumbai +69 more
+Mahanagar Gas,4.2,350,Oil & Gas,501-1k Employees,Public,29 years old,Mumbai +20 more
+Alight Solutions,4.0,347,IT Services & Consulting,1k-5k Employees,28 years old,Lincolnshire +13 more,
+Allied Blenders & Distillers,4.1,323,Beverage,501-1k Employees,38 years old,Mumbai +65 more,
+Aptiv,3.5,385,Auto Components,1k-5k Employees,Forbes Global 2000,30 years old,Dublin +15 more
+Amrit Cement,4.2,397,Building Material,501-1k Employees,16 years old,Kolkata +27 more,
+Rashmi Group,3.7,397,Iron & Steel,10k-50k Employees,58 years old,Kolkata +20 more,
+Andritz Hydro Location India,3.7,379,Industrial Machinery,1k-5k Employees,28 years old,Graz +18 more,
+Mavenir Systems,3.8,377,Software Product,1k-5k Employees,7 years old,Richardson +16 more,
+Ciena,4.4,376,Telecom,1k-5k Employees,32 years old,Hanover +10 more,
+Hero Cycles,3.6,373,Automobile,5k-10k Employees,Public,68 years old,Gurgaon/Gurugram +38 more
+Emaar India Limited,3.7,361,Real Estate,501-1k Employees,Public,19 years old,Delhi/NCR +16 more
+Suprajit Engineering,3.8,359,Auto Components,501-1k Employees,Public,39 years old,Bangalore/Bengaluru +33 more
+TTK Healthcare,4.2,339,Healthcare,1k-5k Employees,Public,96 years old,Chennai +69 more
+Celebal Technologies,2.8,425,IT Services & Consulting,1k-5k Employees,Startup,9 years old,Jaipur +15 more
+ANAROCK Property Consultants,3.9,378,Real Estate,1k-5k Employees,7 years old,Mumbai +23 more,
+Wood Group,4.0,372,Engineering & Construction,1k-5k Employees,112 years old,Aberdeen City +25 more,
+Central Bank of India,4.0,369,Banking,10k-50k Employees,Public,113 years old,Mumbai +98 more
